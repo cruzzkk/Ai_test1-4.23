@@ -1,0 +1,1342 @@
+﻿Log file open, 10/03/19 15:26:56
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: Ai_test1
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.073468
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +5:30, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.23-CL-8386587
+LogInit: Engine Version: 4.23.0-8386587+++UE4+Release-4.23
+LogInit: Compatible Engine Version: 4.23.0-8386587+++UE4+Release-4.23
+LogInit: Net CL: 8386587
+LogInit: OS: Windows 10 (Release 1903) (), CPU: Intel(R) Core(TM) i5-7600 CPU @ 3.50GHz, GPU: NVIDIA GeForce GTX 1060 6GB
+LogInit: Compiled (64-bit): Aug 31 2019 02:04:44
+LogInit: Compiled with Visual C++: 19.16.27030.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.23
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.23/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 23
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 34
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 35
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 31
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 27
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 6
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 9
+LogInit: Presizing for max 16777216 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2019.10.03-09.56.57:949][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2019.10.03-09.56.57:949][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2019.10.03-09.56.57:949][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/5K!LL2/Documents/Unreal Projects/Ai_test1 4.23/Saved/Config/Windows/Engine.ini]
+[2019.10.03-09.56.57:949][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2019.10.03-09.56.57:949][  0]LogConfig: Setting CVar [[r.DefaultFeature.AmbientOcclusion:0]]
+[2019.10.03-09.56.57:949][  0]LogConfig: Setting CVar [[r.DefaultFeature.AmbientOcclusionStaticFraction:0]]
+[2019.10.03-09.56.57:949][  0]LogConfig: Setting CVar [[vr.InstancedStereo:1]]
+[2019.10.03-09.56.57:949][  0]LogConfig: Setting CVar [[r.SeparateTranslucency:0]]
+[2019.10.03-09.56.57:949][  0]LogConfig: Setting CVar [[r.HZBOcclusion:0]]
+[2019.10.03-09.56.57:949][  0]LogConfig: Setting CVar [[r.SSR.MaxRoughness:0]]
+[2019.10.03-09.56.57:949][  0]LogConfig: Setting CVar [[r.rhicmdbypass:0]]
+[2019.10.03-09.56.57:949][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/5K!LL2/Documents/Unreal Projects/Ai_test1 4.23/Saved/Config/Windows/Engine.ini]
+[2019.10.03-09.56.57:949][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/5K!LL2/Documents/Unreal Projects/Ai_test1 4.23/Saved/Config/Windows/Engine.ini]
+[2019.10.03-09.56.57:949][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2019.10.03-09.56.57:949][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2019.10.03-09.56.57:950][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2019.10.03-09.56.57:950][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2019.10.03-09.56.57:950][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2019.10.03-09.56.57:950][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2019.10.03-09.56.57:950][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2019.10.03-09.56.57:950][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2019.10.03-09.56.57:950][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2019.10.03-09.56.57:950][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2019.10.03-09.56.57:950][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2019.10.03-09.56.57:950][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2019.10.03-09.56.57:950][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2019.10.03-09.56.57:950][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/5K!LL2/Documents/Unreal Projects/Ai_test1 4.23/Saved/Config/Windows/Engine.ini]
+[2019.10.03-09.56.57:950][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2019.10.03-09.56.57:950][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2019.10.03-09.56.57:950][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2019.10.03-09.56.57:950][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2019.10.03-09.56.57:950][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2019.10.03-09.56.57:950][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2019.10.03-09.56.57:950][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2019.10.03-09.56.57:950][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2019.10.03-09.56.57:950][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2019.10.03-09.56.57:950][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2019.10.03-09.56.57:950][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2019.10.03-09.56.57:950][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2019.10.03-09.56.57:950][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2019.10.03-09.56.57:950][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/5K!LL2/Documents/Unreal Projects/Ai_test1 4.23/Saved/Config/Windows/Engine.ini]
+[2019.10.03-09.56.57:950][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/5K!LL2/Documents/Unreal Projects/Ai_test1 4.23/Saved/Config/Windows/Engine.ini]
+[2019.10.03-09.56.57:954][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/5K!LL2/Documents/Unreal Projects/Ai_test1 4.23/Saved/Config/Windows/Scalability.ini]
+[2019.10.03-09.56.57:954][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.10.03-09.56.57:954][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.10.03-09.56.57:954][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/5K!LL2/Documents/Unreal Projects/Ai_test1 4.23/Saved/Config/Windows/Scalability.ini]
+[2019.10.03-09.56.57:954][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:3]]
+[2019.10.03-09.56.57:954][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/5K!LL2/Documents/Unreal Projects/Ai_test1 4.23/Saved/Config/Windows/Scalability.ini]
+[2019.10.03-09.56.57:954][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.10.03-09.56.57:954][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.10.03-09.56.57:954][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.10.03-09.56.57:954][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.10.03-09.56.57:954][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.10.03-09.56.57:954][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.10.03-09.56.57:954][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.10.03-09.56.57:954][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.10.03-09.56.57:954][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.10.03-09.56.57:954][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.10.03-09.56.57:954][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.10.03-09.56.57:954][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.10.03-09.56.57:954][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.10.03-09.56.57:954][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.10.03-09.56.57:954][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.10.03-09.56.57:954][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.10.03-09.56.57:954][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.10.03-09.56.57:954][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.10.03-09.56.57:954][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/5K!LL2/Documents/Unreal Projects/Ai_test1 4.23/Saved/Config/Windows/Scalability.ini]
+[2019.10.03-09.56.57:954][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:0]]
+[2019.10.03-09.56.57:954][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.10.03-09.56.57:954][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.10.03-09.56.57:954][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:0]]
+[2019.10.03-09.56.57:954][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.10.03-09.56.57:954][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:0]]
+[2019.10.03-09.56.57:954][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.10.03-09.56.57:954][  0]LogConfig: Setting CVar [[r.LensFlareQuality:0]]
+[2019.10.03-09.56.57:954][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:0]]
+[2019.10.03-09.56.57:954][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.10.03-09.56.57:954][  0]LogConfig: Setting CVar [[r.BloomQuality:1]]
+[2019.10.03-09.56.57:954][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:0]]
+[2019.10.03-09.56.57:954][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.10.03-09.56.57:954][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.10.03-09.56.57:954][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.10.03-09.56.57:954][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.10.03-09.56.57:954][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.10.03-09.56.57:954][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.10.03-09.56.57:954][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.10.03-09.56.57:954][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.10.03-09.56.57:954][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.10.03-09.56.57:955][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.10.03-09.56.57:955][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.10.03-09.56.57:955][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.10.03-09.56.57:955][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.10.03-09.56.57:955][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.10.03-09.56.57:955][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.10.03-09.56.57:955][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.10.03-09.56.57:955][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.10.03-09.56.57:955][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.10.03-09.56.57:955][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/5K!LL2/Documents/Unreal Projects/Ai_test1 4.23/Saved/Config/Windows/Scalability.ini]
+[2019.10.03-09.56.57:955][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.10.03-09.56.57:955][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.10.03-09.56.57:955][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.10.03-09.56.57:955][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.10.03-09.56.57:955][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.10.03-09.56.57:955][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.10.03-09.56.57:955][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.10.03-09.56.57:955][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.10.03-09.56.57:955][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/5K!LL2/Documents/Unreal Projects/Ai_test1 4.23/Saved/Config/Windows/Scalability.ini]
+[2019.10.03-09.56.57:955][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:4]]
+[2019.10.03-09.56.57:955][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.10.03-09.56.57:955][  0]LogConfig: Setting CVar [[r.SSR.Quality:0]]
+[2019.10.03-09.56.57:955][  0]LogConfig: Setting CVar [[r.SceneColorFormat:2]]
+[2019.10.03-09.56.57:955][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.10.03-09.56.57:955][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:0]]
+[2019.10.03-09.56.57:955][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.10.03-09.56.57:955][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.10.03-09.56.57:955][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.10.03-09.56.57:955][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.10.03-09.56.57:955][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.10.03-09.56.57:955][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.10.03-09.56.57:955][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.10.03-09.56.57:955][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/5K!LL2/Documents/Unreal Projects/Ai_test1 4.23/Saved/Config/Windows/Scalability.ini]
+[2019.10.03-09.56.57:955][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.10.03-09.56.57:955][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.10.03-09.56.57:955][  0]LogInit: Selected Device Profile: [Windows]
+[2019.10.03-09.56.57:955][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.10.03-09.56.57:958][  0]LogHAL: Display: Platform has ~ 16 GB [17114382336 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.10.03-09.56.57:958][  0]LogInit: Going up to parent DeviceProfile []
+[2019.10.03-09.56.57:958][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/5K!LL2/Documents/Unreal Projects/Ai_test1 4.23/Saved/Config/Windows/Scalability.ini]
+[2019.10.03-09.56.57:958][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.10.03-09.56.57:959][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.10.03-09.56.57:959][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/5K!LL2/Documents/Unreal Projects/Ai_test1 4.23/Saved/Config/Windows/Scalability.ini]
+[2019.10.03-09.56.57:959][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:3]]
+[2019.10.03-09.56.57:959][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/5K!LL2/Documents/Unreal Projects/Ai_test1 4.23/Saved/Config/Windows/Scalability.ini]
+[2019.10.03-09.56.57:959][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.10.03-09.56.57:959][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.10.03-09.56.57:959][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.10.03-09.56.57:959][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.10.03-09.56.57:959][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.10.03-09.56.57:959][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.10.03-09.56.57:959][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.10.03-09.56.57:959][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.10.03-09.56.57:959][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.10.03-09.56.57:959][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.10.03-09.56.57:959][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.10.03-09.56.57:959][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.10.03-09.56.57:959][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.10.03-09.56.57:959][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.10.03-09.56.57:959][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.10.03-09.56.57:959][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.10.03-09.56.57:959][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.10.03-09.56.57:959][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.10.03-09.56.57:959][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/5K!LL2/Documents/Unreal Projects/Ai_test1 4.23/Saved/Config/Windows/Scalability.ini]
+[2019.10.03-09.56.57:959][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:0]]
+[2019.10.03-09.56.57:959][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.10.03-09.56.57:959][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.10.03-09.56.57:959][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:0]]
+[2019.10.03-09.56.57:959][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.10.03-09.56.57:959][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:0]]
+[2019.10.03-09.56.57:959][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.10.03-09.56.57:959][  0]LogConfig: Setting CVar [[r.LensFlareQuality:0]]
+[2019.10.03-09.56.57:959][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:0]]
+[2019.10.03-09.56.57:959][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.10.03-09.56.57:959][  0]LogConfig: Setting CVar [[r.BloomQuality:1]]
+[2019.10.03-09.56.57:959][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:0]]
+[2019.10.03-09.56.57:959][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.10.03-09.56.57:959][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.10.03-09.56.57:959][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.10.03-09.56.57:959][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.10.03-09.56.57:959][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.10.03-09.56.57:959][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.10.03-09.56.57:959][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.10.03-09.56.57:959][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.10.03-09.56.57:959][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.10.03-09.56.57:959][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.10.03-09.56.57:959][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.10.03-09.56.57:959][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.10.03-09.56.57:959][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.10.03-09.56.57:959][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.10.03-09.56.57:959][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.10.03-09.56.57:959][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.10.03-09.56.57:959][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.10.03-09.56.57:959][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.10.03-09.56.57:959][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/5K!LL2/Documents/Unreal Projects/Ai_test1 4.23/Saved/Config/Windows/Scalability.ini]
+[2019.10.03-09.56.57:959][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.10.03-09.56.57:959][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.10.03-09.56.57:959][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.10.03-09.56.57:959][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.10.03-09.56.57:959][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.10.03-09.56.57:959][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.10.03-09.56.57:959][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.10.03-09.56.57:959][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.10.03-09.56.57:959][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/5K!LL2/Documents/Unreal Projects/Ai_test1 4.23/Saved/Config/Windows/Scalability.ini]
+[2019.10.03-09.56.57:959][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:4]]
+[2019.10.03-09.56.57:959][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.10.03-09.56.57:959][  0]LogConfig: Setting CVar [[r.SSR.Quality:0]]
+[2019.10.03-09.56.57:959][  0]LogConfig: Setting CVar [[r.SceneColorFormat:2]]
+[2019.10.03-09.56.57:959][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.10.03-09.56.57:959][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:0]]
+[2019.10.03-09.56.57:959][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.10.03-09.56.57:959][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.10.03-09.56.57:959][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.10.03-09.56.57:959][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.10.03-09.56.57:959][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.10.03-09.56.57:959][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.10.03-09.56.57:959][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.10.03-09.56.57:960][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/5K!LL2/Documents/Unreal Projects/Ai_test1 4.23/Saved/Config/Windows/Scalability.ini]
+[2019.10.03-09.56.57:960][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.10.03-09.56.57:960][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.10.03-09.56.57:960][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2019.10.03-09.56.57:960][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2019.10.03-09.56.57:960][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2019.10.03-09.56.57:960][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/5K!LL2/Documents/Unreal Projects/Ai_test1 4.23/Saved/Config/Windows/Engine.ini]
+[2019.10.03-09.56.57:960][  0]LogInit: Computer: DESKTOP-LC882U3
+[2019.10.03-09.56.57:960][  0]LogInit: User: 5KLL2
+[2019.10.03-09.56.57:960][  0]LogInit: CPU Page size=4096, Cores=4
+[2019.10.03-09.56.57:960][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2019.10.03-09.56.57:960][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2019.10.03-09.56.57:960][  0]LogMemory: Platform Memory Stats for Windows
+[2019.10.03-09.56.57:960][  0]LogMemory: Process Physical Memory: 108.46 MB used, 108.46 MB peak
+[2019.10.03-09.56.57:960][  0]LogMemory: Process Virtual Memory: 106.31 MB used, 106.31 MB peak
+[2019.10.03-09.56.57:960][  0]LogMemory: Physical Memory: 9328.97 MB used,  6992.58 MB free, 16321.55 MB total
+[2019.10.03-09.56.57:961][  0]LogMemory: Virtual Memory: 4685.45 MB used,  134213040.00 MB free, 134217728.00 MB total
+[2019.10.03-09.56.57:963][  0]LogWindows: WindowsPlatformFeatures enabled
+[2019.10.03-09.56.57:985][  0]LogInit: Using OS detected language (en-US).
+[2019.10.03-09.56.57:985][  0]LogInit: Using OS detected locale (en-IN).
+[2019.10.03-09.56.57:986][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2019.10.03-09.56.58:205][  0]LogInit: Setting process to per monitor DPI aware
+[2019.10.03-09.56.58:250][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.10.03-09.56.58:250][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.10.03-09.56.58:398][  0]LogD3D11RHI: D3D11 adapters:
+[2019.10.03-09.56.58:457][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1060 6GB' (Feature Level 11_0)
+[2019.10.03-09.56.58:457][  0]LogD3D11RHI:       6052/0/8160 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2019.10.03-09.56.58:459][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.10.03-09.56.58:459][  0]LogD3D11RHI:       0/0/8160 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.10.03-09.56.58:459][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.10.03-09.56.58:471][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.10.03-09.56.58:471][  0]LogD3D11RHI:     GPU DeviceId: 0x1c03 (for the marketing name, search the web for "GPU Device Id")
+[2019.10.03-09.56.58:472][  0]LogWindows: EnumDisplayDevices:
+[2019.10.03-09.56.58:472][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1060 6GB' (P:1 D:1)
+[2019.10.03-09.56.58:472][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1060 6GB' (P:0 D:1)
+[2019.10.03-09.56.58:472][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1060 6GB' (P:0 D:0)
+[2019.10.03-09.56.58:473][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1060 6GB' (P:0 D:0)
+[2019.10.03-09.56.58:473][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2019.10.03-09.56.58:473][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1060 6GB
+[2019.10.03-09.56.58:473][  0]LogD3D11RHI:   Driver Version: 436.30 (internal:26.21.14.3630, unified:436.30)
+[2019.10.03-09.56.58:473][  0]LogD3D11RHI:      Driver Date: 9-5-2019
+[2019.10.03-09.56.58:473][  0]LogRHI: Texture pool is 4236 MB (70% of 6052 MB)
+[2019.10.03-09.56.58:516][  0]LogD3D11RHI: Async texture creation enabled
+[2019.10.03-09.56.58:543][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2019.10.03-09.56.59:022][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2019.10.03-09.56.59:030][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2019.10.03-09.56.59:039][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2019.10.03-09.56.59:047][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2019.10.03-09.56.59:056][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2019.10.03-09.56.59:065][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2019.10.03-09.56.59:074][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2019.10.03-09.56.59:084][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2019.10.03-09.56.59:088][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2019.10.03-09.56.59:128][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2019.10.03-09.56.59:128][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2019.10.03-09.56.59:128][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2019.10.03-09.56.59:128][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2019.10.03-09.56.59:128][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2019.10.03-09.56.59:128][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2019.10.03-09.56.59:128][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2019.10.03-09.56.59:128][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2019.10.03-09.56.59:128][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2019.10.03-09.56.59:128][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2019.10.03-09.56.59:128][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2019.10.03-09.56.59:128][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2019.10.03-09.56.59:128][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2019.10.03-09.56.59:128][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2019.10.03-09.56.59:128][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2019.10.03-09.56.59:128][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2019.10.03-09.56.59:128][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2019.10.03-09.56.59:128][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2019.10.03-09.56.59:130][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2019.10.03-09.56.59:148][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2019.10.03-09.56.59:148][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2019.10.03-09.56.59:162][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2019.10.03-09.56.59:162][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2019.10.03-09.56.59:170][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2019.10.03-09.56.59:178][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2019.10.03-09.56.59:185][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2019.10.03-09.56.59:194][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2019.10.03-09.56.59:222][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2019.10.03-09.56.59:222][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2019.10.03-09.56.59:222][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.10.03-09.56.59:229][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2019.10.03-09.56.59:277][  0]LogShaderCompilers: Guid format shader working directory is -23 characters bigger than the processId version (../../../../../../Users/5K!LL2/Documents/Unreal Projects/Ai_test1 4.23/Intermediate/Shaders/WorkingDirectory/7740/).
+[2019.10.03-09.56.59:278][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/5K!LL2/AppData/Local/Temp/UnrealShaderWorkingDir/8EC73EAA4764B40AB1E8E49B1AB8AC1A/'.
+[2019.10.03-09.56.59:279][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.10.03-09.56.59:279][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.10.03-09.56.59:279][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.10.03-09.56.59:947][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.10.03-09.57.00:035][  0]LogDerivedDataCache: Loaded boot cache 0.09s 77MB C:/Users/5K!LL2/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc.
+[2019.10.03-09.57.00:035][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/5K!LL2/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc
+[2019.10.03-09.57.00:035][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/5K!LL2/Documents/Unreal Projects/Ai_test1 4.23/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.10.03-09.57.00:035][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.10.03-09.57.00:035][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/5K!LL2/Documents/Unreal Projects/Ai_test1 4.23/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.10.03-09.57.00:035][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.10.03-09.57.00:047][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.10.03-09.57.00:047][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.10.03-09.57.00:047][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2019.10.03-09.57.00:048][  0]LogDerivedDataCache: Using Local data cache path C:/Users/5K!LL2/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.10.03-09.57.00:048][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.10.03-09.57.00:048][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.10.03-09.57.00:070][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.10.03-09.57.00:072][  0]LogSlate: Using FreeType 2.6.0
+[2019.10.03-09.57.00:073][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.10.03-09.57.00:130][  0]LogAssetRegistry: FAssetRegistry took 0.0029 seconds to start up
+[2019.10.03-09.57.00:418][  0]LogInit: Selected Device Profile: [Windows]
+[2019.10.03-09.57.00:572][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.10.03-09.57.00:572][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2019.10.03-09.57.00:572][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.10.03-09.57.00:572][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2019.10.03-09.57.00:572][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2019.10.03-09.57.00:581][  0]LogNetVersion: Ai_test1 1.0.0, NetCL: 8386587, EngineNetVer: 11, GameNetVer: 0 (Checksum: 3006622118)
+[2019.10.03-09.57.01:075][  0]LogPackageLocalizationCache: Processed 12 localized package path(s) for 1 prioritized culture(s) in 0.065713 seconds
+[2019.10.03-09.57.01:084][  0]LogUObjectArray: 43444 objects as part of root set at end of initial load.
+[2019.10.03-09.57.01:084][  0]LogUObjectAllocator: 7548648 out of 0 bytes used by permanent object pool.
+[2019.10.03-09.57.01:084][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.10.03-09.57.01:907][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.10.03-09.57.01:910][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.10.03-09.57.01:970][  0]SourceControl: Source control is disabled
+[2019.10.03-09.57.01:971][  0]SourceControl: Source control is disabled
+[2019.10.03-09.57.01:972][  0]SourceControl: Source control is disabled
+[2019.10.03-09.57.01:973][  0]SourceControl: Source control is disabled
+[2019.10.03-09.57.02:078][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.10.03-09.57.02:272][  0]LogOcInput: OculusInput pre-init called
+[2019.10.03-09.57.02:869][  0]LogEngine: Initializing Engine...
+[2019.10.03-09.57.02:869][  0]LogHMD: Oculus plugin initialized. Version: 4.23.0-8386587+++UE4+Release-4.23, OVRPlugin: 1.37.0
+[2019.10.03-09.57.02:871][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2019.10.03-09.57.03:135][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.10.03-09.57.03:146][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.10.03-09.57.03:204][  0]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.10.03-09.57.03:230][  0]LogInit: FAudioDevice initialized.
+[2019.10.03-09.57.03:231][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.10.03-09.57.03:534][  0]LogDerivedDataCache: Saved boot cache 0.30s 77MB C:/Users/5K!LL2/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc.
+[2019.10.03-09.57.03:548][  0]LogInit: Texture streaming: Enabled
+[2019.10.03-09.57.03:563][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.10.03-09.57.03:630][  0]LogInit: Transaction tracking system initialized
+[2019.10.03-09.57.03:658][  0]BlueprintLog: New page: Editor Load
+[2019.10.03-09.57.03:723][  0]LocalizationService: Localization service is disabled
+[2019.10.03-09.57.03:962][  0]LogFileCache: Scanning file cache for directory 'C:/Users/5K!LL2/Documents/Unreal Projects/Ai_test1 4.23/Content/' took 0.01s
+[2019.10.03-09.57.03:962][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.10.03-09.57.03:963][  0]LogCook: Display: Mobile HDR setting 1
+[2019.10.03-09.57.04:132][  0]SourceControl: Source control is disabled
+[2019.10.03-09.57.04:132][  0]Cmd: MAP LOAD FILE="../../../../../../Users/5K!LL2/Documents/Unreal Projects/Ai_test1 4.23/Content/VirtualRealityBP/Maps/StartupMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.10.03-09.57.04:151][  0]LightingResults: New page: Lighting Build
+[2019.10.03-09.57.04:153][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2019.10.03-09.57.04:153][  0]MapCheck: New page: Map Check
+[2019.10.03-09.57.04:153][  0]LightingResults: New page: Lighting Build
+[2019.10.03-09.57.04:175][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.77ms
+[2019.10.03-09.57.04:626][  0]LogAIModule: Creating AISystem for world StartupMap
+[2019.10.03-09.57.04:631][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.10.03-09.57.04:653][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2019.10.03-09.57.04:653][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.10.03-09.57.04:654][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.305ms to complete.
+[2019.10.03-09.57.04:654][  0]LogFileHelpers: Loading map 'StartupMap' took 0.522
+[2019.10.03-09.57.04:780][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.03-09.57.04:788][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.03-09.57.04:796][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.03-09.57.04:803][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.03-09.57.04:808][  0]LogCollectionManager: Loaded 0 collections in 0.001111 seconds
+[2019.10.03-09.57.04:813][  0]LogFileCache: Scanning file cache for directory 'C:/Users/5K!LL2/Documents/Unreal Projects/Ai_test1 4.23/Saved/Collections/' took 0.00s
+[2019.10.03-09.57.04:813][  0]LogFileCache: Scanning file cache for directory 'C:/Users/5K!LL2/Documents/Unreal Projects/Ai_test1 4.23/Content/Developers/5KLL2/Collections/' took 0.00s
+[2019.10.03-09.57.04:813][  0]LogFileCache: Scanning file cache for directory 'C:/Users/5K!LL2/Documents/Unreal Projects/Ai_test1 4.23/Content/Collections/' took 0.00s
+[2019.10.03-09.57.04:813][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000003 seconds
+[2019.10.03-09.57.04:822][  0]LogContentBrowser: Native class hierarchy populated in 0.0085 seconds. Added 2870 classes and 682 folders.
+[2019.10.03-09.57.04:828][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.10.03-09.57.04:871][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.10.03-09.57.04:876][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2019.10.03-09.57.04:953][  0]LogSlate: Took 0.000159 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.10.03-09.57.04:956][  0]LogSlate: Took 0.000175 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.10.03-09.57.04:958][  0]LogSlate: Took 0.000131 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.10.03-09.57.05:017][  0]LogRenderer: Reallocating scene render targets to support 1076x528 Format 26 NumSamples 1 (Frame:1).
+[2019.10.03-09.57.05:208][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.10.03-09.57.05:208][  0]LogLoad: (Engine Initialization) Total time: 10.16 seconds
+[2019.10.03-09.57.05:208][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.10.03-09.57.05:221][  0]LogOcInput: OculusInput is initialized
+[2019.10.03-09.57.05:296][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.10.03-09.57.05:324][  0]LogSlate: Took 0.000223 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.10.03-09.57.06:509][ 19]LogAssetRegistry: Asset discovery search completed in 6.3804 seconds
+[2019.10.03-09.57.06:513][ 19]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000007 seconds (found 0 objects)
+[2019.10.03-09.57.06:513][ 19]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000078 seconds (updated 0 objects)
+[2019.10.03-09.57.10:522][406]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.03-09.57.24:743][738]LogLinker: Warning: While loading '../../../../../../Users/5K!LL2/Documents/Unreal Projects/Ai_test1 4.23/Content/ai_snail/AI/Fly_test/snail.uasset' failed to load '/Game/AI/Fly_test/worm_bsp/wormBP': Can't find file.
+[2019.10.03-09.57.24:744][738]LogLinker: Warning: While loading '../../../../../../Users/5K!LL2/Documents/Unreal Projects/Ai_test1 4.23/Content/ai_snail/AI/Fly_test/snail.uasset' failed to load '/Game/AI/Fly_test/worm_bsp/wormBP': Can't find file.
+[2019.10.03-09.57.24:744][738]LogLinker: Warning: While loading '../../../../../../Users/5K!LL2/Documents/Unreal Projects/Ai_test1 4.23/Content/ai_snail/AI/Fly_test/snail.uasset' failed to load '/Game/1M_Cube_Blueprint': Can't find file.
+[2019.10.03-09.57.24:744][738]LogLinker: Warning: While loading '../../../../../../Users/5K!LL2/Documents/Unreal Projects/Ai_test1 4.23/Content/ai_snail/AI/Fly_test/snail.uasset' failed to load '/Game/1M_Cube_Blueprint': Can't find file.
+[2019.10.03-09.57.24:744][738]LogLinker: Warning: While loading '../../../../../../Users/5K!LL2/Documents/Unreal Projects/Ai_test1 4.23/Content/ai_snail/AI/Fly_test/snail.uasset' failed to load '/Game/AI/Fly_test/BUG_FLy_AI': Can't find file.
+[2019.10.03-09.57.24:744][738]LogLinker: Warning: While loading '../../../../../../Users/5K!LL2/Documents/Unreal Projects/Ai_test1 4.23/Content/ai_snail/AI/Fly_test/snail.uasset' failed to load '/Game/AI/Fly_test/BUG_FLy_AI': Can't find file.
+[2019.10.03-09.57.24:744][738]LogLinker: Warning: While loading '../../../../../../Users/5K!LL2/Documents/Unreal Projects/Ai_test1 4.23/Content/ai_snail/AI/Fly_test/snail.uasset' failed to load '/Game/AI/Fly_test/Snail_bp_interface': Can't find file.
+[2019.10.03-09.57.24:745][738]LogLinker: Warning: While loading '../../../../../../Users/5K!LL2/Documents/Unreal Projects/Ai_test1 4.23/Content/ai_snail/AI/Fly_test/snail.uasset' failed to load '/Game/AI/Fly_test/Snail_bp_interface': Can't find file.
+[2019.10.03-09.57.24:745][738]LogLinker: Warning: While loading '../../../../../../Users/5K!LL2/Documents/Unreal Projects/Ai_test1 4.23/Content/ai_snail/AI/Fly_test/snail.uasset' failed to load '/Script/ApexDestruction': Can't find file.
+[2019.10.03-09.57.24:745][738]LogLinker: Warning: While loading '../../../../../../Users/5K!LL2/Documents/Unreal Projects/Ai_test1 4.23/Content/ai_snail/AI/Fly_test/snail.uasset' failed to load '/Script/ApexDestruction': Can't find file.
+[2019.10.03-09.57.24:745][738]LogLinker: Warning: While loading '../../../../../../Users/5K!LL2/Documents/Unreal Projects/Ai_test1 4.23/Content/ai_snail/AI/Fly_test/snail.uasset' failed to load '/Script/ApexDestruction': Can't find file.
+[2019.10.03-09.57.24:745][738]LogLinker: Warning: While loading '../../../../../../Users/5K!LL2/Documents/Unreal Projects/Ai_test1 4.23/Content/ai_snail/AI/Fly_test/snail.uasset' failed to load '/Script/ApexDestruction': Can't find file.
+[2019.10.03-09.57.24:746][738]LogLinker: Warning: While loading '../../../../../../Users/5K!LL2/Documents/Unreal Projects/Ai_test1 4.23/Content/ai_snail/AI/Fly_test/snail.uasset' failed to load '/Game/1M_Cube_Blueprint': Can't find file.
+[2019.10.03-09.57.24:746][738]LogLinker: Warning: While loading '../../../../../../Users/5K!LL2/Documents/Unreal Projects/Ai_test1 4.23/Content/ai_snail/AI/Fly_test/snail.uasset' failed to load '/Game/1M_Cube_Blueprint': Can't find file.
+[2019.10.03-09.57.24:746][738]LogLinker: Warning: While loading '../../../../../../Users/5K!LL2/Documents/Unreal Projects/Ai_test1 4.23/Content/ai_snail/AI/Fly_test/snail.uasset' failed to load '/Game/AI/Fly_test/Snail_widget/snail_widget': Can't find file.
+[2019.10.03-09.57.24:746][738]LogLinker: Warning: While loading '../../../../../../Users/5K!LL2/Documents/Unreal Projects/Ai_test1 4.23/Content/ai_snail/AI/Fly_test/snail.uasset' failed to load '/Game/AI/Fly_test/Snail_widget/snail_widget': Can't find file.
+[2019.10.03-09.57.24:746][738]LogLinker: Warning: While loading '../../../../../../Users/5K!LL2/Documents/Unreal Projects/Ai_test1 4.23/Content/ai_snail/AI/Fly_test/snail.uasset' failed to load '/Script/ApexDestruction': Can't find file.
+[2019.10.03-09.57.24:746][738]LogLinker: Warning: While loading '../../../../../../Users/5K!LL2/Documents/Unreal Projects/Ai_test1 4.23/Content/ai_snail/AI/Fly_test/snail.uasset' failed to load '/Script/ApexDestruction': Can't find file.
+[2019.10.03-09.57.24:746][738]LogLinker: Warning: While loading '../../../../../../Users/5K!LL2/Documents/Unreal Projects/Ai_test1 4.23/Content/ai_snail/AI/Fly_test/snail.uasset' failed to load '/Game/1M_Cube_Blueprint': Can't find file.
+[2019.10.03-09.57.24:746][738]LogLinker: Warning: While loading '../../../../../../Users/5K!LL2/Documents/Unreal Projects/Ai_test1 4.23/Content/ai_snail/AI/Fly_test/snail.uasset' failed to load '/Game/1M_Cube_Blueprint': Can't find file.
+[2019.10.03-09.57.24:746][738]LogLinker: Warning: While loading '../../../../../../Users/5K!LL2/Documents/Unreal Projects/Ai_test1 4.23/Content/ai_snail/AI/Fly_test/snail.uasset' failed to load '/Game/AI/Fly_test/BUG_FLy_AI': Can't find file.
+[2019.10.03-09.57.24:747][738]LogLinker: Warning: While loading '../../../../../../Users/5K!LL2/Documents/Unreal Projects/Ai_test1 4.23/Content/ai_snail/AI/Fly_test/snail.uasset' failed to load '/Game/AI/Fly_test/BUG_FLy_AI': Can't find file.
+[2019.10.03-09.57.24:747][738]LogLinker: Warning: While loading '../../../../../../Users/5K!LL2/Documents/Unreal Projects/Ai_test1 4.23/Content/ai_snail/AI/Fly_test/snail.uasset' failed to load '/Game/AI/Fly_test/Snail_bp_interface': Can't find file.
+[2019.10.03-09.57.24:747][738]LogLinker: Warning: While loading '../../../../../../Users/5K!LL2/Documents/Unreal Projects/Ai_test1 4.23/Content/ai_snail/AI/Fly_test/snail.uasset' failed to load '/Game/AI/Fly_test/Snail_bp_interface': Can't find file.
+[2019.10.03-09.57.24:747][738]LogLinker: Warning: While loading '../../../../../../Users/5K!LL2/Documents/Unreal Projects/Ai_test1 4.23/Content/ai_snail/AI/Fly_test/snail.uasset' failed to load '/Game/AI/Fly_test/Snail_widget/snail_widget': Can't find file.
+[2019.10.03-09.57.24:747][738]LogLinker: Warning: While loading '../../../../../../Users/5K!LL2/Documents/Unreal Projects/Ai_test1 4.23/Content/ai_snail/AI/Fly_test/snail.uasset' failed to load '/Game/AI/Fly_test/Snail_widget/snail_widget': Can't find file.
+[2019.10.03-09.57.24:747][738]LogLinker: Warning: While loading '../../../../../../Users/5K!LL2/Documents/Unreal Projects/Ai_test1 4.23/Content/ai_snail/AI/Fly_test/snail.uasset' failed to load '/Game/AI/Fly_test/worm_bsp/Worm': Can't find file.
+[2019.10.03-09.57.24:748][738]LogLinker: Warning: While loading '../../../../../../Users/5K!LL2/Documents/Unreal Projects/Ai_test1 4.23/Content/ai_snail/AI/Fly_test/snail.uasset' failed to load '/Game/AI/Fly_test/worm_bsp/Worm': Can't find file.
+[2019.10.03-09.57.24:748][738]LogLinker: Warning: While loading '../../../../../../Users/5K!LL2/Documents/Unreal Projects/Ai_test1 4.23/Content/ai_snail/AI/Fly_test/snail.uasset' failed to load '/Game/AI/Fly_test/worm_bsp/wormBP': Can't find file.
+[2019.10.03-09.57.24:748][738]LogLinker: Warning: While loading '../../../../../../Users/5K!LL2/Documents/Unreal Projects/Ai_test1 4.23/Content/ai_snail/AI/Fly_test/snail.uasset' failed to load '/Game/AI/Fly_test/worm_bsp/wormBP': Can't find file.
+[2019.10.03-09.57.24:748][738]LogLinker: Warning: While loading '../../../../../../Users/5K!LL2/Documents/Unreal Projects/Ai_test1 4.23/Content/ai_snail/AI/Fly_test/snail.uasset' failed to load '/Script/ApexDestruction': Can't find file.
+[2019.10.03-09.57.24:748][738]LogLinker: Warning: While loading '../../../../../../Users/5K!LL2/Documents/Unreal Projects/Ai_test1 4.23/Content/ai_snail/AI/Fly_test/snail.uasset' failed to load '/Script/ApexDestruction': Can't find file.
+[2019.10.03-09.57.24:748][738]LogLinker: Warning: While loading '../../../../../../Users/5K!LL2/Documents/Unreal Projects/Ai_test1 4.23/Content/ai_snail/AI/Fly_test/snail.uasset' failed to load '/Game/AI/Fly_test/worm_bsp/Worm': Can't find file.
+[2019.10.03-09.57.24:748][738]LogLinker: Warning: While loading '../../../../../../Users/5K!LL2/Documents/Unreal Projects/Ai_test1 4.23/Content/ai_snail/AI/Fly_test/snail.uasset' failed to load '/Game/AI/Fly_test/worm_bsp/Worm': Can't find file.
+[2019.10.03-09.57.24:748][738]LogLinker: Warning: While loading '../../../../../../Users/5K!LL2/Documents/Unreal Projects/Ai_test1 4.23/Content/ai_snail/AI/Fly_test/snail.uasset' failed to load '/Game/AI/Fly_test/Snail_widget/snail_widget': Can't find file.
+[2019.10.03-09.57.24:749][738]LogLinker: Warning: While loading '../../../../../../Users/5K!LL2/Documents/Unreal Projects/Ai_test1 4.23/Content/ai_snail/AI/Fly_test/snail.uasset' failed to load '/Game/AI/Fly_test/Snail_widget/snail_widget': Can't find file.
+[2019.10.03-09.57.24:751][738]LogLinker: Warning: Failed to load '/Game/1M_Cube_Blueprint': Can't find file.
+[2019.10.03-09.57.24:751][738]LogLinker: Warning: Failed to load '/Game/1M_Cube_Blueprint': Can't find file.
+[2019.10.03-09.57.24:751][738]LogLinker: Warning: Failed to load '/Game/AI/Fly_test/Snail_bp_interface': Can't find file.
+[2019.10.03-09.57.24:751][738]LogLinker: Warning: Failed to load '/Game/AI/Fly_test/Snail_bp_interface': Can't find file.
+[2019.10.03-09.57.24:751][738]LogLinker: Warning: Failed to load '/Script/ApexDestruction': Can't find file.
+[2019.10.03-09.57.24:751][738]LogLinker: Warning: Failed to load '/Script/ApexDestruction': Can't find file.
+[2019.10.03-09.57.24:751][738]LogLinker: Warning: Failed to load '/Game/AI/Fly_test/Snail_widget/snail_widget': Can't find file.
+[2019.10.03-09.57.24:751][738]LogLinker: Warning: Failed to load '/Game/AI/Fly_test/Snail_widget/snail_widget': Can't find file.
+[2019.10.03-09.57.24:752][738]LogLinker: Warning: Failed to load '/Game/AI/Fly_test/worm_bsp/wormBP': Can't find file.
+[2019.10.03-09.57.24:752][738]LogLinker: Warning: Failed to load '/Game/AI/Fly_test/worm_bsp/wormBP': Can't find file.
+[2019.10.03-09.57.24:752][738]LogLinker: Warning: Failed to load '/Game/1M_Cube_Blueprint': Can't find file.
+[2019.10.03-09.57.24:752][738]LogLinker: Warning: Failed to load '/Game/1M_Cube_Blueprint': Can't find file.
+[2019.10.03-09.57.24:752][738]LogLinker: Warning: Failed to load '/Game/AI/Fly_test/BUG_FLy_AI': Can't find file.
+[2019.10.03-09.57.24:752][738]LogLinker: Warning: Failed to load '/Game/AI/Fly_test/BUG_FLy_AI': Can't find file.
+[2019.10.03-09.57.24:752][738]LogLinker: Warning: Failed to load '/Game/AI/Fly_test/Snail_bp_interface': Can't find file.
+[2019.10.03-09.57.24:753][738]LogLinker: Warning: Failed to load '/Game/AI/Fly_test/Snail_bp_interface': Can't find file.
+[2019.10.03-09.57.24:753][738]LogLinker: Warning: Failed to load '/Script/ApexDestruction': Can't find file.
+[2019.10.03-09.57.24:753][738]LogLinker: Warning: Failed to load '/Script/ApexDestruction': Can't find file.
+[2019.10.03-09.57.24:753][738]LogLinker: Warning: Failed to load '/Script/ApexDestruction': Can't find file.
+[2019.10.03-09.57.24:753][738]LogLinker: Warning: Failed to load '/Script/ApexDestruction': Can't find file.
+[2019.10.03-09.57.24:753][738]LogLinker: Warning: Failed to load '/Game/1M_Cube_Blueprint': Can't find file.
+[2019.10.03-09.57.24:753][738]LogLinker: Warning: Failed to load '/Game/1M_Cube_Blueprint': Can't find file.
+[2019.10.03-09.57.24:753][738]LogLinker: Warning: Failed to load '/Game/AI/Fly_test/Snail_widget/snail_widget': Can't find file.
+[2019.10.03-09.57.24:753][738]LogLinker: Warning: Failed to load '/Game/AI/Fly_test/Snail_widget/snail_widget': Can't find file.
+[2019.10.03-09.57.24:753][738]LogLinker: Warning: Failed to load '/Script/ApexDestruction': Can't find file.
+[2019.10.03-09.57.24:753][738]LogLinker: Warning: Failed to load '/Script/ApexDestruction': Can't find file.
+[2019.10.03-09.57.24:753][738]LogLinker: Warning: Failed to load '/Game/1M_Cube_Blueprint': Can't find file.
+[2019.10.03-09.57.24:754][738]LogLinker: Warning: Failed to load '/Game/1M_Cube_Blueprint': Can't find file.
+[2019.10.03-09.57.24:754][738]LogLinker: Warning: Failed to load '/Game/AI/Fly_test/BUG_FLy_AI': Can't find file.
+[2019.10.03-09.57.24:754][738]LogLinker: Warning: Failed to load '/Game/AI/Fly_test/BUG_FLy_AI': Can't find file.
+[2019.10.03-09.57.24:754][738]LogLinker: Warning: Failed to load '/Game/AI/Fly_test/Snail_bp_interface': Can't find file.
+[2019.10.03-09.57.24:754][738]LogLinker: Warning: Failed to load '/Game/AI/Fly_test/Snail_bp_interface': Can't find file.
+[2019.10.03-09.57.24:754][738]LogLinker: Warning: Failed to load '/Game/AI/Fly_test/Snail_widget/snail_widget': Can't find file.
+[2019.10.03-09.57.24:754][738]LogLinker: Warning: Failed to load '/Game/AI/Fly_test/Snail_widget/snail_widget': Can't find file.
+[2019.10.03-09.57.24:754][738]LogLinker: Warning: Failed to load '/Game/AI/Fly_test/worm_bsp/Worm': Can't find file.
+[2019.10.03-09.57.24:755][738]LogLinker: Warning: Failed to load '/Game/AI/Fly_test/worm_bsp/Worm': Can't find file.
+[2019.10.03-09.57.24:755][738]LogLinker: Warning: Failed to load '/Game/AI/Fly_test/worm_bsp/wormBP': Can't find file.
+[2019.10.03-09.57.24:755][738]LogLinker: Warning: Failed to load '/Game/AI/Fly_test/worm_bsp/wormBP': Can't find file.
+[2019.10.03-09.57.24:755][738]LogLinker: Warning: Failed to load '/Script/ApexDestruction': Can't find file.
+[2019.10.03-09.57.24:755][738]LogLinker: Warning: Failed to load '/Script/ApexDestruction': Can't find file.
+[2019.10.03-09.57.24:755][738]LogLinker: Warning: Failed to load '/Game/AI/Fly_test/worm_bsp/Worm': Can't find file.
+[2019.10.03-09.57.24:755][738]LogLinker: Warning: Failed to load '/Game/AI/Fly_test/worm_bsp/Worm': Can't find file.
+[2019.10.03-09.57.24:755][738]LogLinker: Warning: Failed to load '/Game/AI/Fly_test/Snail_widget/snail_widget': Can't find file.
+[2019.10.03-09.57.24:755][738]LogLinker: Warning: Failed to load '/Game/AI/Fly_test/Snail_widget/snail_widget': Can't find file.
+[2019.10.03-09.57.24:756][738]LogLinker: Warning: While loading '../../../../../../Users/5K!LL2/Documents/Unreal Projects/Ai_test1 4.23/Content/ai_snail/AI/Fly_test/snail.uasset' failed to load '/Game/AI/Fly_test/BUG_FLy_AI': Can't find file.
+[2019.10.03-09.57.24:756][738]LoadErrors: Failed to load /Game/AI/Fly_test/BUG_FLy_AI.BUG_FLy_AI_C Referenced by Default__snail_C
+[2019.10.03-09.57.24:756][738]LogLinker: Warning: While loading '../../../../../../Users/5K!LL2/Documents/Unreal Projects/Ai_test1 4.23/Content/ai_snail/AI/Fly_test/snail.uasset' failed to load '/Game/AI/Fly_test/BUG_FLy_AI': Can't find file.
+[2019.10.03-09.57.24:756][738]LogLinker: Warning: While loading '../../../../../../Users/5K!LL2/Documents/Unreal Projects/Ai_test1 4.23/Content/ai_snail/AI/Fly_test/snail.uasset' failed to load '/Game/AI/Fly_test/worm_bsp/wormBP': Can't find file.
+[2019.10.03-09.57.24:756][738]LoadErrors: Failed to load /Game/AI/Fly_test/worm_bsp/wormBP.wormBP_C Referenced by Default__snail_C
+[2019.10.03-09.57.24:756][738]LogLinker: Warning: While loading '../../../../../../Users/5K!LL2/Documents/Unreal Projects/Ai_test1 4.23/Content/ai_snail/AI/Fly_test/snail.uasset' failed to load '/Game/AI/Fly_test/worm_bsp/wormBP': Can't find file.
+[2019.10.03-09.57.24:757][738]LogLinker: Warning: While loading '../../../../../../Users/5K!LL2/Documents/Unreal Projects/Ai_test1 4.23/Content/ai_snail/AI/Fly_test/snail.uasset' failed to load '/Game/AI/Fly_test/worm_bsp/Worm': Can't find file.
+[2019.10.03-09.57.24:757][738]LoadErrors: Failed to load /Game/AI/Fly_test/worm_bsp/Worm.Worm Referenced by Default__snail_C
+[2019.10.03-09.57.24:757][738]LogLinker: Warning: While loading '../../../../../../Users/5K!LL2/Documents/Unreal Projects/Ai_test1 4.23/Content/ai_snail/AI/Fly_test/snail.uasset' failed to load '/Game/AI/Fly_test/worm_bsp/Worm': Can't find file.
+[2019.10.03-09.57.24:757][738]LogLinker: Warning: While loading '../../../../../../Users/5K!LL2/Documents/Unreal Projects/Ai_test1 4.23/Content/ai_snail/AI/Fly_test/snail.uasset' failed to load '/Game/AI/Fly_test/Snail_bp_interface': Can't find file.
+[2019.10.03-09.57.24:757][738]LoadErrors: Failed to load /Game/AI/Fly_test/Snail_bp_interface.Snail_bp_interface_C Referenced by snail
+[2019.10.03-09.57.24:758][738]LogLinker: Warning: While loading '../../../../../../Users/5K!LL2/Documents/Unreal Projects/Ai_test1 4.23/Content/ai_snail/AI/Fly_test/snail.uasset' failed to load '/Game/AI/Fly_test/Snail_bp_interface': Can't find file.
+[2019.10.03-09.57.24:759][738]LogLinker: Warning: While loading '../../../../../../Users/5K!LL2/Documents/Unreal Projects/Ai_test1 4.23/Content/ai_snail/AI/Fly_test/snail.uasset' failed to load '/Game/AI/Fly_test/Snail_bp_interface': Can't find file.
+[2019.10.03-09.57.24:759][738]LoadErrors: Failed to load /Game/AI/Fly_test/Snail_bp_interface.Snail_bp_interface_C Referenced by K2Node_Event_3
+[2019.10.03-09.57.24:759][738]LogLinker: Warning: While loading '../../../../../../Users/5K!LL2/Documents/Unreal Projects/Ai_test1 4.23/Content/ai_snail/AI/Fly_test/snail.uasset' failed to load '/Game/AI/Fly_test/Snail_bp_interface': Can't find file.
+[2019.10.03-09.57.24:759][738]LogLinker: Warning: While loading '../../../../../../Users/5K!LL2/Documents/Unreal Projects/Ai_test1 4.23/Content/ai_snail/AI/Fly_test/snail.uasset' failed to load '/Game/AI/Fly_test/Snail_bp_interface': Can't find file.
+[2019.10.03-09.57.24:760][738]LogLinker: Warning: While loading '../../../../../../Users/5K!LL2/Documents/Unreal Projects/Ai_test1 4.23/Content/ai_snail/AI/Fly_test/snail.uasset' failed to load '/Game/AI/Fly_test/Snail_bp_interface': Can't find file.
+[2019.10.03-09.57.24:760][738]LogLinker: Warning: While loading '../../../../../../Users/5K!LL2/Documents/Unreal Projects/Ai_test1 4.23/Content/ai_snail/AI/Fly_test/snail.uasset' failed to load '/Game/AI/Fly_test/Snail_bp_interface': Can't find file.
+[2019.10.03-09.57.24:760][738]LoadErrors: Failed to load /Game/AI/Fly_test/Snail_bp_interface.Snail_bp_interface_C Referenced by K2Node_Event_6
+[2019.10.03-09.57.24:760][738]LogLinker: Warning: While loading '../../../../../../Users/5K!LL2/Documents/Unreal Projects/Ai_test1 4.23/Content/ai_snail/AI/Fly_test/snail.uasset' failed to load '/Game/AI/Fly_test/Snail_bp_interface': Can't find file.
+[2019.10.03-09.57.24:760][738]LogLinker: Warning: While loading '../../../../../../Users/5K!LL2/Documents/Unreal Projects/Ai_test1 4.23/Content/ai_snail/AI/Fly_test/snail.uasset' failed to load '/Game/AI/Fly_test/Snail_bp_interface': Can't find file.
+[2019.10.03-09.57.24:760][738]LogLinker: Warning: While loading '../../../../../../Users/5K!LL2/Documents/Unreal Projects/Ai_test1 4.23/Content/ai_snail/AI/Fly_test/snail.uasset' failed to load '/Game/AI/Fly_test/Snail_bp_interface': Can't find file.
+[2019.10.03-09.57.24:761][738]LogLinker: Warning: While loading '../../../../../../Users/5K!LL2/Documents/Unreal Projects/Ai_test1 4.23/Content/ai_snail/AI/Fly_test/snail.uasset' failed to load '/Game/AI/Fly_test/Snail_bp_interface': Can't find file.
+[2019.10.03-09.57.24:761][738]LoadErrors: Failed to load /Game/AI/Fly_test/Snail_bp_interface.Snail_bp_interface_C Referenced by K2Node_Event_4
+[2019.10.03-09.57.24:761][738]LogLinker: Warning: While loading '../../../../../../Users/5K!LL2/Documents/Unreal Projects/Ai_test1 4.23/Content/ai_snail/AI/Fly_test/snail.uasset' failed to load '/Game/AI/Fly_test/Snail_bp_interface': Can't find file.
+[2019.10.03-09.57.24:761][738]LogLinker: Warning: While loading '../../../../../../Users/5K!LL2/Documents/Unreal Projects/Ai_test1 4.23/Content/ai_snail/AI/Fly_test/snail.uasset' failed to load '/Game/AI/Fly_test/Snail_bp_interface': Can't find file.
+[2019.10.03-09.57.24:761][738]LogLinker: Warning: While loading '../../../../../../Users/5K!LL2/Documents/Unreal Projects/Ai_test1 4.23/Content/ai_snail/AI/Fly_test/snail.uasset' failed to load '/Game/AI/Fly_test/Snail_bp_interface': Can't find file.
+[2019.10.03-09.57.24:762][738]LogLinker: Warning: While loading '../../../../../../Users/5K!LL2/Documents/Unreal Projects/Ai_test1 4.23/Content/ai_snail/AI/Fly_test/snail.uasset' failed to load '/Script/ApexDestruction': Can't find file.
+[2019.10.03-09.57.24:762][738]LoadErrors: Failed to load /Script/ApexDestruction.DestructibleActor Referenced by K2Node_DynamicCast_0
+[2019.10.03-09.57.24:762][738]LogLinker: Warning: While loading '../../../../../../Users/5K!LL2/Documents/Unreal Projects/Ai_test1 4.23/Content/ai_snail/AI/Fly_test/snail.uasset' failed to load '/Script/ApexDestruction': Can't find file.
+[2019.10.03-09.57.24:762][738]LogLinker: Warning: While loading '../../../../../../Users/5K!LL2/Documents/Unreal Projects/Ai_test1 4.23/Content/ai_snail/AI/Fly_test/snail.uasset' failed to load '/Script/ApexDestruction': Can't find file.
+[2019.10.03-09.57.24:762][738]LogLinker: Warning: While loading '../../../../../../Users/5K!LL2/Documents/Unreal Projects/Ai_test1 4.23/Content/ai_snail/AI/Fly_test/snail.uasset' failed to load '/Script/ApexDestruction': Can't find file.
+[2019.10.03-09.57.24:762][738]LogLinker: Warning: While loading '../../../../../../Users/5K!LL2/Documents/Unreal Projects/Ai_test1 4.23/Content/ai_snail/AI/Fly_test/snail.uasset' failed to load '/Script/ApexDestruction': Can't find file.
+[2019.10.03-09.57.24:762][738]LoadErrors: Failed to load /Script/ApexDestruction.DestructibleComponent Referenced by K2Node_CallFunction_23
+[2019.10.03-09.57.24:762][738]LogLinker: Warning: While loading '../../../../../../Users/5K!LL2/Documents/Unreal Projects/Ai_test1 4.23/Content/ai_snail/AI/Fly_test/snail.uasset' failed to load '/Script/ApexDestruction': Can't find file.
+[2019.10.03-09.57.24:762][738]LogLinker: Warning: While loading '../../../../../../Users/5K!LL2/Documents/Unreal Projects/Ai_test1 4.23/Content/ai_snail/AI/Fly_test/snail.uasset' failed to load '/Script/ApexDestruction': Can't find file.
+[2019.10.03-09.57.24:763][738]LogLinker: Warning: While loading '../../../../../../Users/5K!LL2/Documents/Unreal Projects/Ai_test1 4.23/Content/ai_snail/AI/Fly_test/snail.uasset' failed to load '/Script/ApexDestruction': Can't find file.
+[2019.10.03-09.57.24:763][738]LogLinker: Warning: While loading '../../../../../../Users/5K!LL2/Documents/Unreal Projects/Ai_test1 4.23/Content/ai_snail/AI/Fly_test/snail.uasset' failed to load '/Script/ApexDestruction': Can't find file.
+[2019.10.03-09.57.24:763][738]LoadErrors: Failed to load /Script/ApexDestruction.DestructibleActor Referenced by K2Node_VariableGet_2
+[2019.10.03-09.57.24:763][738]LogLinker: Warning: While loading '../../../../../../Users/5K!LL2/Documents/Unreal Projects/Ai_test1 4.23/Content/ai_snail/AI/Fly_test/snail.uasset' failed to load '/Script/ApexDestruction': Can't find file.
+[2019.10.03-09.57.24:763][738]LogLinker: Warning: While loading '../../../../../../Users/5K!LL2/Documents/Unreal Projects/Ai_test1 4.23/Content/ai_snail/AI/Fly_test/snail.uasset' failed to load '/Script/ApexDestruction': Can't find file.
+[2019.10.03-09.57.24:763][738]LoadErrors: Failed to load /Script/ApexDestruction.DestructibleComponent Referenced by K2Node_VariableGet_2
+[2019.10.03-09.57.24:763][738]LogLinker: Warning: While loading '../../../../../../Users/5K!LL2/Documents/Unreal Projects/Ai_test1 4.23/Content/ai_snail/AI/Fly_test/snail.uasset' failed to load '/Script/ApexDestruction': Can't find file.
+[2019.10.03-09.57.24:763][738]LogLinker: Warning: While loading '../../../../../../Users/5K!LL2/Documents/Unreal Projects/Ai_test1 4.23/Content/ai_snail/AI/Fly_test/snail.uasset' failed to load '/Script/ApexDestruction': Can't find file.
+[2019.10.03-09.57.24:763][738]LogLinker: Warning: While loading '../../../../../../Users/5K!LL2/Documents/Unreal Projects/Ai_test1 4.23/Content/ai_snail/AI/Fly_test/snail.uasset' failed to load '/Script/ApexDestruction': Can't find file.
+[2019.10.03-09.57.24:763][738]LogLinker: Warning: While loading '../../../../../../Users/5K!LL2/Documents/Unreal Projects/Ai_test1 4.23/Content/ai_snail/AI/Fly_test/snail.uasset' failed to load '/Game/AI/Fly_test/Snail_widget/snail_widget': Can't find file.
+[2019.10.03-09.57.24:763][738]LoadErrors: Failed to load /Game/AI/Fly_test/Snail_widget/snail_widget.snail_widget_C Referenced by K2Node_DynamicCast_2
+[2019.10.03-09.57.24:763][738]LogLinker: Warning: While loading '../../../../../../Users/5K!LL2/Documents/Unreal Projects/Ai_test1 4.23/Content/ai_snail/AI/Fly_test/snail.uasset' failed to load '/Game/AI/Fly_test/Snail_widget/snail_widget': Can't find file.
+[2019.10.03-09.57.24:764][738]LogLinker: Warning: While loading '../../../../../../Users/5K!LL2/Documents/Unreal Projects/Ai_test1 4.23/Content/ai_snail/AI/Fly_test/snail.uasset' failed to load '/Game/AI/Fly_test/Snail_widget/snail_widget': Can't find file.
+[2019.10.03-09.57.24:764][738]LogLinker: Warning: While loading '../../../../../../Users/5K!LL2/Documents/Unreal Projects/Ai_test1 4.23/Content/ai_snail/AI/Fly_test/snail.uasset' failed to load '/Game/AI/Fly_test/Snail_widget/snail_widget': Can't find file.
+[2019.10.03-09.57.24:764][738]LogLinker: Warning: While loading '../../../../../../Users/5K!LL2/Documents/Unreal Projects/Ai_test1 4.23/Content/ai_snail/AI/Fly_test/snail.uasset' failed to load '/Game/AI/Fly_test/Snail_widget/snail_widget': Can't find file.
+[2019.10.03-09.57.24:764][738]LoadErrors: Failed to load /Game/AI/Fly_test/Snail_widget/snail_widget.snail_widget_C Referenced by K2Node_VariableSet_0
+[2019.10.03-09.57.24:764][738]LogLinker: Warning: While loading '../../../../../../Users/5K!LL2/Documents/Unreal Projects/Ai_test1 4.23/Content/ai_snail/AI/Fly_test/snail.uasset' failed to load '/Game/AI/Fly_test/Snail_widget/snail_widget': Can't find file.
+[2019.10.03-09.57.24:764][738]LogLinker: Warning: While loading '../../../../../../Users/5K!LL2/Documents/Unreal Projects/Ai_test1 4.23/Content/ai_snail/AI/Fly_test/snail.uasset' failed to load '/Game/AI/Fly_test/Snail_widget/snail_widget': Can't find file.
+[2019.10.03-09.57.24:765][738]LogLinker: Warning: While loading '../../../../../../Users/5K!LL2/Documents/Unreal Projects/Ai_test1 4.23/Content/ai_snail/AI/Fly_test/snail.uasset' failed to load '/Game/AI/Fly_test/Snail_widget/snail_widget': Can't find file.
+[2019.10.03-09.57.24:765][738]LogLinker: Warning: While loading '../../../../../../Users/5K!LL2/Documents/Unreal Projects/Ai_test1 4.23/Content/ai_snail/AI/Fly_test/snail.uasset' failed to load '/Game/1M_Cube_Blueprint': Can't find file.
+[2019.10.03-09.57.24:765][738]LoadErrors: Failed to load /Game/1M_Cube_Blueprint.1M_Cube_Blueprint_C Referenced by K2Node_DynamicCast_14
+[2019.10.03-09.57.24:766][738]LogLinker: Warning: While loading '../../../../../../Users/5K!LL2/Documents/Unreal Projects/Ai_test1 4.23/Content/ai_snail/AI/Fly_test/snail.uasset' failed to load '/Game/1M_Cube_Blueprint': Can't find file.
+[2019.10.03-09.57.24:766][738]LogLinker: Warning: While loading '../../../../../../Users/5K!LL2/Documents/Unreal Projects/Ai_test1 4.23/Content/ai_snail/AI/Fly_test/snail.uasset' failed to load '/Game/1M_Cube_Blueprint': Can't find file.
+[2019.10.03-09.57.24:766][738]LogLinker: Warning: While loading '../../../../../../Users/5K!LL2/Documents/Unreal Projects/Ai_test1 4.23/Content/ai_snail/AI/Fly_test/snail.uasset' failed to load '/Game/1M_Cube_Blueprint': Can't find file.
+[2019.10.03-09.57.24:766][738]LogLinker: Warning: While loading '../../../../../../Users/5K!LL2/Documents/Unreal Projects/Ai_test1 4.23/Content/ai_snail/AI/Fly_test/snail.uasset' failed to load '/Game/1M_Cube_Blueprint': Can't find file.
+[2019.10.03-09.57.24:766][738]LoadErrors: Failed to load /Game/1M_Cube_Blueprint.1M_Cube_Blueprint_C Referenced by K2Node_VariableGet_17
+[2019.10.03-09.57.24:766][738]LogLinker: Warning: While loading '../../../../../../Users/5K!LL2/Documents/Unreal Projects/Ai_test1 4.23/Content/ai_snail/AI/Fly_test/snail.uasset' failed to load '/Game/1M_Cube_Blueprint': Can't find file.
+[2019.10.03-09.57.24:766][738]LogLinker: Warning: While loading '../../../../../../Users/5K!LL2/Documents/Unreal Projects/Ai_test1 4.23/Content/ai_snail/AI/Fly_test/snail.uasset' failed to load '/Game/1M_Cube_Blueprint': Can't find file.
+[2019.10.03-09.57.24:767][738]LogLinker: Warning: While loading '../../../../../../Users/5K!LL2/Documents/Unreal Projects/Ai_test1 4.23/Content/ai_snail/AI/Fly_test/snail.uasset' failed to load '/Game/1M_Cube_Blueprint': Can't find file.
+[2019.10.03-09.57.24:768][738]LogLinker: Warning: While loading '../../../../../../Users/5K!LL2/Documents/Unreal Projects/Ai_test1 4.23/Content/ai_snail/AI/Fly_test/snail.uasset' failed to load '/Game/AI/Fly_test/Snail_widget/snail_widget': Can't find file.
+[2019.10.03-09.57.24:768][738]LoadErrors: Failed to load /Game/AI/Fly_test/Snail_widget/snail_widget.snail_widget_C Referenced by Widget_GEN_VARIABLE
+[2019.10.03-09.57.24:768][738]LogLinker: Warning: While loading '../../../../../../Users/5K!LL2/Documents/Unreal Projects/Ai_test1 4.23/Content/ai_snail/AI/Fly_test/snail.uasset' failed to load '/Game/AI/Fly_test/Snail_widget/snail_widget': Can't find file.
+[2019.10.03-09.57.24:776][738]LogBlueprint: Error: [Compiler snail] Can't connect pins  Other Actor  and  Object : This cast has an invalid target type (was the class deleted without a redirect?).
+[2019.10.03-09.57.24:777][738]LogBlueprint: Warning: [Compiler snail] Could not find a variable named "Box" in 'snail'.
+Make sure 'snail' has been compiled for  Get Box
+[2019.10.03-09.57.24:777][738]LogBlueprint: Error: [Compiler snail] Can't connect pins  Object  and  Other Actor : This cast has an invalid target type (was the class deleted without a redirect?).
+[2019.10.03-09.57.24:777][738]LogBlueprint: Error: [Compiler snail] In use pin  As 1M Cube Blueprint  no longer exists on node  Bad cast node . Please refresh node or break links to remove pin.
+[2019.10.03-09.57.24:777][738]LogBlueprint: Error: [Compiler snail] Can't connect pins  Other Actor  and  Object : This cast has an invalid target type (was the class deleted without a redirect?).
+[2019.10.03-09.57.24:794][738]LogBlueprint: Error: [Compiler snail] Missing Event 'Stand' for  Event Stand
+[2019.10.03-09.57.24:795][738]LogBlueprint: Warning: [Compiler snail] Could not find a variable named "snail" in 'snail'.
+Make sure 'snail' has been compiled for  Set snail
+[2019.10.03-09.57.24:795][738]LogBlueprint: Error: [Compiler snail] Can't connect pins  Object  and  Return Value : This cast has an invalid target type (was the class deleted without a redirect?).
+[2019.10.03-09.57.24:795][738]LogBlueprint: Error: [Compiler snail] In use pin  As Snail Widget  no longer exists on node  Bad cast node . Please refresh node or break links to remove pin.
+[2019.10.03-09.57.24:795][738]LogBlueprint: Error: [Compiler snail] Can't connect pins  Return Value  and  Object : This cast has an invalid target type (was the class deleted without a redirect?).
+[2019.10.03-09.57.24:795][738]LogBlueprint: Warning: [Compiler snail] Could not find a variable named "DestructibleComponent" in 'snail'.
+Make sure 'snail' has been compiled for  Get DestructibleComponent
+[2019.10.03-09.57.24:795][738]LogBlueprint: Error: [Compiler snail] In use pin  <Unnamed>  no longer exists on node  Apply Radius Damage . Please refresh node or break links to remove pin.
+[2019.10.03-09.57.24:795][738]LogBlueprint: Error: [Compiler snail] In use pin  Target  no longer exists on node  Apply Radius Damage . Please refresh node or break links to remove pin.
+[2019.10.03-09.57.24:795][738]LogBlueprint: Warning: [Compiler snail] Input pin  Base Damage  specifying non-default value no longer exists on node  Apply Radius Damage . Please refresh node or reset pin to default value to remove pin.
+[2019.10.03-09.57.24:795][738]LogBlueprint: Error: [Compiler snail] In use pin  Hurt Origin  no longer exists on node  Apply Radius Damage . Please refresh node or break links to remove pin.
+[2019.10.03-09.57.24:795][738]LogBlueprint: Warning: [Compiler snail] Input pin  Damage Radius  specifying non-default value no longer exists on node  Apply Radius Damage . Please refresh node or reset pin to default value to remove pin.
+[2019.10.03-09.57.24:795][738]LogBlueprint: Warning: [Compiler snail] Input pin  Impulse Strength  specifying non-default value no longer exists on node  Apply Radius Damage . Please refresh node or reset pin to default value to remove pin.
+[2019.10.03-09.57.24:796][738]LogBlueprint: Error: [Compiler snail] Could not find a function named "ApplyRadiusDamage" in 'snail'.
+Make sure 'snail' has been compiled for  Apply Radius Damage
+[2019.10.03-09.57.24:796][738]LogBlueprint: Error: [Compiler snail] Can't connect pins  Object  and  Other Actor : This cast has an invalid target type (was the class deleted without a redirect?).
+[2019.10.03-09.57.24:796][738]LogBlueprint: Error: [Compiler snail] In use pin  As Destructible Actor  no longer exists on node  Bad cast node . Please refresh node or break links to remove pin.
+[2019.10.03-09.57.24:796][738]LogBlueprint: Error: [Compiler snail] Missing Event 'rotate' for  Event rotate
+[2019.10.03-09.57.24:796][738]LogBlueprint: Error: [Compiler snail] Missing Event 'Defalt' for  Event Defalt
+[2019.10.03-09.57.24:797][738]LogBlueprint: Error: [Compiler snail] The property associated with  Destructible Component  could not be found in '/Game/ai_snail/AI/Fly_test/snail.snail_C'
+[2019.10.03-09.57.24:798][738]LogBlueprint: Error: [Compiler snail] The property associated with  Snail  could not be found in '/Game/ai_snail/AI/Fly_test/snail.snail_C'
+[2019.10.03-09.57.24:798][738]LogBlueprint: Error: [Compiler snail] The property associated with  Box  could not be found in '/Game/ai_snail/AI/Fly_test/snail.snail_C'
+[2019.10.03-09.57.24:811][738]LogSlate: Took 0.000165 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.10.03-09.57.24:824][738]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/ai_snail/AI/Fly_test/snail.snail
+[2019.10.03-09.57.25:090][738]LogEnum: Warning: Enum name collision: 'GripEnum::NewEnumerator0' is in both '/Game/VirtualRealityBP/Blueprints/GripEnum.GripEnum' and '/Game/ai_snail/VirtualRealityBP/Blueprints/GripEnum.GripEnum'
+[2019.10.03-09.57.25:090][738]LogEnum: Warning: Enum name collision: 'GripEnum::NewEnumerator1' is in both '/Game/VirtualRealityBP/Blueprints/GripEnum.GripEnum' and '/Game/ai_snail/VirtualRealityBP/Blueprints/GripEnum.GripEnum'
+[2019.10.03-09.57.25:091][738]LogEnum: Warning: Enum name collision: 'GripEnum::NewEnumerator2' is in both '/Game/VirtualRealityBP/Blueprints/GripEnum.GripEnum' and '/Game/ai_snail/VirtualRealityBP/Blueprints/GripEnum.GripEnum'
+[2019.10.03-09.57.25:091][738]LogEnum: Warning: Enum name collision: 'GripEnum::GripEnum_MAX' is in both '/Game/VirtualRealityBP/Blueprints/GripEnum.GripEnum' and '/Game/ai_snail/VirtualRealityBP/Blueprints/GripEnum.GripEnum'
+[2019.10.03-09.57.25:091][738]LogEnum: Warning: Enum name collision: 'GripEnum::NewEnumerator0' is in both '/Game/VirtualRealityBP/Blueprints/GripEnum.GripEnum' and '/Game/ai_snail/VirtualRealityBP/Blueprints/GripEnum.GripEnum'
+[2019.10.03-09.57.25:091][738]LogEnum: Warning: Enum name collision: 'GripEnum::NewEnumerator1' is in both '/Game/VirtualRealityBP/Blueprints/GripEnum.GripEnum' and '/Game/ai_snail/VirtualRealityBP/Blueprints/GripEnum.GripEnum'
+[2019.10.03-09.57.25:091][738]LogEnum: Warning: Enum name collision: 'GripEnum::NewEnumerator2' is in both '/Game/VirtualRealityBP/Blueprints/GripEnum.GripEnum' and '/Game/ai_snail/VirtualRealityBP/Blueprints/GripEnum.GripEnum'
+[2019.10.03-09.57.25:131][738]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0005 seconds. Added 121 classes and 0 folders.
+[2019.10.03-09.57.25:975][738]LogSlate: Took 0.000209 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.10.03-09.57.26:106][739]LogSlate: Took 0.000271 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.10.03-09.59.32:310][366]LogAIModule: Creating AISystem for world MotionControllerMap
+[2019.10.03-09.59.32:341][366]LogAssetEditorManager: Opening Asset editor for World /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap
+[2019.10.03-09.59.32:385][366]LogUObjectHash: Compacting FUObjectHashTables data took   3.73ms
+[2019.10.03-09.59.38:478][366]LogSlate: Window 'Save Content' being destroyed
+[2019.10.03-09.59.38:486][366]Cmd: MAP LOAD FILE="../../../../../../Users/5K!LL2/Documents/Unreal Projects/Ai_test1 4.23/Content/VirtualRealityBP/Maps/MotionControllerMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.10.03-09.59.38:489][366]LightingResults: New page: Lighting Build
+[2019.10.03-09.59.38:490][366]LoadErrors: New page: Loading map: MotionControllerMap.umap
+[2019.10.03-09.59.38:490][366]LogWorld: UWorld::CleanupWorld for StartupMap, bSessionEnded=true, bCleanupResources=true
+[2019.10.03-09.59.38:491][366]MapCheck: New page: Map Check
+[2019.10.03-09.59.38:491][366]LightingResults: New page: Lighting Build
+[2019.10.03-09.59.38:542][366]LogUObjectHash: Compacting FUObjectHashTables data took   2.95ms
+[2019.10.03-09.59.38:663][366]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.10.03-09.59.38:697][366]LogUObjectHash: Compacting FUObjectHashTables data took   2.37ms
+[2019.10.03-09.59.38:732][366]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.10.03-09.59.38:732][366]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.18ms to complete.
+[2019.10.03-09.59.38:732][366]LogFileHelpers: Loading map 'MotionControllerMap' took 0.247
+[2019.10.03-10.00.03:102][ 55]LogEditorViewport: Clicking on Actor (LMB): BP_PickupCube_C (EditorCube37)
+[2019.10.03-10.00.07:957][587]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.10.03-10.00.17:945][599]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.03-10.01.00:851][231]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.03-10.01.03:250][392]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2019.10.03-10.01.03:250][392]LogLinker: Warning: Failed to load '/Game/AI/Fly_test/Snail_widget/snail_widget': Can't find file.
+[2019.10.03-10.01.03:250][392]LogLinker: Warning: Failed to load '/Game/AI/Fly_test/Snail_widget/snail_widget': Can't find file.
+[2019.10.03-10.01.03:250][392]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/AI/Fly_test/Snail_widget/snail_widget.snail_widget_C'
+[2019.10.03-10.01.03:250][392]EditorErrors: Error: Failed to load class /Game/AI/Fly_test/Snail_widget/snail_widget.snail_widget_C
+[2019.10.03-10.01.06:177][563]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2019.10.03-10.01.06:177][563]EditorErrors: Error: Failed to load class /Game/AI/Fly_test/Snail_widget/snail_widget.snail_widget_C
+[2019.10.03-10.01.08:276][688]BlueprintLog: New page: Compile snail
+[2019.10.03-10.01.08:282][688]LogBlueprint: Error: [Compiler snail] Can't connect pins  Other Actor  and  Object : This cast has an invalid target type (was the class deleted without a redirect?).
+[2019.10.03-10.01.08:282][688]LogBlueprint: Warning: [Compiler snail] Could not find a variable named "Box" in 'snail'.
+Make sure 'snail' has been compiled for  Get Box
+[2019.10.03-10.01.08:283][688]LogBlueprint: Error: [Compiler snail] Can't connect pins  Object  and  Other Actor : This cast has an invalid target type (was the class deleted without a redirect?).
+[2019.10.03-10.01.08:283][688]LogBlueprint: Error: [Compiler snail] In use pin  As 1M Cube Blueprint  no longer exists on node  Bad cast node . Please refresh node or break links to remove pin.
+[2019.10.03-10.01.08:283][688]LogBlueprint: Error: [Compiler snail] Can't connect pins  Other Actor  and  Object : This cast has an invalid target type (was the class deleted without a redirect?).
+[2019.10.03-10.01.08:283][688]LogBlueprint: Warning: [Compiler snail] Could not find a variable named "snail" in 'snail'.
+Make sure 'snail' has been compiled for  Set snail
+[2019.10.03-10.01.08:283][688]LogBlueprint: Error: [Compiler snail] Can't connect pins  Object  and  Return Value : This cast has an invalid target type (was the class deleted without a redirect?).
+[2019.10.03-10.01.08:283][688]LogBlueprint: Error: [Compiler snail] In use pin  As Snail Widget  no longer exists on node  Bad cast node . Please refresh node or break links to remove pin.
+[2019.10.03-10.01.08:283][688]LogBlueprint: Error: [Compiler snail] Can't connect pins  Return Value  and  Object : This cast has an invalid target type (was the class deleted without a redirect?).
+[2019.10.03-10.01.08:283][688]LogBlueprint: Warning: [Compiler snail] Could not find a variable named "DestructibleComponent" in 'snail'.
+Make sure 'snail' has been compiled for  Get DestructibleComponent
+[2019.10.03-10.01.08:283][688]LogBlueprint: Error: [Compiler snail] In use pin  <Unnamed>  no longer exists on node  Apply Radius Damage . Please refresh node or break links to remove pin.
+[2019.10.03-10.01.08:283][688]LogBlueprint: Error: [Compiler snail] In use pin  Target  no longer exists on node  Apply Radius Damage . Please refresh node or break links to remove pin.
+[2019.10.03-10.01.08:284][688]LogBlueprint: Warning: [Compiler snail] Input pin  Base Damage  specifying non-default value no longer exists on node  Apply Radius Damage . Please refresh node or reset pin to default value to remove pin.
+[2019.10.03-10.01.08:284][688]LogBlueprint: Error: [Compiler snail] In use pin  Hurt Origin  no longer exists on node  Apply Radius Damage . Please refresh node or break links to remove pin.
+[2019.10.03-10.01.08:284][688]LogBlueprint: Warning: [Compiler snail] Input pin  Damage Radius  specifying non-default value no longer exists on node  Apply Radius Damage . Please refresh node or reset pin to default value to remove pin.
+[2019.10.03-10.01.08:284][688]LogBlueprint: Warning: [Compiler snail] Input pin  Impulse Strength  specifying non-default value no longer exists on node  Apply Radius Damage . Please refresh node or reset pin to default value to remove pin.
+[2019.10.03-10.01.08:284][688]LogBlueprint: Error: [Compiler snail] Could not find a function named "ApplyRadiusDamage" in 'snail'.
+Make sure 'snail' has been compiled for  Apply Radius Damage
+[2019.10.03-10.01.08:284][688]LogBlueprint: Error: [Compiler snail] Can't connect pins  Object  and  Other Actor : This cast has an invalid target type (was the class deleted without a redirect?).
+[2019.10.03-10.01.08:284][688]LogBlueprint: Error: [Compiler snail] In use pin  As Destructible Actor  no longer exists on node  Bad cast node . Please refresh node or break links to remove pin.
+[2019.10.03-10.01.08:286][688]LogBlueprint: Error: [Compiler snail] The property associated with  Snail  could not be found in '/Game/ai_snail/AI/Fly_test/snail.snail_C'
+[2019.10.03-10.01.08:286][688]LogBlueprint: Error: [Compiler snail] The property associated with  Box  could not be found in '/Game/ai_snail/AI/Fly_test/snail.snail_C'
+[2019.10.03-10.01.08:286][688]LogBlueprint: Error: [Compiler snail] The property associated with  Destructible Component  could not be found in '/Game/ai_snail/AI/Fly_test/snail.snail_C'
+[2019.10.03-10.01.08:474][688]LogUObjectHash: Compacting FUObjectHashTables data took   3.27ms
+[2019.10.03-10.01.09:526][736]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2019.10.03-10.01.10:793][815]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2019.10.03-10.01.10:794][815]EditorErrors: Error: Failed to load class /Game/AI/Fly_test/Snail_widget/snail_widget.snail_widget_C
+[2019.10.03-10.01.14:898][129]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.03-10.01.54:472][872]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.03-10.02.05:446][959]LogHttp: Warning: 0000021243826700: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BA7B01AB8-44DE-AA64-8AEC-39B9DF525D8E%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=ea409fd9441e5f42ad24c89ab40e6a78%7C56ff8bf09f974dd7bbbf233125baea74%7C6e4d110e-3b91-4b82-b815-e927ab42669c&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: -1, actual payload size: 0
+[2019.10.03-10.02.05:446][959]LogHttp: Warning: 0000021243826700: request failed, libcurl error: 0 (No error)
+[2019.10.03-10.02.05:446][959]LogHttp: Warning: 0000021243826700: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x212622eff70 [can pipeline])
+[2019.10.03-10.02.05:446][959]LogHttp: Warning: 0000021243826700: libcurl info message cache 1 (Re-using existing connection! (#1) with host datarouter.ol.epicgames.com)
+[2019.10.03-10.02.05:446][959]LogHttp: Warning: 0000021243826700: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (50.17.106.84) port 443 (#1))
+[2019.10.03-10.02.05:446][959]LogHttp: Warning: 0000021243826700: libcurl info message cache 3 (We are completely uploaded and fine)
+[2019.10.03-10.02.05:446][959]LogHttp: Warning: 0000021243826700: libcurl info message cache 4 (TLSv1.2 (IN), TLS alert, Client hello (1):)
+[2019.10.03-10.02.05:446][959]LogHttp: Warning: 0000021243826700: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2019.10.03-10.02.05:446][959]LogHttp: Warning: 0000021243826700: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2019.10.03-10.02.05:446][959]LogHttp: Warning: 0000021243826700: libcurl info message cache 7 (Closing connection 1)
+[2019.10.03-10.02.05:446][959]LogHttp: Warning: 0000021243826700: libcurl info message cache 8 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2019.10.03-10.02.05:454][960]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BA7B01AB8-44DE-AA64-8AEC-39B9DF525D8E%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=ea409fd9441e5f42ad24c89ab40e6a78%7C56ff8bf09f974dd7bbbf233125baea74%7C6e4d110e-3b91-4b82-b815-e927ab42669c&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.10.03-10.02.21:691][668]Cmd: DELETE
+[2019.10.03-10.02.21:691][668]Cmd: ACTOR DELETE
+[2019.10.03-10.02.21:706][668]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.10.03-10.02.21:720][668]LogLinker: Warning: While loading '../../../../../../Users/5K!LL2/Documents/Unreal Projects/Ai_test1 4.23/Content/ai_snail/VirtualRealityBP/Maps/MotionControllerMap.umap' failed to load '/Game/1M_Cube_Blueprint': Can't find file.
+[2019.10.03-10.02.21:720][668]LogLinker: Warning: While loading '../../../../../../Users/5K!LL2/Documents/Unreal Projects/Ai_test1 4.23/Content/ai_snail/VirtualRealityBP/Maps/MotionControllerMap.umap' failed to load '/Game/1M_Cube_Blueprint': Can't find file.
+[2019.10.03-10.02.21:720][668]LogLinker: Warning: While loading '../../../../../../Users/5K!LL2/Documents/Unreal Projects/Ai_test1 4.23/Content/ai_snail/VirtualRealityBP/Maps/MotionControllerMap.umap' failed to load '/Game/AI/Fly_test/snail': Can't find file.
+[2019.10.03-10.02.21:721][668]LogLinker: Warning: While loading '../../../../../../Users/5K!LL2/Documents/Unreal Projects/Ai_test1 4.23/Content/ai_snail/VirtualRealityBP/Maps/MotionControllerMap.umap' failed to load '/Game/AI/Fly_test/snail': Can't find file.
+[2019.10.03-10.02.21:721][668]LogLinker: Warning: While loading '../../../../../../Users/5K!LL2/Documents/Unreal Projects/Ai_test1 4.23/Content/ai_snail/VirtualRealityBP/Maps/MotionControllerMap.umap' failed to load '/Game/1M_Cube_Blueprint': Can't find file.
+[2019.10.03-10.02.21:721][668]LogLinker: Warning: While loading '../../../../../../Users/5K!LL2/Documents/Unreal Projects/Ai_test1 4.23/Content/ai_snail/VirtualRealityBP/Maps/MotionControllerMap.umap' failed to load '/Game/1M_Cube_Blueprint': Can't find file.
+[2019.10.03-10.02.21:721][668]LogLinker: Warning: While loading '../../../../../../Users/5K!LL2/Documents/Unreal Projects/Ai_test1 4.23/Content/ai_snail/VirtualRealityBP/Maps/MotionControllerMap.umap' failed to load '/Game/AI/Fly_test/snail': Can't find file.
+[2019.10.03-10.02.21:722][668]LogLinker: Warning: While loading '../../../../../../Users/5K!LL2/Documents/Unreal Projects/Ai_test1 4.23/Content/ai_snail/VirtualRealityBP/Maps/MotionControllerMap.umap' failed to load '/Game/AI/Fly_test/snail': Can't find file.
+[2019.10.03-10.02.21:722][668]LogLinker: Warning: While loading '../../../../../../Users/5K!LL2/Documents/Unreal Projects/Ai_test1 4.23/Content/ai_snail/VirtualRealityBP/Maps/MotionControllerMap.umap' failed to load '/Game/1M_Cube_Blueprint': Can't find file.
+[2019.10.03-10.02.21:722][668]LogLinker: Warning: While loading '../../../../../../Users/5K!LL2/Documents/Unreal Projects/Ai_test1 4.23/Content/ai_snail/VirtualRealityBP/Maps/MotionControllerMap.umap' failed to load '/Game/1M_Cube_Blueprint': Can't find file.
+[2019.10.03-10.02.21:723][668]LogLinker: Warning: While loading '../../../../../../Users/5K!LL2/Documents/Unreal Projects/Ai_test1 4.23/Content/ai_snail/VirtualRealityBP/Maps/MotionControllerMap.umap' failed to load '/Game/AI/Fly_test/snail': Can't find file.
+[2019.10.03-10.02.21:723][668]LogLinker: Warning: While loading '../../../../../../Users/5K!LL2/Documents/Unreal Projects/Ai_test1 4.23/Content/ai_snail/VirtualRealityBP/Maps/MotionControllerMap.umap' failed to load '/Game/AI/Fly_test/snail': Can't find file.
+[2019.10.03-10.02.21:723][668]LogLinker: Warning: While loading '../../../../../../Users/5K!LL2/Documents/Unreal Projects/Ai_test1 4.23/Content/ai_snail/VirtualRealityBP/Maps/MotionControllerMap.umap' failed to load '/Game/AI/Fly_test/snail': Can't find file.
+[2019.10.03-10.02.21:723][668]LogLinker: Warning: While loading '../../../../../../Users/5K!LL2/Documents/Unreal Projects/Ai_test1 4.23/Content/ai_snail/VirtualRealityBP/Maps/MotionControllerMap.umap' failed to load '/Game/AI/Fly_test/snail': Can't find file.
+[2019.10.03-10.02.21:723][668]LogLinker: Warning: While loading '../../../../../../Users/5K!LL2/Documents/Unreal Projects/Ai_test1 4.23/Content/ai_snail/VirtualRealityBP/Maps/MotionControllerMap.umap' failed to load '/Script/ApexDestruction': Can't find file.
+[2019.10.03-10.02.21:723][668]LogLinker: Warning: While loading '../../../../../../Users/5K!LL2/Documents/Unreal Projects/Ai_test1 4.23/Content/ai_snail/VirtualRealityBP/Maps/MotionControllerMap.umap' failed to load '/Script/ApexDestruction': Can't find file.
+[2019.10.03-10.02.21:723][668]LogLinker: Warning: While loading '../../../../../../Users/5K!LL2/Documents/Unreal Projects/Ai_test1 4.23/Content/ai_snail/VirtualRealityBP/Maps/MotionControllerMap.umap' failed to load '/Script/ApexDestruction': Can't find file.
+[2019.10.03-10.02.21:723][668]LogLinker: Warning: While loading '../../../../../../Users/5K!LL2/Documents/Unreal Projects/Ai_test1 4.23/Content/ai_snail/VirtualRealityBP/Maps/MotionControllerMap.umap' failed to load '/Script/ApexDestruction': Can't find file.
+[2019.10.03-10.02.21:724][668]LogLinker: Warning: While loading '../../../../../../Users/5K!LL2/Documents/Unreal Projects/Ai_test1 4.23/Content/ai_snail/VirtualRealityBP/Maps/MotionControllerMap.umap' failed to load '/Script/ApexDestruction': Can't find file.
+[2019.10.03-10.02.21:724][668]LogLinker: Warning: While loading '../../../../../../Users/5K!LL2/Documents/Unreal Projects/Ai_test1 4.23/Content/ai_snail/VirtualRealityBP/Maps/MotionControllerMap.umap' failed to load '/Script/ApexDestruction': Can't find file.
+[2019.10.03-10.02.21:724][668]LogLinker: Warning: While loading '../../../../../../Users/5K!LL2/Documents/Unreal Projects/Ai_test1 4.23/Content/ai_snail/VirtualRealityBP/Maps/MotionControllerMap.umap' failed to load '/Script/ApexDestruction': Can't find file.
+[2019.10.03-10.02.21:724][668]LogLinker: Warning: While loading '../../../../../../Users/5K!LL2/Documents/Unreal Projects/Ai_test1 4.23/Content/ai_snail/VirtualRealityBP/Maps/MotionControllerMap.umap' failed to load '/Script/ApexDestruction': Can't find file.
+[2019.10.03-10.02.21:724][668]LogLinker: Warning: While loading '../../../../../../Users/5K!LL2/Documents/Unreal Projects/Ai_test1 4.23/Content/ai_snail/VirtualRealityBP/Maps/MotionControllerMap.umap' failed to load '/Game/Geometry/Meshes/1M_Cube_DM': Can't find file.
+[2019.10.03-10.02.21:724][668]LogLinker: Warning: While loading '../../../../../../Users/5K!LL2/Documents/Unreal Projects/Ai_test1 4.23/Content/ai_snail/VirtualRealityBP/Maps/MotionControllerMap.umap' failed to load '/Game/Geometry/Meshes/1M_Cube_DM': Can't find file.
+[2019.10.03-10.02.21:726][668]LogLinker: Warning: While loading '../../../../../../Users/5K!LL2/Documents/Unreal Projects/Ai_test1 4.23/Content/ai_snail/VirtualRealityBP/Maps/MotionControllerMap.umap' failed to load '/Game/1M_Cube_Blueprint': Can't find file.
+[2019.10.03-10.02.21:726][668]LogLinker: Warning: While loading '../../../../../../Users/5K!LL2/Documents/Unreal Projects/Ai_test1 4.23/Content/ai_snail/VirtualRealityBP/Maps/MotionControllerMap.umap' failed to load '/Game/1M_Cube_Blueprint': Can't find file.
+[2019.10.03-10.02.21:726][668]LogLinker: Warning: While loading '../../../../../../Users/5K!LL2/Documents/Unreal Projects/Ai_test1 4.23/Content/ai_snail/VirtualRealityBP/Maps/MotionControllerMap.umap' failed to load '/Game/AI/Fly_test/snail': Can't find file.
+[2019.10.03-10.02.21:726][668]LogLinker: Warning: While loading '../../../../../../Users/5K!LL2/Documents/Unreal Projects/Ai_test1 4.23/Content/ai_snail/VirtualRealityBP/Maps/MotionControllerMap.umap' failed to load '/Game/AI/Fly_test/snail': Can't find file.
+[2019.10.03-10.02.21:726][668]LogLinker: Warning: While loading '../../../../../../Users/5K!LL2/Documents/Unreal Projects/Ai_test1 4.23/Content/ai_snail/VirtualRealityBP/Maps/MotionControllerMap.umap' failed to load '/Game/Geometry/Meshes/1M_Cube_DM': Can't find file.
+[2019.10.03-10.02.21:727][668]LogLinker: Warning: While loading '../../../../../../Users/5K!LL2/Documents/Unreal Projects/Ai_test1 4.23/Content/ai_snail/VirtualRealityBP/Maps/MotionControllerMap.umap' failed to load '/Game/Geometry/Meshes/1M_Cube_DM': Can't find file.
+[2019.10.03-10.02.21:727][668]LogLinker: Warning: While loading '../../../../../../Users/5K!LL2/Documents/Unreal Projects/Ai_test1 4.23/Content/ai_snail/VirtualRealityBP/Maps/MotionControllerMap.umap' failed to load '/Script/ApexDestruction': Can't find file.
+[2019.10.03-10.02.21:727][668]LogLinker: Warning: While loading '../../../../../../Users/5K!LL2/Documents/Unreal Projects/Ai_test1 4.23/Content/ai_snail/VirtualRealityBP/Maps/MotionControllerMap.umap' failed to load '/Script/ApexDestruction': Can't find file.
+[2019.10.03-10.02.21:727][668]LogLinker: Warning: While loading '../../../../../../Users/5K!LL2/Documents/Unreal Projects/Ai_test1 4.23/Content/ai_snail/VirtualRealityBP/Maps/MotionControllerMap.umap' failed to load '/Game/AI/Fly_test/snail': Can't find file.
+[2019.10.03-10.02.21:727][668]LogLinker: Warning: While loading '../../../../../../Users/5K!LL2/Documents/Unreal Projects/Ai_test1 4.23/Content/ai_snail/VirtualRealityBP/Maps/MotionControllerMap.umap' failed to load '/Game/AI/Fly_test/snail': Can't find file.
+[2019.10.03-10.02.21:728][668]LogLinker: Warning: While loading '../../../../../../Users/5K!LL2/Documents/Unreal Projects/Ai_test1 4.23/Content/ai_snail/VirtualRealityBP/Maps/MotionControllerMap.umap' failed to load '/Game/AI/Fly_test/snail': Can't find file.
+[2019.10.03-10.02.21:728][668]LogLinker: Warning: While loading '../../../../../../Users/5K!LL2/Documents/Unreal Projects/Ai_test1 4.23/Content/ai_snail/VirtualRealityBP/Maps/MotionControllerMap.umap' failed to load '/Game/AI/Fly_test/snail': Can't find file.
+[2019.10.03-10.02.21:728][668]LogLinker: Warning: While loading '../../../../../../Users/5K!LL2/Documents/Unreal Projects/Ai_test1 4.23/Content/ai_snail/VirtualRealityBP/Maps/MotionControllerMap.umap' failed to load '/Game/AI/Fly_test/snail': Can't find file.
+[2019.10.03-10.02.21:728][668]LogLinker: Warning: While loading '../../../../../../Users/5K!LL2/Documents/Unreal Projects/Ai_test1 4.23/Content/ai_snail/VirtualRealityBP/Maps/MotionControllerMap.umap' failed to load '/Game/AI/Fly_test/snail': Can't find file.
+[2019.10.03-10.02.21:728][668]LogLinker: Warning: While loading '../../../../../../Users/5K!LL2/Documents/Unreal Projects/Ai_test1 4.23/Content/ai_snail/VirtualRealityBP/Maps/MotionControllerMap.umap' failed to load '/Game/1M_Cube_Blueprint': Can't find file.
+[2019.10.03-10.02.21:728][668]LogLinker: Warning: While loading '../../../../../../Users/5K!LL2/Documents/Unreal Projects/Ai_test1 4.23/Content/ai_snail/VirtualRealityBP/Maps/MotionControllerMap.umap' failed to load '/Game/1M_Cube_Blueprint': Can't find file.
+[2019.10.03-10.02.21:728][668]LogLinker: Warning: While loading '../../../../../../Users/5K!LL2/Documents/Unreal Projects/Ai_test1 4.23/Content/ai_snail/VirtualRealityBP/Maps/MotionControllerMap.umap' failed to load '/Game/AI/Fly_test/snail': Can't find file.
+[2019.10.03-10.02.21:729][668]LogLinker: Warning: While loading '../../../../../../Users/5K!LL2/Documents/Unreal Projects/Ai_test1 4.23/Content/ai_snail/VirtualRealityBP/Maps/MotionControllerMap.umap' failed to load '/Game/AI/Fly_test/snail': Can't find file.
+[2019.10.03-10.02.21:729][668]LogLinker: Warning: Failed to load '/Game/1M_Cube_Blueprint': Can't find file.
+[2019.10.03-10.02.21:729][668]LogLinker: Warning: Failed to load '/Game/1M_Cube_Blueprint': Can't find file.
+[2019.10.03-10.02.21:729][668]LogLinker: Warning: Failed to load '/Game/AI/Fly_test/snail': Can't find file.
+[2019.10.03-10.02.21:729][668]LogLinker: Warning: Failed to load '/Game/AI/Fly_test/snail': Can't find file.
+[2019.10.03-10.02.21:730][668]LogLinker: Warning: Failed to load '/Game/1M_Cube_Blueprint': Can't find file.
+[2019.10.03-10.02.21:730][668]LogLinker: Warning: Failed to load '/Game/1M_Cube_Blueprint': Can't find file.
+[2019.10.03-10.02.21:730][668]LogLinker: Warning: Failed to load '/Game/AI/Fly_test/snail': Can't find file.
+[2019.10.03-10.02.21:730][668]LogLinker: Warning: Failed to load '/Game/AI/Fly_test/snail': Can't find file.
+[2019.10.03-10.02.21:730][668]LogLinker: Warning: Failed to load '/Game/1M_Cube_Blueprint': Can't find file.
+[2019.10.03-10.02.21:730][668]LogLinker: Warning: Failed to load '/Game/1M_Cube_Blueprint': Can't find file.
+[2019.10.03-10.02.21:730][668]LogLinker: Warning: Failed to load '/Game/AI/Fly_test/snail': Can't find file.
+[2019.10.03-10.02.21:730][668]LogLinker: Warning: Failed to load '/Game/AI/Fly_test/snail': Can't find file.
+[2019.10.03-10.02.21:731][668]LogLinker: Warning: Failed to load '/Game/AI/Fly_test/snail': Can't find file.
+[2019.10.03-10.02.21:731][668]LogLinker: Warning: Failed to load '/Game/AI/Fly_test/snail': Can't find file.
+[2019.10.03-10.02.21:731][668]LogLinker: Warning: Failed to load '/Script/ApexDestruction': Can't find file.
+[2019.10.03-10.02.21:731][668]LogLinker: Warning: Failed to load '/Script/ApexDestruction': Can't find file.
+[2019.10.03-10.02.21:731][668]LogLinker: Warning: Failed to load '/Script/ApexDestruction': Can't find file.
+[2019.10.03-10.02.21:731][668]LogLinker: Warning: Failed to load '/Script/ApexDestruction': Can't find file.
+[2019.10.03-10.02.21:731][668]LogLinker: Warning: Failed to load '/Script/ApexDestruction': Can't find file.
+[2019.10.03-10.02.21:731][668]LogLinker: Warning: Failed to load '/Script/ApexDestruction': Can't find file.
+[2019.10.03-10.02.21:731][668]LogLinker: Warning: Failed to load '/Script/ApexDestruction': Can't find file.
+[2019.10.03-10.02.21:731][668]LogLinker: Warning: Failed to load '/Script/ApexDestruction': Can't find file.
+[2019.10.03-10.02.21:731][668]LogLinker: Warning: Failed to load '/Game/Geometry/Meshes/1M_Cube_DM': Can't find file.
+[2019.10.03-10.02.21:731][668]LogLinker: Warning: Failed to load '/Game/Geometry/Meshes/1M_Cube_DM': Can't find file.
+[2019.10.03-10.02.21:731][668]LogLinker: Warning: Failed to load '/Game/1M_Cube_Blueprint': Can't find file.
+[2019.10.03-10.02.21:731][668]LogLinker: Warning: Failed to load '/Game/1M_Cube_Blueprint': Can't find file.
+[2019.10.03-10.02.21:732][668]LogLinker: Warning: Failed to load '/Game/AI/Fly_test/snail': Can't find file.
+[2019.10.03-10.02.21:732][668]LogLinker: Warning: Failed to load '/Game/AI/Fly_test/snail': Can't find file.
+[2019.10.03-10.02.21:732][668]LogLinker: Warning: Failed to load '/Game/Geometry/Meshes/1M_Cube_DM': Can't find file.
+[2019.10.03-10.02.21:732][668]LogLinker: Warning: Failed to load '/Game/Geometry/Meshes/1M_Cube_DM': Can't find file.
+[2019.10.03-10.02.21:732][668]LogLinker: Warning: Failed to load '/Script/ApexDestruction': Can't find file.
+[2019.10.03-10.02.21:732][668]LogLinker: Warning: Failed to load '/Script/ApexDestruction': Can't find file.
+[2019.10.03-10.02.21:732][668]LogLinker: Warning: Failed to load '/Game/AI/Fly_test/snail': Can't find file.
+[2019.10.03-10.02.21:732][668]LogLinker: Warning: Failed to load '/Game/AI/Fly_test/snail': Can't find file.
+[2019.10.03-10.02.21:732][668]LogLinker: Warning: Failed to load '/Game/AI/Fly_test/snail': Can't find file.
+[2019.10.03-10.02.21:732][668]LogLinker: Warning: Failed to load '/Game/AI/Fly_test/snail': Can't find file.
+[2019.10.03-10.02.21:733][668]LogLinker: Warning: Failed to load '/Game/AI/Fly_test/snail': Can't find file.
+[2019.10.03-10.02.21:733][668]LogLinker: Warning: Failed to load '/Game/AI/Fly_test/snail': Can't find file.
+[2019.10.03-10.02.21:733][668]LogLinker: Warning: Failed to load '/Game/1M_Cube_Blueprint': Can't find file.
+[2019.10.03-10.02.21:733][668]LogLinker: Warning: Failed to load '/Game/1M_Cube_Blueprint': Can't find file.
+[2019.10.03-10.02.21:733][668]LogLinker: Warning: Failed to load '/Game/AI/Fly_test/snail': Can't find file.
+[2019.10.03-10.02.21:733][668]LogLinker: Warning: Failed to load '/Game/AI/Fly_test/snail': Can't find file.
+[2019.10.03-10.02.21:734][668]LogLinker: Warning: Failed to load '/Game/1M_Cube_Blueprint': Can't find file.
+[2019.10.03-10.02.21:734][668]LogLinker: Warning: Failed to load '/Game/1M_Cube_Blueprint': Can't find file.
+[2019.10.03-10.02.21:734][668]LogLinker: Warning: Failed to load '/Game/1M_Cube_Blueprint': Can't find file.
+[2019.10.03-10.02.21:735][668]LogLinker: Warning: Failed to load '/Game/1M_Cube_Blueprint': Can't find file.
+[2019.10.03-10.02.21:735][668]LogLinker: Warning: Failed to load '/Game/AI/Fly_test/snail': Can't find file.
+[2019.10.03-10.02.21:735][668]LogLinker: Warning: Failed to load '/Game/AI/Fly_test/snail': Can't find file.
+[2019.10.03-10.02.21:735][668]LogLinker: Warning: Failed to load '/Game/AI/Fly_test/snail': Can't find file.
+[2019.10.03-10.02.21:735][668]LogLinker: Warning: Failed to load '/Game/AI/Fly_test/snail': Can't find file.
+[2019.10.03-10.02.21:736][668]LogLinker: Warning: Failed to load '/Script/ApexDestruction': Can't find file.
+[2019.10.03-10.02.21:737][668]LogLinker: Warning: Failed to load '/Script/ApexDestruction': Can't find file.
+[2019.10.03-10.02.21:737][668]LogLinker: Warning: Failed to load '/Script/ApexDestruction': Can't find file.
+[2019.10.03-10.02.21:737][668]LogLinker: Warning: Failed to load '/Script/ApexDestruction': Can't find file.
+[2019.10.03-10.02.21:737][668]LogLinker: Warning: Failed to load '/Script/ApexDestruction': Can't find file.
+[2019.10.03-10.02.21:737][668]LogLinker: Warning: Failed to load '/Script/ApexDestruction': Can't find file.
+[2019.10.03-10.02.21:737][668]LogLinker: Warning: Failed to load '/Script/ApexDestruction': Can't find file.
+[2019.10.03-10.02.21:737][668]LogLinker: Warning: Failed to load '/Script/ApexDestruction': Can't find file.
+[2019.10.03-10.02.21:777][668]LogAIModule: Creating AISystem for world MotionControllerMap
+[2019.10.03-10.02.21:793][668]LogEditorActor: Deleted Actor: Brush
+[2019.10.03-10.02.21:828][668]LogUObjectHash: Compacting FUObjectHashTables data took   3.63ms
+[2019.10.03-10.02.21:839][668]LogEditorActor: Deleted 1 Actors (0.148 secs)
+[2019.10.03-10.02.21:842][668]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'Arrow': snail_C /Game/ai_snail/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.snail_2
+[2019.10.03-10.02.21:842][668]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'Box': 1M_Cube_Blueprint_C /Game/ai_snail/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.1M_Cube_Blueprint_2
+[2019.10.03-10.02.21:842][668]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'CollisionCylinder': snail_C /Game/ai_snail/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.snail_2
+[2019.10.03-10.02.21:842][668]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'CharMoveComp': snail_C /Game/ai_snail/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.snail_2
+[2019.10.03-10.02.21:842][668]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'CharacterMesh0': snail_C /Game/ai_snail/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.snail_2
+[2019.10.03-10.02.21:842][668]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'Sphere': snail_C /Game/ai_snail/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.snail_2
+[2019.10.03-10.02.21:842][668]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'StaticMeshComponent0': 1M_Cube_Blueprint_C /Game/ai_snail/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.1M_Cube_Blueprint_2
+[2019.10.03-10.02.21:842][668]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'Widget': snail_C /Game/ai_snail/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.snail_2
+[2019.10.03-10.02.22:635][734]LogEditorViewport: Clicking on Actor (LMB): 1M_Cube_Blueprint_C (1M_Cube_Blueprint)
+[2019.10.03-10.02.43:482][737]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.10.03-10.03.44:404][790]LogEditorViewport: Clicking on Actor (LMB): 1M_Cube_Blueprint_C (1M_Cube_Blueprint)
+[2019.10.03-10.03.45:038][847]LogEditorViewport: Clicking on Actor (LMB): 1M_Cube_Blueprint_C (1M_Cube_Blueprint)
+[2019.10.03-10.03.46:925][989]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.03-10.04.13:663][752]BlueprintLog: New page: Compile snail
+[2019.10.03-10.04.13:669][752]LogBlueprint: Error: [Compiler snail] Can't connect pins  Other Actor  and  Object : This cast has an invalid target type (was the class deleted without a redirect?).
+[2019.10.03-10.04.13:670][752]LogBlueprint: Warning: [Compiler snail] Could not find a variable named "snail" in 'snail'.
+Make sure 'snail' has been compiled for  Set snail
+[2019.10.03-10.04.13:670][752]LogBlueprint: Error: [Compiler snail] Can't connect pins  Object  and  Return Value : This cast has an invalid target type (was the class deleted without a redirect?).
+[2019.10.03-10.04.13:670][752]LogBlueprint: Error: [Compiler snail] In use pin  As Snail Widget  no longer exists on node  Bad cast node . Please refresh node or break links to remove pin.
+[2019.10.03-10.04.13:670][752]LogBlueprint: Error: [Compiler snail] Can't connect pins  Return Value  and  Object : This cast has an invalid target type (was the class deleted without a redirect?).
+[2019.10.03-10.04.13:671][752]LogBlueprint: Warning: [Compiler snail] Could not find a variable named "DestructibleComponent" in 'snail'.
+Make sure 'snail' has been compiled for  Get DestructibleComponent
+[2019.10.03-10.04.13:671][752]LogBlueprint: Error: [Compiler snail] In use pin  <Unnamed>  no longer exists on node  Apply Radius Damage . Please refresh node or break links to remove pin.
+[2019.10.03-10.04.13:671][752]LogBlueprint: Error: [Compiler snail] In use pin  Target  no longer exists on node  Apply Radius Damage . Please refresh node or break links to remove pin.
+[2019.10.03-10.04.13:671][752]LogBlueprint: Warning: [Compiler snail] Input pin  Base Damage  specifying non-default value no longer exists on node  Apply Radius Damage . Please refresh node or reset pin to default value to remove pin.
+[2019.10.03-10.04.13:671][752]LogBlueprint: Error: [Compiler snail] In use pin  Hurt Origin  no longer exists on node  Apply Radius Damage . Please refresh node or break links to remove pin.
+[2019.10.03-10.04.13:671][752]LogBlueprint: Warning: [Compiler snail] Input pin  Damage Radius  specifying non-default value no longer exists on node  Apply Radius Damage . Please refresh node or reset pin to default value to remove pin.
+[2019.10.03-10.04.13:671][752]LogBlueprint: Warning: [Compiler snail] Input pin  Impulse Strength  specifying non-default value no longer exists on node  Apply Radius Damage . Please refresh node or reset pin to default value to remove pin.
+[2019.10.03-10.04.13:671][752]LogBlueprint: Error: [Compiler snail] Could not find a function named "ApplyRadiusDamage" in 'snail'.
+Make sure 'snail' has been compiled for  Apply Radius Damage
+[2019.10.03-10.04.13:671][752]LogBlueprint: Error: [Compiler snail] Can't connect pins  Object  and  Other Actor : This cast has an invalid target type (was the class deleted without a redirect?).
+[2019.10.03-10.04.13:671][752]LogBlueprint: Error: [Compiler snail] In use pin  As Destructible Actor  no longer exists on node  Bad cast node . Please refresh node or break links to remove pin.
+[2019.10.03-10.04.13:673][752]LogBlueprint: Error: [Compiler snail] The property associated with  Snail  could not be found in '/Game/ai_snail/AI/Fly_test/snail.snail_C'
+[2019.10.03-10.04.13:674][752]LogBlueprint: Error: [Compiler snail] The property associated with  Destructible Component  could not be found in '/Game/ai_snail/AI/Fly_test/snail.snail_C'
+[2019.10.03-10.04.13:872][752]LogUObjectHash: Compacting FUObjectHashTables data took   4.23ms
+[2019.10.03-10.04.30:316][845]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ai_snail/AI/Fly_test/snail" FILE="../../../../../../Users/5K!LL2/Documents/Unreal Projects/Ai_test1 4.23/Content/ai_snail/AI/Fly_test/snail.uasset" SILENT=true
+[2019.10.03-10.04.30:382][845]LogSavePackage: Moving '../../../../../../Users/5K!LL2/Documents/Unreal Projects/Ai_test1 4.23/Saved/snailE5DFC8BA4065EA33A7877F915F0861BD.tmp' to '../../../../../../Users/5K!LL2/Documents/Unreal Projects/Ai_test1 4.23/Content/ai_snail/AI/Fly_test/snail.uasset'
+[2019.10.03-10.04.30:844][873]BlueprintLog: New page: Compile snail
+[2019.10.03-10.04.30:849][873]LogBlueprint: Error: [Compiler snail] Can't connect pins  Other Actor  and  Object : This cast has an invalid target type (was the class deleted without a redirect?).
+[2019.10.03-10.04.30:850][873]LogBlueprint: Warning: [Compiler snail] Could not find a variable named "snail" in 'snail'.
+Make sure 'snail' has been compiled for  Set snail
+[2019.10.03-10.04.30:850][873]LogBlueprint: Error: [Compiler snail] Can't connect pins  Object  and  Return Value : This cast has an invalid target type (was the class deleted without a redirect?).
+[2019.10.03-10.04.30:850][873]LogBlueprint: Error: [Compiler snail] In use pin  As Snail Widget  no longer exists on node  Bad cast node . Please refresh node or break links to remove pin.
+[2019.10.03-10.04.30:851][873]LogBlueprint: Error: [Compiler snail] Can't connect pins  Return Value  and  Object : This cast has an invalid target type (was the class deleted without a redirect?).
+[2019.10.03-10.04.30:851][873]LogBlueprint: Warning: [Compiler snail] Could not find a variable named "DestructibleComponent" in 'snail'.
+Make sure 'snail' has been compiled for  Get DestructibleComponent
+[2019.10.03-10.04.30:851][873]LogBlueprint: Error: [Compiler snail] In use pin  <Unnamed>  no longer exists on node  Apply Radius Damage . Please refresh node or break links to remove pin.
+[2019.10.03-10.04.30:851][873]LogBlueprint: Error: [Compiler snail] In use pin  Target  no longer exists on node  Apply Radius Damage . Please refresh node or break links to remove pin.
+[2019.10.03-10.04.30:851][873]LogBlueprint: Warning: [Compiler snail] Input pin  Base Damage  specifying non-default value no longer exists on node  Apply Radius Damage . Please refresh node or reset pin to default value to remove pin.
+[2019.10.03-10.04.30:851][873]LogBlueprint: Error: [Compiler snail] In use pin  Hurt Origin  no longer exists on node  Apply Radius Damage . Please refresh node or break links to remove pin.
+[2019.10.03-10.04.30:851][873]LogBlueprint: Warning: [Compiler snail] Input pin  Damage Radius  specifying non-default value no longer exists on node  Apply Radius Damage . Please refresh node or reset pin to default value to remove pin.
+[2019.10.03-10.04.30:851][873]LogBlueprint: Warning: [Compiler snail] Input pin  Impulse Strength  specifying non-default value no longer exists on node  Apply Radius Damage . Please refresh node or reset pin to default value to remove pin.
+[2019.10.03-10.04.30:851][873]LogBlueprint: Error: [Compiler snail] Could not find a function named "ApplyRadiusDamage" in 'snail'.
+Make sure 'snail' has been compiled for  Apply Radius Damage
+[2019.10.03-10.04.30:851][873]LogBlueprint: Error: [Compiler snail] Can't connect pins  Object  and  Other Actor : This cast has an invalid target type (was the class deleted without a redirect?).
+[2019.10.03-10.04.30:851][873]LogBlueprint: Error: [Compiler snail] In use pin  As Destructible Actor  no longer exists on node  Bad cast node . Please refresh node or break links to remove pin.
+[2019.10.03-10.04.30:853][873]LogBlueprint: Error: [Compiler snail] The property associated with  Snail  could not be found in '/Game/ai_snail/AI/Fly_test/snail.snail_C'
+[2019.10.03-10.04.30:853][873]LogBlueprint: Error: [Compiler snail] The property associated with  Destructible Component  could not be found in '/Game/ai_snail/AI/Fly_test/snail.snail_C'
+[2019.10.03-10.04.31:054][873]LogUObjectHash: Compacting FUObjectHashTables data took   3.88ms
+[2019.10.03-10.04.34:443][137]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.03-10.04.35:563][251]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.10.03-10.04.42:065][921]Cmd: CLOSE_SLATE_MAINFRAME
+[2019.10.03-10.04.42:097][921]LogUObjectHash: Compacting FUObjectHashTables data took   3.60ms
+[2019.10.03-10.04.44:047][921]LogSlate: Window 'Save Content' being destroyed
+[2019.10.03-10.04.44:073][921]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.10.03-10.04.44:116][921]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2019.10.03-10.04.44:382][921]LogSavePackage: Moving '../../../../../../Users/5K!LL2/Documents/Unreal Projects/Ai_test1 4.23/Saved/MotionControllerMapA1D246684B1ACB50C9EA328995F07DEF.tmp' to '../../../../../../Users/5K!LL2/Documents/Unreal Projects/Ai_test1 4.23/Content/VirtualRealityBP/Maps/MotionControllerMap.umap'
+[2019.10.03-10.04.44:421][921]LogFileHelpers: Saving map 'MotionControllerMap' took 0.340
+[2019.10.03-10.04.44:522][921]LogSlate: Window 'snail' being destroyed
+[2019.10.03-10.04.44:535][921]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2019.10.03-10.04.44:575][921]LogSlate: Window 'Plugins' being destroyed
+[2019.10.03-10.04.44:579][921]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/' was aborted.
+[2019.10.03-10.04.44:580][921]LogSlate: Window 'Ai_test1 - Unreal Editor' being destroyed
+[2019.10.03-10.04.44:580][921]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.10.03-10.04.44:774][922]Cmd: QUIT_EDITOR
+[2019.10.03-10.04.46:316][922]LogExit: Preparing to exit.
+[2019.10.03-10.04.47:321][922]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2019.10.03-10.04.47:326][922]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2019.10.03-10.04.47:348][922]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2019.10.03-10.04.47:813][922]LogDemo: Cleaned up 0 splitscreen connections with owner deletion
+[2019.10.03-10.04.49:500][922]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2019.10.03-10.04.49:501][922]LogExit: Editor shut down
+[2019.10.03-10.04.49:608][922]LogExit: Transaction tracking system shut down
+[2019.10.03-10.04.51:603][922]LogExit: Object subsystem successfully closed.
+[2019.10.03-10.04.52:101][922]LogShaderCompilers: Display: Shaders left to compile 0
+[2019.10.03-10.04.52:239][922]LogModuleManager: Shutting down and abandoning module BlueprintGraph (672)
+[2019.10.03-10.04.52:239][922]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (670)
+[2019.10.03-10.04.52:239][922]LogModuleManager: Shutting down and abandoning module SceneOutliner (668)
+[2019.10.03-10.04.52:239][922]LogModuleManager: Shutting down and abandoning module AddContentDialog (666)
+[2019.10.03-10.04.52:240][922]LogModuleManager: Shutting down and abandoning module WidgetCarousel (665)
+[2019.10.03-10.04.52:240][922]LogModuleManager: Shutting down and abandoning module EditorWidgets (662)
+[2019.10.03-10.04.52:240][922]LogModuleManager: Shutting down and abandoning module CollectionManager (660)
+[2019.10.03-10.04.52:240][922]LogModuleManager: Shutting down and abandoning module StatsViewer (658)
+[2019.10.03-10.04.52:240][922]LogModuleManager: Shutting down and abandoning module VirtualTexturingEditor (656)
+[2019.10.03-10.04.52:240][922]LogModuleManager: Shutting down and abandoning module FoliageEdit (654)
+[2019.10.03-10.04.52:240][922]LogModuleManager: Shutting down and abandoning module LandscapeEditor (652)
+[2019.10.03-10.04.52:240][922]LogModuleManager: Shutting down and abandoning module MeshPaintMode (650)
+[2019.10.03-10.04.52:243][922]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (648)
+[2019.10.03-10.04.52:243][922]LogModuleManager: Shutting down and abandoning module ActorPickerMode (646)
+[2019.10.03-10.04.52:243][922]LogModuleManager: Shutting down and abandoning module GeometryMode (644)
+[2019.10.03-10.04.52:243][922]LogModuleManager: Shutting down and abandoning module TextureAlignMode (642)
+[2019.10.03-10.04.52:243][922]LogModuleManager: Shutting down and abandoning module BspMode (640)
+[2019.10.03-10.04.52:243][922]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (638)
+[2019.10.03-10.04.52:243][922]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (636)
+[2019.10.03-10.04.52:243][922]LogModuleManager: Shutting down and abandoning module AutomationWorker (634)
+[2019.10.03-10.04.52:243][922]LogModuleManager: Shutting down and abandoning module OculusMR (632)
+[2019.10.03-10.04.52:243][922]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (630)
+[2019.10.03-10.04.52:244][922]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (628)
+[2019.10.03-10.04.52:244][922]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (626)
+[2019.10.03-10.04.52:244][922]LogModuleManager: Shutting down and abandoning module PlacementMode (625)
+[2019.10.03-10.04.52:244][922]LogModuleManager: Shutting down and abandoning module MaterialEditor (624)
+[2019.10.03-10.04.52:244][922]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (620)
+[2019.10.03-10.04.52:244][922]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (618)
+[2019.10.03-10.04.52:244][922]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (616)
+[2019.10.03-10.04.52:244][922]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (614)
+[2019.10.03-10.04.52:244][922]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (612)
+[2019.10.03-10.04.52:244][922]LogModuleManager: Shutting down and abandoning module WebMMedia (610)
+[2019.10.03-10.04.52:244][922]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (608)
+[2019.10.03-10.04.52:244][922]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (606)
+[2019.10.03-10.04.52:244][922]LogModuleManager: Shutting down and abandoning module SequenceRecorder (605)
+[2019.10.03-10.04.52:244][922]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (602)
+[2019.10.03-10.04.52:244][922]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (600)
+[2019.10.03-10.04.52:244][922]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (598)
+[2019.10.03-10.04.52:244][922]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (596)
+[2019.10.03-10.04.52:244][922]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (594)
+[2019.10.03-10.04.52:244][922]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (592)
+[2019.10.03-10.04.52:244][922]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (590)
+[2019.10.03-10.04.52:244][922]LogModuleManager: Shutting down and abandoning module MagicLeapCameraPreviewFactory (588)
+[2019.10.03-10.04.52:244][922]LogModuleManager: Shutting down and abandoning module MagicLeapMediaCodecFactory (586)
+[2019.10.03-10.04.52:244][922]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (584)
+[2019.10.03-10.04.52:244][922]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (582)
+[2019.10.03-10.04.52:244][922]LogModuleManager: Shutting down and abandoning module CharacterAI (580)
+[2019.10.03-10.04.52:244][922]LogModuleManager: Shutting down and abandoning module SmartSnapping (578)
+[2019.10.03-10.04.52:244][922]LogModuleManager: Shutting down and abandoning module SessionServices (576)
+[2019.10.03-10.04.52:244][922]LogModuleManager: Shutting down and abandoning module MeshPaint (574)
+[2019.10.03-10.04.52:244][922]LogModuleManager: Shutting down and abandoning module ViewportSnapping (572)
+[2019.10.03-10.04.52:244][922]LogModuleManager: Shutting down and abandoning module ViewportInteraction (570)
+[2019.10.03-10.04.52:244][922]LogModuleManager: Shutting down and abandoning module ClothPainter (568)
+[2019.10.03-10.04.52:244][922]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (567)
+[2019.10.03-10.04.52:244][922]LogModuleManager: Shutting down and abandoning module LogVisualizer (564)
+[2019.10.03-10.04.52:244][922]LogModuleManager: Shutting down and abandoning module IntroTutorials (562)
+[2019.10.03-10.04.52:244][922]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (561)
+[2019.10.03-10.04.52:244][922]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (558)
+[2019.10.03-10.04.52:244][922]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (556)
+[2019.10.03-10.04.52:244][922]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (554)
+[2019.10.03-10.04.52:245][922]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (552)
+[2019.10.03-10.04.52:245][922]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (551)
+[2019.10.03-10.04.54:116][922]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (548)
+[2019.10.03-10.04.54:116][922]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (546)
+[2019.10.03-10.04.54:116][922]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (544)
+[2019.10.03-10.04.54:116][922]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (542)
+[2019.10.03-10.04.54:116][922]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (540)
+[2019.10.03-10.04.54:116][922]LogModuleManager: Shutting down and abandoning module InputBindingEditor (538)
+[2019.10.03-10.04.54:116][922]LogModuleManager: Shutting down and abandoning module MergeActors (536)
+[2019.10.03-10.04.54:116][922]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (534)
+[2019.10.03-10.04.54:117][922]LogModuleManager: Shutting down and abandoning module LocalizationService (533)
+[2019.10.03-10.04.54:117][922]LogModuleManager: Shutting down and abandoning module HardwareTargeting (530)
+[2019.10.03-10.04.54:117][922]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (528)
+[2019.10.03-10.04.54:117][922]LogModuleManager: Shutting down and abandoning module UndoHistory (526)
+[2019.10.03-10.04.54:117][922]LogModuleManager: Shutting down and abandoning module XmlParser (524)
+[2019.10.03-10.04.54:117][922]LogModuleManager: Shutting down and abandoning module Blutility (522)
+[2019.10.03-10.04.54:117][922]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (520)
+[2019.10.03-10.04.54:118][922]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (519)
+[2019.10.03-10.04.54:118][922]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (516)
+[2019.10.03-10.04.54:119][922]LogModuleManager: Shutting down and abandoning module SettingsEditor (514)
+[2019.10.03-10.04.54:119][922]LogModuleManager: Shutting down and abandoning module ProjectLauncher (512)
+[2019.10.03-10.04.54:119][922]LogModuleManager: Shutting down and abandoning module SessionFrontend (510)
+[2019.10.03-10.04.54:119][922]LogModuleManager: Shutting down and abandoning module ProfilerClient (508)
+[2019.10.03-10.04.54:119][922]LogModuleManager: Shutting down and abandoning module DeviceManager (506)
+[2019.10.03-10.04.54:119][922]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (505)
+[2019.10.03-10.04.54:322][922]LogModuleManager: Shutting down and abandoning module AutomationController (502)
+[2019.10.03-10.04.54:322][922]LogModuleManager: Shutting down and abandoning module AutomationWindow (500)
+[2019.10.03-10.04.54:322][922]LogModuleManager: Shutting down and abandoning module Layers (498)
+[2019.10.03-10.04.54:322][922]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (496)
+[2019.10.03-10.04.54:322][922]LogModuleManager: Shutting down and abandoning module DetailCustomizations (494)
+[2019.10.03-10.04.54:322][922]LogModuleManager: Shutting down and abandoning module PackagesDialog (492)
+[2019.10.03-10.04.54:322][922]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (490)
+[2019.10.03-10.04.54:322][922]LogModuleManager: Shutting down and abandoning module Persona (488)
+[2019.10.03-10.04.54:323][922]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (487)
+[2019.10.03-10.04.54:323][922]LogModuleManager: Shutting down and abandoning module AnimGraph (485)
+[2019.10.03-10.04.54:323][922]LogModuleManager: Shutting down and abandoning module Kismet (482)
+[2019.10.03-10.04.54:346][922]LogModuleManager: Shutting down and abandoning module KismetWidgets (481)
+[2019.10.03-10.04.54:346][922]LogModuleManager: Shutting down and abandoning module GraphEditor (478)
+[2019.10.03-10.04.54:346][922]LogModuleManager: Shutting down and abandoning module StructViewer (476)
+[2019.10.03-10.04.54:346][922]LogModuleManager: Shutting down and abandoning module ClassViewer (474)
+[2019.10.03-10.04.54:356][922]LogModuleManager: Shutting down and abandoning module Toolbox (472)
+[2019.10.03-10.04.54:356][922]LogModuleManager: Shutting down and abandoning module ModuleUI (470)
+[2019.10.03-10.04.54:356][922]LogModuleManager: Shutting down and abandoning module MovieSceneTools (468)
+[2019.10.03-10.04.54:357][922]LogModuleManager: Shutting down and abandoning module OutputLog (466)
+[2019.10.03-10.04.54:357][922]LogModuleManager: Shutting down and abandoning module GammaUI (464)
+[2019.10.03-10.04.54:357][922]LogModuleManager: Shutting down and abandoning module Documentation (462)
+[2019.10.03-10.04.54:358][922]LogModuleManager: Shutting down and abandoning module LiveCoding (460)
+[2019.10.03-10.04.54:361][922]LogModuleManager: Shutting down and abandoning module LevelSequence (458)
+[2019.10.03-10.04.54:361][922]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (456)
+[2019.10.03-10.04.54:361][922]LogModuleManager: Shutting down and abandoning module MovieScene (454)
+[2019.10.03-10.04.54:361][922]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (452)
+[2019.10.03-10.04.54:361][922]LogModuleManager: Shutting down and abandoning module LauncherPlatform (450)
+[2019.10.03-10.04.54:361][922]LogModuleManager: Shutting down and abandoning module AnalyticsET (448)
+[2019.10.03-10.04.54:361][922]LogModuleManager: Shutting down and abandoning module PortalServices (446)
+[2019.10.03-10.04.54:361][922]LogModuleManager: Shutting down and abandoning module PortalRpc (444)
+[2019.10.03-10.04.54:361][922]LogModuleManager: Shutting down and abandoning module MessagingRpc (442)
+[2019.10.03-10.04.54:361][922]LogModuleManager: Shutting down and abandoning module AIModule (440)
+[2019.10.03-10.04.54:361][922]LogModuleManager: Shutting down and abandoning module GameplayDebugger (439)
+[2019.10.03-10.04.54:361][922]LogModuleManager: Shutting down and abandoning module AITestSuite (437)
+[2019.10.03-10.04.54:362][922]LogModuleManager: Shutting down and abandoning module NavigationSystem (435)
+[2019.10.03-10.04.54:362][922]LogModuleManager: Shutting down and abandoning module DesktopPlatform (432)
+[2019.10.03-10.04.54:362][922]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (430)
+[2019.10.03-10.04.54:624][922]LogModuleManager: Shutting down and abandoning module ProfilerService (428)
+[2019.10.03-10.04.54:710][922]LogModuleManager: Shutting down and abandoning module TaskGraph (426)
+[2019.10.03-10.04.54:710][922]LogModuleManager: Shutting down and abandoning module ScreenshotTools (424)
+[2019.10.03-10.04.54:710][922]LogModuleManager: Shutting down and abandoning module SteamVRController (422)
+[2019.10.03-10.04.54:710][922]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (420)
+[2019.10.03-10.04.54:710][922]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (418)
+[2019.10.03-10.04.54:710][922]LogModuleManager: Shutting down and abandoning module OculusEditor (416)
+[2019.10.03-10.04.54:710][922]LogModuleManager: Shutting down and abandoning module OculusInput (414)
+[2019.10.03-10.04.54:710][922]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (412)
+[2019.10.03-10.04.54:711][922]LogModuleManager: Shutting down and abandoning module EditableMesh (410)
+[2019.10.03-10.04.54:711][922]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (408)
+[2019.10.03-10.04.54:711][922]LogModuleManager: Shutting down and abandoning module CableComponent (406)
+[2019.10.03-10.04.54:711][922]LogModuleManager: Shutting down and abandoning module AudioCapture (404)
+[2019.10.03-10.04.54:711][922]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (402)
+[2019.10.03-10.04.54:711][922]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (400)
+[2019.10.03-10.04.54:711][922]LogModuleManager: Shutting down and abandoning module AppleImageUtils (398)
+[2019.10.03-10.04.54:711][922]LogModuleManager: Shutting down and abandoning module AndroidPermission (396)
+[2019.10.03-10.04.54:711][922]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (394)
+[2019.10.03-10.04.54:711][922]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (392)
+[2019.10.03-10.04.54:711][922]LogModuleManager: Shutting down and abandoning module MediaCompositing (390)
+[2019.10.03-10.04.54:711][922]LogModuleManager: Shutting down and abandoning module ImgMedia (388)
+[2019.10.03-10.04.54:711][922]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (386)
+[2019.10.03-10.04.54:711][922]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (384)
+[2019.10.03-10.04.54:711][922]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (382)
+[2019.10.03-10.04.54:711][922]LogModuleManager: Shutting down and abandoning module HTML5Networking (380)
+[2019.10.03-10.04.54:711][922]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (378)
+[2019.10.03-10.04.54:711][922]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (376)
+[2019.10.03-10.04.54:711][922]LogModuleManager: Shutting down and abandoning module BackChannel (374)
+[2019.10.03-10.04.54:711][922]LogModuleManager: Shutting down and abandoning module AutomationUtilsEditor (372)
+[2019.10.03-10.04.54:711][922]LogModuleManager: Shutting down and abandoning module AutomationUtils (370)
+[2019.10.03-10.04.54:711][922]LogModuleManager: Shutting down and abandoning module AlembicImporter (368)
+[2019.10.03-10.04.54:711][922]LogModuleManager: Shutting down and abandoning module AlembicLibrary (367)
+[2019.10.03-10.04.54:711][922]LogModuleManager: Shutting down and abandoning module GeometryCache (366)
+[2019.10.03-10.04.54:711][922]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (365)
+[2019.10.03-10.04.54:711][922]LogModuleManager: Shutting down and abandoning module VariantManagerContent (360)
+[2019.10.03-10.04.54:711][922]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (358)
+[2019.10.03-10.04.54:711][922]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (356)
+[2019.10.03-10.04.54:711][922]LogModuleManager: Shutting down and abandoning module PluginBrowser (354)
+[2019.10.03-10.04.54:711][922]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (352)
+[2019.10.03-10.04.54:711][922]LogModuleManager: Shutting down and abandoning module MaterialAnalyzer (350)
+[2019.10.03-10.04.54:711][922]LogModuleManager: Shutting down and abandoning module CurveEditorTools (348)
+[2019.10.03-10.04.54:711][922]LogModuleManager: Shutting down and abandoning module CurveEditor (347)
+[2019.10.03-10.04.54:712][922]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (344)
+[2019.10.03-10.04.54:715][922]LogModuleManager: Shutting down and abandoning module CryptoKeys (342)
+[2019.10.03-10.04.54:715][922]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (340)
+[2019.10.03-10.04.54:715][922]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (338)
+[2019.10.03-10.04.54:715][922]LogModuleManager: Shutting down and abandoning module UObjectPlugin (336)
+[2019.10.03-10.04.54:715][922]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (334)
+[2019.10.03-10.04.54:715][922]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (332)
+[2019.10.03-10.04.54:715][922]LogModuleManager: Shutting down and abandoning module GitSourceControl (330)
+[2019.10.03-10.04.54:715][922]LogModuleManager: Shutting down and abandoning module SourceControl (329)
+[2019.10.03-10.04.54:715][922]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (326)
+[2019.10.03-10.04.54:715][922]LogModuleManager: Shutting down and abandoning module AnimationSharingEd (324)
+[2019.10.03-10.04.54:715][922]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (322)
+[2019.10.03-10.04.54:715][922]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (320)
+[2019.10.03-10.04.54:715][922]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (318)
+[2019.10.03-10.04.54:715][922]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (316)
+[2019.10.03-10.04.54:715][922]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (314)
+[2019.10.03-10.04.54:715][922]LogModuleManager: Shutting down and abandoning module Paper2DEditor (312)
+[2019.10.03-10.04.54:715][922]LogModuleManager: Shutting down and abandoning module SignificanceManager (310)
+[2019.10.03-10.04.54:715][922]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (308)
+[2019.10.03-10.04.54:715][922]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (306)
+[2019.10.03-10.04.54:715][922]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (302)
+[2019.10.03-10.04.54:716][922]LogModuleManager: Shutting down and abandoning module ActorSequence (300)
+[2019.10.03-10.04.54:716][922]LogModuleManager: Shutting down and abandoning module UdpMessaging (298)
+[2019.10.03-10.04.54:883][922]LogModuleManager: Shutting down and abandoning module TcpMessaging (296)
+[2019.10.03-10.04.55:053][922]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (294)
+[2019.10.03-10.04.55:053][922]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (292)
+[2019.10.03-10.04.55:053][922]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (290)
+[2019.10.03-10.04.55:053][922]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (288)
+[2019.10.03-10.04.55:053][922]LogModuleManager: Shutting down and abandoning module MagicLeapController (286)
+[2019.10.03-10.04.55:053][922]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2019.10.03-10.04.55:053][922]LogModuleManager: Shutting down and abandoning module MagicLeapAR (284)
+[2019.10.03-10.04.55:053][922]LogModuleManager: Shutting down and abandoning module AugmentedReality (283)
+[2019.10.03-10.04.55:053][922]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (280)
+[2019.10.03-10.04.55:053][922]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (278)
+[2019.10.03-10.04.55:053][922]LogModuleManager: Shutting down and abandoning module FacialAnimation (276)
+[2019.10.03-10.04.55:053][922]LogModuleManager: Shutting down and abandoning module DataValidation (274)
+[2019.10.03-10.04.55:053][922]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (272)
+[2019.10.03-10.04.55:054][922]LogModuleManager: Shutting down and abandoning module LevelEditor (271)
+[2019.10.03-10.04.55:058][922]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (270)
+[2019.10.03-10.04.55:058][922]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (268)
+[2019.10.03-10.04.55:058][922]LogModuleManager: Shutting down and abandoning module MainFrame (266)
+[2019.10.03-10.04.55:058][922]LogModuleManager: Shutting down and abandoning module HotReload (265)
+[2019.10.03-10.04.55:058][922]LogModuleManager: Shutting down and abandoning module ContentBrowser (261)
+[2019.10.03-10.04.55:060][922]LogModuleManager: Shutting down and abandoning module TreeMap (259)
+[2019.10.03-10.04.55:060][922]LogModuleManager: Shutting down and abandoning module AnimationSharing (256)
+[2019.10.03-10.04.55:060][922]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (254)
+[2019.10.03-10.04.55:060][922]LogModuleManager: Shutting down and abandoning module Paper2D (252)
+[2019.10.03-10.04.55:060][922]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (250)
+[2019.10.03-10.04.55:079][922]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (248)
+[2019.10.03-10.04.55:079][922]LogModuleManager: Shutting down and abandoning module NetworkReplayStreaming (246)
+[2019.10.03-10.04.55:079][922]LogModuleManager: Shutting down and abandoning module PacketHandler (244)
+[2019.10.03-10.04.55:079][922]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (242)
+[2019.10.03-10.04.55:079][922]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (240)
+[2019.10.03-10.04.55:079][922]LogModuleManager: Shutting down and abandoning module MediaAssets (238)
+[2019.10.03-10.04.55:079][922]LogModuleManager: Shutting down and abandoning module Overlay (236)
+[2019.10.03-10.04.55:079][922]LogModuleManager: Shutting down and abandoning module OverlayEditor (235)
+[2019.10.03-10.04.55:079][922]LogModuleManager: Shutting down and abandoning module EnvironmentQueryEditor (232)
+[2019.10.03-10.04.55:079][922]LogModuleManager: Shutting down and abandoning module VREditor (230)
+[2019.10.03-10.04.55:079][922]LogModuleManager: Shutting down and abandoning module StringTableEditor (228)
+[2019.10.03-10.04.55:079][922]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (226)
+[2019.10.03-10.04.55:079][922]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (224)
+[2019.10.03-10.04.55:079][922]LogModuleManager: Shutting down and abandoning module FunctionalTesting (222)
+[2019.10.03-10.04.55:087][922]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (220)
+[2019.10.03-10.04.55:087][922]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (219)
+[2019.10.03-10.04.55:088][922]LogModuleManager: Shutting down and abandoning module UMG (216)
+[2019.10.03-10.04.55:088][922]LogModuleManager: Shutting down and abandoning module UMGEditor (215)
+[2019.10.03-10.04.55:088][922]LogModuleManager: Shutting down and abandoning module Sequencer (214)
+[2019.10.03-10.04.55:088][922]LogModuleManager: Shutting down and abandoning module MessageLog (211)
+[2019.10.03-10.04.55:088][922]LogModuleManager: Shutting down and abandoning module SlateReflector (206)
+[2019.10.03-10.04.55:088][922]LogModuleManager: Shutting down and abandoning module Slate (204)
+[2019.10.03-10.04.55:088][922]LogModuleManager: Shutting down and abandoning module LandscapeEditorUtilities (202)
+[2019.10.03-10.04.55:088][922]LogModuleManager: Shutting down and abandoning module EditorStyle (200)
+[2019.10.03-10.04.55:090][922]LogModuleManager: Shutting down and abandoning module UnrealEd (198)
+[2019.10.03-10.04.55:090][922]LogModuleManager: Shutting down and abandoning module MRMesh (196)
+[2019.10.03-10.04.55:090][922]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (194)
+[2019.10.03-10.04.55:094][922]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (192)
+[2019.10.03-10.04.55:105][922]LogModuleManager: Shutting down and abandoning module XAudio2 (190)
+[2019.10.03-10.04.55:105][922]LogModuleManager: Shutting down and abandoning module Networking (188)
+[2019.10.03-10.04.55:105][922]LogModuleManager: Shutting down and abandoning module Core (186)
+[2019.10.03-10.04.55:105][922]LogModuleManager: Shutting down and abandoning module KismetCompiler (184)
+[2019.10.03-10.04.55:105][922]LogModuleManager: Shutting down and abandoning module MeshUtilities (182)
+[2019.10.03-10.04.55:105][922]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (181)
+[2019.10.03-10.04.55:105][922]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (180)
+[2019.10.03-10.04.55:105][922]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (179)
+[2019.10.03-10.04.55:105][922]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (177)
+[2019.10.03-10.04.55:105][922]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (175)
+[2019.10.03-10.04.55:105][922]LogModuleManager: Shutting down and abandoning module MaterialBaking (171)
+[2019.10.03-10.04.55:105][922]LogModuleManager: Shutting down and abandoning module NullInstallBundleManager (166)
+[2019.10.03-10.04.55:105][922]LogModuleManager: Shutting down and abandoning module DerivedDataCache (164)
+[2019.10.03-10.04.55:303][922]LogDerivedDataCache: Shutdown
+[2019.10.03-10.04.55:303][922]LogModuleManager: Shutting down and abandoning module XGEController (162)
+[2019.10.03-10.04.55:303][922]LogModuleManager: Shutting down and abandoning module TargetPlatform (160)
+[2019.10.03-10.04.55:303][922]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (159)
+[2019.10.03-10.04.55:303][922]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (157)
+[2019.10.03-10.04.55:303][922]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (155)
+[2019.10.03-10.04.55:303][922]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (153)
+[2019.10.03-10.04.55:303][922]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (151)
+[2019.10.03-10.04.55:303][922]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (149)
+[2019.10.03-10.04.55:303][922]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (147)
+[2019.10.03-10.04.55:303][922]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (145)
+[2019.10.03-10.04.55:303][922]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (143)
+[2019.10.03-10.04.55:304][922]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (141)
+[2019.10.03-10.04.55:304][922]LogModuleManager: Shutting down and abandoning module ImageWrapper (140)
+[2019.10.03-10.04.55:304][922]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (137)
+[2019.10.03-10.04.55:304][922]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (135)
+[2019.10.03-10.04.55:304][922]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (133)
+[2019.10.03-10.04.55:304][922]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (131)
+[2019.10.03-10.04.55:304][922]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (129)
+[2019.10.03-10.04.55:305][922]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (127)
+[2019.10.03-10.04.55:305][922]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (125)
+[2019.10.03-10.04.55:308][922]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (123)
+[2019.10.03-10.04.55:308][922]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (121)
+[2019.10.03-10.04.55:309][922]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (119)
+[2019.10.03-10.04.55:309][922]LogModuleManager: Shutting down and abandoning module Messaging (117)
+[2019.10.03-10.04.55:309][922]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (115)
+[2019.10.03-10.04.55:310][922]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (113)
+[2019.10.03-10.04.55:310][922]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (111)
+[2019.10.03-10.04.55:329][922]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (109)
+[2019.10.03-10.04.55:329][922]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (107)
+[2019.10.03-10.04.55:330][922]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (105)
+[2019.10.03-10.04.55:330][922]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (103)
+[2019.10.03-10.04.55:330][922]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (101)
+[2019.10.03-10.04.55:330][922]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (99)
+[2019.10.03-10.04.55:330][922]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (97)
+[2019.10.03-10.04.55:330][922]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (95)
+[2019.10.03-10.04.55:330][922]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (93)
+[2019.10.03-10.04.55:330][922]LogModuleManager: Shutting down and abandoning module InputCore (90)
+[2019.10.03-10.04.55:330][922]LogModuleManager: Shutting down and abandoning module Settings (88)
+[2019.10.03-10.04.55:330][922]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (86)
+[2019.10.03-10.04.55:338][922]LogModuleManager: Shutting down and abandoning module PhysXCooking (84)
+[2019.10.03-10.04.55:338][922]LogModuleManager: Shutting down and abandoning module WindowsPlatformFeatures (82)
+[2019.10.03-10.04.55:338][922]LogModuleManager: Shutting down and abandoning module GameplayMediaEncoder (81)
+[2019.10.03-10.04.55:338][922]LogModuleManager: Shutting down and abandoning module SteamVR (78)
+[2019.10.03-10.04.55:338][922]LogHMD: Freeing OpenVRDLLHandle.
+[2019.10.03-10.04.55:338][922]LogModuleManager: Shutting down and abandoning module OculusHMD (76)
+[2019.10.03-10.04.55:338][922]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (74)
+[2019.10.03-10.04.55:338][922]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (72)
+[2019.10.03-10.04.55:338][922]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (70)
+[2019.10.03-10.04.55:338][922]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (66)
+[2019.10.03-10.04.55:381][922]LogModuleManager: Shutting down and abandoning module XMPP (61)
+[2019.10.03-10.04.55:381][922]LogModuleManager: Shutting down and abandoning module WebSockets (60)
+[2019.10.03-10.04.55:504][922]LogModuleManager: Shutting down and abandoning module HTTP (57)
+[2019.10.03-10.04.55:504][922]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2019.10.03-10.04.55:504][922]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BA7B01AB8-44DE-AA64-8AEC-39B9DF525D8E%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=ea409fd9441e5f42ad24c89ab40e6a78%7C56ff8bf09f974dd7bbbf233125baea74%7C6e4d110e-3b91-4b82-b815-e927ab42669c&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2019.10.03-10.04.55:765][922]LogModuleManager: Shutting down and abandoning module SSL (56)
+[2019.10.03-10.04.55:770][922]LogModuleManager: Shutting down and abandoning module WmfMedia (52)
+[2019.10.03-10.04.55:771][922]LogModuleManager: Shutting down and abandoning module Media (51)
+[2019.10.03-10.04.55:934][922]LogModuleManager: Shutting down and abandoning module MagicLeap (48)
+[2019.10.03-10.04.55:934][922]LogModuleManager: Shutting down and abandoning module DatasmithContent (46)
+[2019.10.03-10.04.55:991][922]LogModuleManager: Shutting down and abandoning module AISupportModule (44)
+[2019.10.03-10.04.55:991][922]LogModuleManager: Shutting down and abandoning module PlatformCryptoOpenSSL (42)
+[2019.10.03-10.04.55:991][922]LogModuleManager: Shutting down and abandoning module PlatformCrypto (40)
+[2019.10.03-10.04.55:991][922]LogModuleManager: Shutting down and abandoning module AnimationModifiers (38)
+[2019.10.03-10.04.55:991][922]LogModuleManager: Shutting down and abandoning module PropertyEditor (37)
+[2019.10.03-10.04.55:991][922]LogModuleManager: Shutting down and abandoning module AudioEditor (34)
+[2019.10.03-10.04.55:991][922]LogModuleManager: Shutting down and abandoning module TextureCompressor (32)
+[2019.10.03-10.04.55:991][922]LogModuleManager: Shutting down and abandoning module RenderCore (30)
+[2019.10.03-10.04.55:991][922]LogModuleManager: Shutting down and abandoning module Landscape (28)
+[2019.10.03-10.04.55:991][922]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (26)
+[2019.10.03-10.04.55:992][922]LogModuleManager: Shutting down and abandoning module OpenGLDrv (24)
+[2019.10.03-10.04.55:993][922]LogModuleManager: Shutting down and abandoning module D3D11RHI (22)
+[2019.10.03-10.04.55:993][922]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (20)
+[2019.10.03-10.04.55:993][922]LogModuleManager: Shutting down and abandoning module Renderer (18)
+[2019.10.03-10.04.55:993][922]LogModuleManager: Shutting down and abandoning module Engine (16)
+[2019.10.03-10.04.55:993][922]LogModuleManager: Shutting down and abandoning module CoreUObject (14)
+[2019.10.03-10.04.55:993][922]LogModuleManager: Shutting down and abandoning module NetworkFile (12)
+[2019.10.03-10.04.55:993][922]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (10)
+[2019.10.03-10.04.55:993][922]LogModuleManager: Shutting down and abandoning module StreamingFile (8)
+[2019.10.03-10.04.55:993][922]LogModuleManager: Shutting down and abandoning module SandboxFile (6)
+[2019.10.03-10.04.55:993][922]LogModuleManager: Shutting down and abandoning module PakFile (4)
+[2019.10.03-10.04.55:993][922]LogModuleManager: Shutting down and abandoning module RSA (3)
+[2019.10.03-10.04.55:993][922]LogD3D11RHI: Shutdown
+[2019.10.03-10.04.55:993][922]LogD3D11RHI: CleanupD3DDevice
+[2019.10.03-10.04.55:994][922]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2019.10.03-10.04.55:995][922]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2019.10.03-10.04.55:995][922]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2019.10.03-10.04.57:001][922]LogD3D11RHI: ~FD3D11DynamicRHI
+[2019.10.03-10.04.57:047][922]LogExit: Exiting.
+[2019.10.03-10.04.57:131][922]Log file closed, 10/03/19 15:34:57

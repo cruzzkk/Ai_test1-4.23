@@ -1,0 +1,1468 @@
+﻿Log file open, 11/07/19 10:42:14
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: Ai_test1
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.075582
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +5:30, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin ApexDestruction
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.23-CL-9631420
+LogInit: Engine Version: 4.23.1-9631420+++UE4+Release-4.23
+LogInit: Compatible Engine Version: 4.23.0-8386587+++UE4+Release-4.23
+LogInit: Net CL: 8386587
+LogInit: OS: Windows 10 (Release 1903) (), CPU: Intel(R) Core(TM) i5-4460  CPU @ 3.20GHz, GPU: NVIDIA GeForce GTX 1060 3GB
+LogInit: Compiled (64-bit): Oct 18 2019 02:07:44
+LogInit: Compiled with Visual C++: 19.16.27030.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.23
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.23/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 23
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 34
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 35
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 31
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 27
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 6
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 9
+LogInit: Presizing for max 16777216 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2019.11.07-05.12.14:973][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2019.11.07-05.12.14:973][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2019.11.07-05.12.14:973][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [D:/Backup(AR-Enemy AI)/AR&AI/Ai_test1 4.23/Saved/Config/Windows/Engine.ini]
+[2019.11.07-05.12.14:973][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2019.11.07-05.12.14:973][  0]LogConfig: Setting CVar [[r.DefaultFeature.AmbientOcclusion:0]]
+[2019.11.07-05.12.14:973][  0]LogConfig: Setting CVar [[r.DefaultFeature.AmbientOcclusionStaticFraction:0]]
+[2019.11.07-05.12.14:973][  0]LogConfig: Setting CVar [[vr.InstancedStereo:1]]
+[2019.11.07-05.12.14:973][  0]LogConfig: Setting CVar [[r.SeparateTranslucency:0]]
+[2019.11.07-05.12.14:973][  0]LogConfig: Setting CVar [[r.HZBOcclusion:0]]
+[2019.11.07-05.12.14:973][  0]LogConfig: Setting CVar [[r.SSR.MaxRoughness:0]]
+[2019.11.07-05.12.14:973][  0]LogConfig: Setting CVar [[r.rhicmdbypass:0]]
+[2019.11.07-05.12.14:973][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [D:/Backup(AR-Enemy AI)/AR&AI/Ai_test1 4.23/Saved/Config/Windows/Engine.ini]
+[2019.11.07-05.12.14:973][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/Backup(AR-Enemy AI)/AR&AI/Ai_test1 4.23/Saved/Config/Windows/Engine.ini]
+[2019.11.07-05.12.14:973][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2019.11.07-05.12.14:973][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2019.11.07-05.12.14:973][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2019.11.07-05.12.14:973][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2019.11.07-05.12.14:973][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2019.11.07-05.12.14:973][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2019.11.07-05.12.14:973][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2019.11.07-05.12.14:973][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2019.11.07-05.12.14:973][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2019.11.07-05.12.14:973][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2019.11.07-05.12.14:973][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2019.11.07-05.12.14:973][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2019.11.07-05.12.14:973][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2019.11.07-05.12.14:973][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [D:/Backup(AR-Enemy AI)/AR&AI/Ai_test1 4.23/Saved/Config/Windows/Engine.ini]
+[2019.11.07-05.12.14:973][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2019.11.07-05.12.14:973][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2019.11.07-05.12.14:973][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2019.11.07-05.12.14:973][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2019.11.07-05.12.14:973][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2019.11.07-05.12.14:973][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2019.11.07-05.12.14:973][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2019.11.07-05.12.14:973][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2019.11.07-05.12.14:973][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2019.11.07-05.12.14:973][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2019.11.07-05.12.14:973][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2019.11.07-05.12.14:973][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2019.11.07-05.12.14:973][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2019.11.07-05.12.14:973][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [D:/Backup(AR-Enemy AI)/AR&AI/Ai_test1 4.23/Saved/Config/Windows/Engine.ini]
+[2019.11.07-05.12.14:973][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [D:/Backup(AR-Enemy AI)/AR&AI/Ai_test1 4.23/Saved/Config/Windows/Engine.ini]
+[2019.11.07-05.12.14:981][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/Backup(AR-Enemy AI)/AR&AI/Ai_test1 4.23/Saved/Config/Windows/Scalability.ini]
+[2019.11.07-05.12.14:981][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.11.07-05.12.14:981][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.11.07-05.12.14:981][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/Backup(AR-Enemy AI)/AR&AI/Ai_test1 4.23/Saved/Config/Windows/Scalability.ini]
+[2019.11.07-05.12.14:981][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:3]]
+[2019.11.07-05.12.14:981][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/Backup(AR-Enemy AI)/AR&AI/Ai_test1 4.23/Saved/Config/Windows/Scalability.ini]
+[2019.11.07-05.12.14:981][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.11.07-05.12.14:981][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.11.07-05.12.14:981][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.11.07-05.12.14:981][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.11.07-05.12.14:981][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.11.07-05.12.14:981][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.11.07-05.12.14:981][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.11.07-05.12.14:981][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.11.07-05.12.14:981][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.11.07-05.12.14:981][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.11.07-05.12.14:981][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.11.07-05.12.14:981][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.11.07-05.12.14:981][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.11.07-05.12.14:981][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.11.07-05.12.14:981][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.11.07-05.12.14:981][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.11.07-05.12.14:981][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.11.07-05.12.14:981][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.11.07-05.12.14:981][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/Backup(AR-Enemy AI)/AR&AI/Ai_test1 4.23/Saved/Config/Windows/Scalability.ini]
+[2019.11.07-05.12.14:982][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:0]]
+[2019.11.07-05.12.14:982][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.11.07-05.12.14:982][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.11.07-05.12.14:982][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:0]]
+[2019.11.07-05.12.14:982][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.11.07-05.12.14:982][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:0]]
+[2019.11.07-05.12.14:982][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.11.07-05.12.14:982][  0]LogConfig: Setting CVar [[r.LensFlareQuality:0]]
+[2019.11.07-05.12.14:982][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:0]]
+[2019.11.07-05.12.14:982][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.11.07-05.12.14:982][  0]LogConfig: Setting CVar [[r.BloomQuality:1]]
+[2019.11.07-05.12.14:982][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:0]]
+[2019.11.07-05.12.14:982][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.11.07-05.12.14:982][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.11.07-05.12.14:982][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.11.07-05.12.14:982][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.11.07-05.12.14:982][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.11.07-05.12.14:982][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.11.07-05.12.14:982][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.11.07-05.12.14:982][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.11.07-05.12.14:982][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.11.07-05.12.14:982][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.11.07-05.12.14:982][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.11.07-05.12.14:982][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.11.07-05.12.14:982][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.11.07-05.12.14:982][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.11.07-05.12.14:982][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.11.07-05.12.14:982][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.11.07-05.12.14:982][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.11.07-05.12.14:982][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.11.07-05.12.14:982][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/Backup(AR-Enemy AI)/AR&AI/Ai_test1 4.23/Saved/Config/Windows/Scalability.ini]
+[2019.11.07-05.12.14:982][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.11.07-05.12.14:982][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.11.07-05.12.14:982][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.11.07-05.12.14:982][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.11.07-05.12.14:982][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.11.07-05.12.14:982][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.11.07-05.12.14:982][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.11.07-05.12.14:982][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.11.07-05.12.14:982][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/Backup(AR-Enemy AI)/AR&AI/Ai_test1 4.23/Saved/Config/Windows/Scalability.ini]
+[2019.11.07-05.12.14:982][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:4]]
+[2019.11.07-05.12.14:982][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.11.07-05.12.14:982][  0]LogConfig: Setting CVar [[r.SSR.Quality:0]]
+[2019.11.07-05.12.14:982][  0]LogConfig: Setting CVar [[r.SceneColorFormat:2]]
+[2019.11.07-05.12.14:982][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.11.07-05.12.14:982][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:0]]
+[2019.11.07-05.12.14:982][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.11.07-05.12.14:982][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.11.07-05.12.14:982][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.11.07-05.12.14:982][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.11.07-05.12.14:982][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.11.07-05.12.14:982][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.11.07-05.12.14:982][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.11.07-05.12.14:982][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/Backup(AR-Enemy AI)/AR&AI/Ai_test1 4.23/Saved/Config/Windows/Scalability.ini]
+[2019.11.07-05.12.14:982][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.11.07-05.12.14:982][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.11.07-05.12.14:982][  0]LogInit: Selected Device Profile: [Windows]
+[2019.11.07-05.12.14:982][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.11.07-05.12.14:985][  0]LogHAL: Display: Platform has ~ 8 GB [8521527296 / 8589934592 / 8], which maps to Default [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.11.07-05.12.14:985][  0]LogInit: Going up to parent DeviceProfile []
+[2019.11.07-05.12.14:985][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/Backup(AR-Enemy AI)/AR&AI/Ai_test1 4.23/Saved/Config/Windows/Scalability.ini]
+[2019.11.07-05.12.14:985][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.11.07-05.12.14:985][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.11.07-05.12.14:985][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/Backup(AR-Enemy AI)/AR&AI/Ai_test1 4.23/Saved/Config/Windows/Scalability.ini]
+[2019.11.07-05.12.14:985][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:3]]
+[2019.11.07-05.12.14:985][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/Backup(AR-Enemy AI)/AR&AI/Ai_test1 4.23/Saved/Config/Windows/Scalability.ini]
+[2019.11.07-05.12.14:985][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.11.07-05.12.14:985][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.11.07-05.12.14:985][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.11.07-05.12.14:985][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.11.07-05.12.14:985][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.11.07-05.12.14:985][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.11.07-05.12.14:985][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.11.07-05.12.14:985][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.11.07-05.12.14:985][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.11.07-05.12.14:985][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.11.07-05.12.14:985][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.11.07-05.12.14:985][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.11.07-05.12.14:985][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.11.07-05.12.14:985][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.11.07-05.12.14:986][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.11.07-05.12.14:986][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.11.07-05.12.14:986][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.11.07-05.12.14:986][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.11.07-05.12.14:986][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/Backup(AR-Enemy AI)/AR&AI/Ai_test1 4.23/Saved/Config/Windows/Scalability.ini]
+[2019.11.07-05.12.14:986][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:0]]
+[2019.11.07-05.12.14:986][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.11.07-05.12.14:986][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.11.07-05.12.14:986][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:0]]
+[2019.11.07-05.12.14:986][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.11.07-05.12.14:986][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:0]]
+[2019.11.07-05.12.14:986][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.11.07-05.12.14:986][  0]LogConfig: Setting CVar [[r.LensFlareQuality:0]]
+[2019.11.07-05.12.14:986][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:0]]
+[2019.11.07-05.12.14:986][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.11.07-05.12.14:986][  0]LogConfig: Setting CVar [[r.BloomQuality:1]]
+[2019.11.07-05.12.14:986][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:0]]
+[2019.11.07-05.12.14:986][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.11.07-05.12.14:986][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.11.07-05.12.14:986][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.11.07-05.12.14:986][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.11.07-05.12.14:986][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.11.07-05.12.14:986][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.11.07-05.12.14:986][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.11.07-05.12.14:986][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.11.07-05.12.14:986][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.11.07-05.12.14:986][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.11.07-05.12.14:986][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.11.07-05.12.14:986][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.11.07-05.12.14:986][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.11.07-05.12.14:986][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.11.07-05.12.14:986][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.11.07-05.12.14:986][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.11.07-05.12.14:986][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.11.07-05.12.14:986][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.11.07-05.12.14:986][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/Backup(AR-Enemy AI)/AR&AI/Ai_test1 4.23/Saved/Config/Windows/Scalability.ini]
+[2019.11.07-05.12.14:986][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.11.07-05.12.14:986][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.11.07-05.12.14:986][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.11.07-05.12.14:986][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.11.07-05.12.14:986][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.11.07-05.12.14:986][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.11.07-05.12.14:986][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.11.07-05.12.14:986][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.11.07-05.12.14:986][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/Backup(AR-Enemy AI)/AR&AI/Ai_test1 4.23/Saved/Config/Windows/Scalability.ini]
+[2019.11.07-05.12.14:986][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:4]]
+[2019.11.07-05.12.14:986][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.11.07-05.12.14:986][  0]LogConfig: Setting CVar [[r.SSR.Quality:0]]
+[2019.11.07-05.12.14:986][  0]LogConfig: Setting CVar [[r.SceneColorFormat:2]]
+[2019.11.07-05.12.14:986][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.11.07-05.12.14:986][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:0]]
+[2019.11.07-05.12.14:986][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.11.07-05.12.14:986][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.11.07-05.12.14:986][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.11.07-05.12.14:986][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.11.07-05.12.14:986][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.11.07-05.12.14:986][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.11.07-05.12.14:986][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.11.07-05.12.14:986][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/Backup(AR-Enemy AI)/AR&AI/Ai_test1 4.23/Saved/Config/Windows/Scalability.ini]
+[2019.11.07-05.12.14:986][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.11.07-05.12.14:986][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.11.07-05.12.14:987][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2019.11.07-05.12.14:987][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2019.11.07-05.12.14:987][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2019.11.07-05.12.14:987][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/Backup(AR-Enemy AI)/AR&AI/Ai_test1 4.23/Saved/Config/Windows/Engine.ini]
+[2019.11.07-05.12.14:987][  0]LogInit: Computer: DESKTOP-16I43SB
+[2019.11.07-05.12.14:987][  0]LogInit: User: kensa
+[2019.11.07-05.12.14:987][  0]LogInit: CPU Page size=4096, Cores=4
+[2019.11.07-05.12.14:987][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2019.11.07-05.12.14:987][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
+[2019.11.07-05.12.14:987][  0]LogMemory: Platform Memory Stats for Windows
+[2019.11.07-05.12.14:987][  0]LogMemory: Process Physical Memory: 100.98 MB used, 100.99 MB peak
+[2019.11.07-05.12.14:987][  0]LogMemory: Process Virtual Memory: 135.99 MB used, 135.99 MB peak
+[2019.11.07-05.12.14:987][  0]LogMemory: Physical Memory: 3839.05 MB used,  4287.71 MB free, 8126.76 MB total
+[2019.11.07-05.12.14:987][  0]LogMemory: Virtual Memory: 4691.55 MB used,  134213040.00 MB free, 134217728.00 MB total
+[2019.11.07-05.12.14:989][  0]LogWindows: WindowsPlatformFeatures enabled
+[2019.11.07-05.12.15:010][  0]LogInit: Using OS detected language (en-US).
+[2019.11.07-05.12.15:010][  0]LogInit: Using OS detected locale (en-IN).
+[2019.11.07-05.12.15:011][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2019.11.07-05.12.15:206][  0]LogInit: Setting process to per monitor DPI aware
+[2019.11.07-05.12.15:237][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.11.07-05.12.15:237][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.11.07-05.12.15:403][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.11.07-05.12.15:404][  0]LogD3D11RHI: D3D11 adapters:
+[2019.11.07-05.12.15:475][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1060 3GB' (Feature Level 11_0)
+[2019.11.07-05.12.15:475][  0]LogD3D11RHI:       2988/0/4063 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2019.11.07-05.12.15:477][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.11.07-05.12.15:477][  0]LogD3D11RHI:       0/0/4063 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.11.07-05.12.15:477][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.11.07-05.12.15:482][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.11.07-05.12.15:482][  0]LogD3D11RHI:     GPU DeviceId: 0x1c02 (for the marketing name, search the web for "GPU Device Id")
+[2019.11.07-05.12.15:482][  0]LogWindows: EnumDisplayDevices:
+[2019.11.07-05.12.15:483][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1060 3GB' (P:0 D:1)
+[2019.11.07-05.12.15:483][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1060 3GB' (P:1 D:1)
+[2019.11.07-05.12.15:483][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1060 3GB' (P:0 D:0)
+[2019.11.07-05.12.15:483][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1060 3GB' (P:0 D:0)
+[2019.11.07-05.12.15:483][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2019.11.07-05.12.15:483][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1060 3GB
+[2019.11.07-05.12.15:483][  0]LogD3D11RHI:   Driver Version: 430.86 (internal:26.21.14.3086, unified:430.86)
+[2019.11.07-05.12.15:483][  0]LogD3D11RHI:      Driver Date: 5-22-2019
+[2019.11.07-05.12.15:483][  0]LogRHI: Texture pool is 2091 MB (70% of 2988 MB)
+[2019.11.07-05.12.15:533][  0]LogD3D11RHI: Async texture creation enabled
+[2019.11.07-05.12.15:548][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2019.11.07-05.12.16:096][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2019.11.07-05.12.16:106][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2019.11.07-05.12.16:115][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2019.11.07-05.12.16:125][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2019.11.07-05.12.16:135][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2019.11.07-05.12.16:144][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2019.11.07-05.12.16:154][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2019.11.07-05.12.16:164][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2019.11.07-05.12.16:169][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2019.11.07-05.12.16:206][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2019.11.07-05.12.16:206][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2019.11.07-05.12.16:206][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2019.11.07-05.12.16:206][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2019.11.07-05.12.16:206][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2019.11.07-05.12.16:206][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2019.11.07-05.12.16:206][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2019.11.07-05.12.16:206][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2019.11.07-05.12.16:206][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2019.11.07-05.12.16:206][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2019.11.07-05.12.16:206][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2019.11.07-05.12.16:206][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2019.11.07-05.12.16:206][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2019.11.07-05.12.16:206][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2019.11.07-05.12.16:206][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2019.11.07-05.12.16:206][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2019.11.07-05.12.16:206][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2019.11.07-05.12.16:206][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2019.11.07-05.12.16:208][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2019.11.07-05.12.16:227][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2019.11.07-05.12.16:227][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2019.11.07-05.12.16:242][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2019.11.07-05.12.16:242][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2019.11.07-05.12.16:249][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2019.11.07-05.12.16:257][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2019.11.07-05.12.16:265][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2019.11.07-05.12.16:273][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2019.11.07-05.12.16:305][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2019.11.07-05.12.16:305][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2019.11.07-05.12.16:305][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.11.07-05.12.16:315][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2019.11.07-05.12.16:372][  0]LogShaderCompilers: Guid format shader working directory is 4 characters bigger than the processId version (D:/Backup(AR-Enemy AI)/AR&AI/Ai_test1 4.23/Intermediate/Shaders/WorkingDirectory/8272/).
+[2019.11.07-05.12.16:373][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/kensa/AppData/Local/Temp/UnrealShaderWorkingDir/C08509F04B64F3500640A5BBB6CE2453/'.
+[2019.11.07-05.12.16:375][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.11.07-05.12.16:375][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.11.07-05.12.16:375][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.11.07-05.12.17:056][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.11.07-05.12.17:133][  0]LogDerivedDataCache: Loaded boot cache 0.08s 73MB C:/Users/kensa/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc.
+[2019.11.07-05.12.17:133][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/kensa/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc
+[2019.11.07-05.12.17:133][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file D:/Backup(AR-Enemy AI)/AR&AI/Ai_test1 4.23/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.11.07-05.12.17:133][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.11.07-05.12.17:133][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file D:/Backup(AR-Enemy AI)/AR&AI/Ai_test1 4.23/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.11.07-05.12.17:133][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.11.07-05.12.17:147][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.11.07-05.12.17:147][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.11.07-05.12.17:147][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2019.11.07-05.12.17:148][  0]LogDerivedDataCache: Using Local data cache path C:/Users/kensa/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.11.07-05.12.17:148][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.11.07-05.12.17:148][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.11.07-05.12.18:837][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.11.07-05.12.18:848][  0]LogSlate: Using FreeType 2.6.0
+[2019.11.07-05.12.18:849][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.11.07-05.12.18:938][  0]LogAssetRegistry: FAssetRegistry took 0.0034 seconds to start up
+[2019.11.07-05.12.19:216][  0]LogInit: Selected Device Profile: [Windows]
+[2019.11.07-05.12.19:755][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.11.07-05.12.19:755][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2019.11.07-05.12.19:755][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.11.07-05.12.19:755][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2019.11.07-05.12.19:755][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2019.11.07-05.12.19:767][  0]LogNetVersion: Ai_test1 1.0.0, NetCL: 8386587, EngineNetVer: 11, GameNetVer: 0 (Checksum: 3006622118)
+[2019.11.07-05.12.21:442][  0]LogPackageLocalizationCache: Processed 12 localized package path(s) for 1 prioritized culture(s) in 0.095310 seconds
+[2019.11.07-05.12.21:449][  0]LogUObjectArray: 43444 objects as part of root set at end of initial load.
+[2019.11.07-05.12.21:449][  0]LogUObjectAllocator: 7548648 out of 0 bytes used by permanent object pool.
+[2019.11.07-05.12.21:449][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.11.07-05.12.22:986][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.11.07-05.12.22:989][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.11.07-05.12.23:432][  0]SourceControl: Source control is disabled
+[2019.11.07-05.12.23:433][  0]SourceControl: Source control is disabled
+[2019.11.07-05.12.23:434][  0]SourceControl: Source control is disabled
+[2019.11.07-05.12.23:435][  0]SourceControl: Source control is disabled
+[2019.11.07-05.12.23:519][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.11.07-05.12.23:679][  0]LogOcInput: OculusInput pre-init called
+[2019.11.07-05.12.23:686][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2019.11.07-05.12.23:686][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2019.11.07-05.12.23:944][  0]LogEngine: Initializing Engine...
+[2019.11.07-05.12.23:944][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.11.07-05.12.23:945][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2019.11.07-05.12.25:037][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.11.07-05.12.25:053][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.11.07-05.12.25:129][  0]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.11.07-05.12.25:173][  0]LogInit: FAudioDevice initialized.
+[2019.11.07-05.12.25:173][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.11.07-05.12.25:378][  0]LogDerivedDataCache: Saved boot cache 0.20s 90MB C:/Users/kensa/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc.
+[2019.11.07-05.12.25:396][  0]LogInit: Texture streaming: Enabled
+[2019.11.07-05.12.25:417][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.11.07-05.12.25:417][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2019.11.07-05.12.25:418][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2019.11.07-05.12.25:487][  0]LogInit: Transaction tracking system initialized
+[2019.11.07-05.12.25:521][  0]BlueprintLog: New page: Editor Load
+[2019.11.07-05.12.25:605][  0]LocalizationService: Localization service is disabled
+[2019.11.07-05.12.26:691][  0]LogFileCache: Scanning file cache for directory 'D:/Backup(AR-Enemy AI)/AR&AI/Ai_test1 4.23/Content/' took 0.09s
+[2019.11.07-05.12.26:691][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.11.07-05.12.26:691][  0]LogCook: Display: Mobile HDR setting 1
+[2019.11.07-05.12.27:063][  0]SourceControl: Source control is disabled
+[2019.11.07-05.12.27:063][  0]Cmd: MAP LOAD FILE="D:/Backup(AR-Enemy AI)/AR&AI/Ai_test1 4.23/Content/VirtualRealityBP/Maps/StartupMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.11.07-05.12.27:101][  0]LightingResults: New page: Lighting Build
+[2019.11.07-05.12.27:104][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2019.11.07-05.12.27:104][  0]MapCheck: New page: Map Check
+[2019.11.07-05.12.27:104][  0]LightingResults: New page: Lighting Build
+[2019.11.07-05.12.27:129][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.86ms
+[2019.11.07-05.12.28:871][  0]LogAIModule: Creating AISystem for world StartupMap
+[2019.11.07-05.12.28:891][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.11.07-05.12.28:917][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2019.11.07-05.12.28:917][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.11.07-05.12.28:917][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.092ms to complete.
+[2019.11.07-05.12.28:917][  0]LogFileHelpers: Loading map 'StartupMap' took 1.853
+[2019.11.07-05.12.29:278][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.07-05.12.29:298][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.07-05.12.29:318][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.07-05.12.29:337][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.07-05.12.29:361][  0]LogCollectionManager: Loaded 0 collections in 0.003002 seconds
+[2019.11.07-05.12.29:368][  0]LogFileCache: Scanning file cache for directory 'D:/Backup(AR-Enemy AI)/AR&AI/Ai_test1 4.23/Saved/Collections/' took 0.00s
+[2019.11.07-05.12.29:368][  0]LogFileCache: Scanning file cache for directory 'D:/Backup(AR-Enemy AI)/AR&AI/Ai_test1 4.23/Content/Developers/kensa/Collections/' took 0.00s
+[2019.11.07-05.12.29:368][  0]LogFileCache: Scanning file cache for directory 'D:/Backup(AR-Enemy AI)/AR&AI/Ai_test1 4.23/Content/Collections/' took 0.00s
+[2019.11.07-05.12.29:368][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2019.11.07-05.12.29:376][  0]LogContentBrowser: Native class hierarchy populated in 0.0080 seconds. Added 2879 classes and 687 folders.
+[2019.11.07-05.12.29:384][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.11.07-05.12.30:765][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0007 seconds. Added 0 classes and 0 folders.
+[2019.11.07-05.12.30:779][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2019.11.07-05.12.33:190][  0]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2019.11.07-05.12.33:496][  0]LogSlate: Took 0.002012 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.11.07-05.12.33:505][  0]LogSlate: Took 0.000264 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.11.07-05.12.33:538][  0]LogSlate: Took 0.025528 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.11.07-05.12.33:860][  0]LogRenderer: Reallocating scene render targets to support 804x584 Format 26 NumSamples 1 (Frame:1).
+[2019.11.07-05.12.33:980][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.11.07-05.12.33:980][  0]LogLoad: (Engine Initialization) Total time: 20.55 seconds
+[2019.11.07-05.12.33:980][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.11.07-05.12.34:138][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.11.07-05.12.35:354][ 12]LogSlate: Took 0.026504 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.11.07-05.12.36:410][ 28]LogAssetRegistry: Asset discovery search completed in 17.4736 seconds
+[2019.11.07-05.12.36:414][ 28]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000012 seconds (found 0 objects)
+[2019.11.07-05.12.36:414][ 28]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000056 seconds (updated 0 objects)
+[2019.11.07-05.12.38:433][ 34]LogSlate: Took 0.000447 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.11.07-05.12.40:420][ 40]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.07-05.13.14:564][870]LogAssetEditorManager: Opening Asset editor for AnimBlueprint /Game/AI/Fly_test/worm_bsp/wormBP.wormBP
+[2019.11.07-05.13.14:669][870]LogContentBrowser: Native class hierarchy updated for 'SkeletonEditor' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2019.11.07-05.13.15:521][870]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_2:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.11.07-05.13.15:569][870]LogContentBrowser: Native class hierarchy updated for 'PinnedCommandList' in 0.0007 seconds. Added 1 classes and 0 folders.
+[2019.11.07-05.13.16:292][870]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0005 seconds. Added 121 classes and 0 folders.
+[2019.11.07-05.13.17:317][870]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_2:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.11.07-05.13.17:878][870]LogSlate: Took 0.011458 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.11.07-05.13.20:421][ 18]LogSlate: Took 0.005516 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.11.07-05.13.42:170][653]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/AI/Fly_test/snail.snail
+[2019.11.07-05.13.51:940][391]LogAssetEditorManager: Opening Asset editor for BehaviorTree /Game/AI/Fly_test/BUF_Fly_BT.BUF_Fly_BT
+[2019.11.07-05.13.56:784][895]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/AI/Fly_test/BlackBOard_Fun/cHANGEsTATE.cHANGEsTATE
+[2019.11.07-05.14.34:031][ 60]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2019.11.07-05.15.09:923][603]LogAIModule: Creating AISystem for world MotionControllerMap
+[2019.11.07-05.15.09:960][603]LogAssetEditorManager: Opening Asset editor for World /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap
+[2019.11.07-05.15.10:015][603]LogUObjectHash: Compacting FUObjectHashTables data took   4.64ms
+[2019.11.07-05.15.12:180][603]LogSlate: Window 'Save Content' being destroyed
+[2019.11.07-05.15.12:204][603]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/Fly_test/worm_bsp/wormBP" FILE="D:/Backup(AR-Enemy AI)/AR&AI/Ai_test1 4.23/Content/AI/Fly_test/worm_bsp/wormBP.uasset" SILENT=true
+[2019.11.07-05.15.12:404][603]LogSavePackage: Moving 'D:/Backup(AR-Enemy AI)/AR&AI/Ai_test1 4.23/Saved/wormBP6FD5A544429677B8C4177CA8E78AB8C4.tmp' to 'D:/Backup(AR-Enemy AI)/AR&AI/Ai_test1 4.23/Content/AI/Fly_test/worm_bsp/wormBP.uasset'
+[2019.11.07-05.15.12:432][603]Cmd: MAP LOAD FILE="D:/Backup(AR-Enemy AI)/AR&AI/Ai_test1 4.23/Content/VirtualRealityBP/Maps/MotionControllerMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.11.07-05.15.12:432][603]LightingResults: New page: Lighting Build
+[2019.11.07-05.15.12:433][603]LoadErrors: New page: Loading map: MotionControllerMap.umap
+[2019.11.07-05.15.12:433][603]LogWorld: UWorld::CleanupWorld for StartupMap, bSessionEnded=true, bCleanupResources=true
+[2019.11.07-05.15.12:434][603]MapCheck: New page: Map Check
+[2019.11.07-05.15.12:434][603]LightingResults: New page: Lighting Build
+[2019.11.07-05.15.12:473][603]LogUObjectHash: Compacting FUObjectHashTables data took   3.25ms
+[2019.11.07-05.15.12:484][603]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.11.07-05.15.12:547][603]LogUObjectHash: Compacting FUObjectHashTables data took   2.97ms
+[2019.11.07-05.15.12:591][603]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.11.07-05.15.12:597][603]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 6.316ms to complete.
+[2019.11.07-05.15.12:597][603]LogFileHelpers: Loading map 'MotionControllerMap' took 0.189
+[2019.11.07-05.15.29:260][ 54]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.07-05.15.52:410][992]LogAssetEditorManager: Opening Asset editor for EnvQuery /Game/en_1_AI/enemy1/enemy1_Black_Bord_Function/en_1_Hide.en_1_Hide
+[2019.11.07-05.16.16:379][622]LogUObjectHash: Compacting FUObjectHashTables data took   3.38ms
+[2019.11.07-05.16.17:764][622]LogSlate: Window 'Save Content' being destroyed
+[2019.11.07-05.16.17:895][622]LogSavePackage: Moving 'D:/Backup(AR-Enemy AI)/AR&AI/Ai_test1 4.23/Saved/en_1_Hide6D1753A545CCC8413D10C6BA3E44B26D.tmp' to 'D:/Backup(AR-Enemy AI)/AR&AI/Ai_test1 4.23/Content/en_1_AI/enemy1/enemy1_Black_Bord_Function/en_1_Hide.uasset'
+[2019.11.07-05.16.54:480][581]LogSlate: Window 'en_1_Hide' being destroyed
+[2019.11.07-05.16.54:483][581]LogSlate: Window 'en_1_Hide' being destroyed
+[2019.11.07-05.16.54:526][581]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2019.11.07-05.16.54:530][581]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2019.11.07-05.16.54:698][581]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2019.11.07-05.16.54:730][581]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2019.11.07-05.16.54:824][581]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2019.11.07-05.16.58:585][986]LogAssetEditorManager: Opening Asset editor for BehaviorTree /Game/en_1_AI/enemy1/enemy1_BT.enemy1_BT
+[2019.11.07-05.17.09:200][ 34]LogSlate: Window 'enemy1_BT' being destroyed
+[2019.11.07-05.17.09:204][ 34]LogSlate: Window 'enemy1_BT' being destroyed
+[2019.11.07-05.21.14:225][ 55]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\kensa\Documents\Received Files\Idle Crouching.fbx)
+[2019.11.07-05.21.14:385][ 55]LogFbx: Loading FBX Scene from C:\Users\kensa\Documents\Received Files\Idle Crouching.fbx
+[2019.11.07-05.21.14:475][ 55]LogFbx: FBX Scene Loaded Succesfully
+[2019.11.07-05.21.34:370][ 55]LogSlate: Window 'FBX Import Options' being destroyed
+[2019.11.07-05.21.34:510][ 55]LogFbx: SortedLinks :(0) Hips
+[2019.11.07-05.21.34:510][ 55]LogFbx: SortedLinks :(1) Spine
+[2019.11.07-05.21.34:510][ 55]LogFbx: SortedLinks :(2) Spine1
+[2019.11.07-05.21.34:510][ 55]LogFbx: SortedLinks :(3) Spine2
+[2019.11.07-05.21.34:510][ 55]LogFbx: SortedLinks :(4) Neck
+[2019.11.07-05.21.34:510][ 55]LogFbx: SortedLinks :(5) Head
+[2019.11.07-05.21.34:510][ 55]LogFbx: SortedLinks :(6) HeadTop_End
+[2019.11.07-05.21.34:510][ 55]LogFbx: SortedLinks :(7) LeftShoulder
+[2019.11.07-05.21.34:510][ 55]LogFbx: SortedLinks :(8) LeftArm
+[2019.11.07-05.21.34:510][ 55]LogFbx: SortedLinks :(9) LeftForeArm
+[2019.11.07-05.21.34:510][ 55]LogFbx: SortedLinks :(10) LeftHand
+[2019.11.07-05.21.34:510][ 55]LogFbx: SortedLinks :(11) LeftHandThumb1
+[2019.11.07-05.21.34:510][ 55]LogFbx: SortedLinks :(12) LeftHandThumb2
+[2019.11.07-05.21.34:510][ 55]LogFbx: SortedLinks :(13) LeftHandThumb3
+[2019.11.07-05.21.34:510][ 55]LogFbx: SortedLinks :(14) LeftHandThumb4
+[2019.11.07-05.21.34:510][ 55]LogFbx: SortedLinks :(15) LeftHandIndex1
+[2019.11.07-05.21.34:510][ 55]LogFbx: SortedLinks :(16) LeftHandIndex2
+[2019.11.07-05.21.34:510][ 55]LogFbx: SortedLinks :(17) LeftHandIndex3
+[2019.11.07-05.21.34:510][ 55]LogFbx: SortedLinks :(18) LeftHandIndex4
+[2019.11.07-05.21.34:510][ 55]LogFbx: SortedLinks :(19) LeftHandMiddle1
+[2019.11.07-05.21.34:510][ 55]LogFbx: SortedLinks :(20) LeftHandMiddle2
+[2019.11.07-05.21.34:510][ 55]LogFbx: SortedLinks :(21) LeftHandMiddle3
+[2019.11.07-05.21.34:510][ 55]LogFbx: SortedLinks :(22) LeftHandMiddle4
+[2019.11.07-05.21.34:510][ 55]LogFbx: SortedLinks :(23) RightShoulder
+[2019.11.07-05.21.34:510][ 55]LogFbx: SortedLinks :(24) RightArm
+[2019.11.07-05.21.34:510][ 55]LogFbx: SortedLinks :(25) RightForeArm
+[2019.11.07-05.21.34:510][ 55]LogFbx: SortedLinks :(26) RightHand
+[2019.11.07-05.21.34:510][ 55]LogFbx: SortedLinks :(27) RightHandThumb1
+[2019.11.07-05.21.34:510][ 55]LogFbx: SortedLinks :(28) RightHandThumb2
+[2019.11.07-05.21.34:510][ 55]LogFbx: SortedLinks :(29) RightHandThumb3
+[2019.11.07-05.21.34:510][ 55]LogFbx: SortedLinks :(30) RightHandThumb4
+[2019.11.07-05.21.34:510][ 55]LogFbx: SortedLinks :(31) RightHandIndex1
+[2019.11.07-05.21.34:510][ 55]LogFbx: SortedLinks :(32) RightHandIndex2
+[2019.11.07-05.21.34:510][ 55]LogFbx: SortedLinks :(33) RightHandIndex3
+[2019.11.07-05.21.34:510][ 55]LogFbx: SortedLinks :(34) RightHandIndex4
+[2019.11.07-05.21.34:510][ 55]LogFbx: SortedLinks :(35) RightHandMiddle1
+[2019.11.07-05.21.34:510][ 55]LogFbx: SortedLinks :(36) RightHandMiddle2
+[2019.11.07-05.21.34:510][ 55]LogFbx: SortedLinks :(37) RightHandMiddle3
+[2019.11.07-05.21.34:510][ 55]LogFbx: SortedLinks :(38) RightHandMiddle4
+[2019.11.07-05.21.34:510][ 55]LogFbx: SortedLinks :(39) LeftUpLeg
+[2019.11.07-05.21.34:510][ 55]LogFbx: SortedLinks :(40) LeftLeg
+[2019.11.07-05.21.34:510][ 55]LogFbx: SortedLinks :(41) LeftFoot
+[2019.11.07-05.21.34:510][ 55]LogFbx: SortedLinks :(42) LeftToeBase
+[2019.11.07-05.21.34:510][ 55]LogFbx: SortedLinks :(43) LeftToe_End
+[2019.11.07-05.21.34:510][ 55]LogFbx: SortedLinks :(44) RightUpLeg
+[2019.11.07-05.21.34:510][ 55]LogFbx: SortedLinks :(45) RightLeg
+[2019.11.07-05.21.34:510][ 55]LogFbx: SortedLinks :(46) RightFoot
+[2019.11.07-05.21.34:511][ 55]LogFbx: SortedLinks :(47) RightToeBase
+[2019.11.07-05.21.34:511][ 55]LogFbx: SortedLinks :(48) RightToe_End
+[2019.11.07-05.21.34:512][ 55]LogFbx: Parsing AnimStack mixamo.com
+[2019.11.07-05.21.34:523][ 55]LogLinker: Failed to load '/Game/en_1_AI/enemy1/animation/Idle_Crouching': Can't find file.
+[2019.11.07-05.21.34:523][ 55]LogLinker: Failed to load '/Game/en_1_AI/enemy1/animation/Idle_Crouching': Can't find file.
+[2019.11.07-05.21.35:042][ 55]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/en_1_AI/enemy1/animation/Idle_Crouching.Idle_Crouching
+[2019.11.07-05.21.35:042][ 55]LogAnimationCompression: Recompressing (AnimSequence /Game/en_1_AI/enemy1/animation/Idle_Crouching.Idle_Crouching) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.11.07-05.21.35:100][ 55]LogFactory: FactoryCreateFile: AnimSequence with FbxFactory (0 0 C:\Users\kensa\Documents\Received Files\Crouched Run.fbx)
+[2019.11.07-05.21.35:113][ 55]LogFbx: Loading FBX Scene from C:\Users\kensa\Documents\Received Files\Crouched Run.fbx
+[2019.11.07-05.21.35:165][ 55]LogFbx: FBX Scene Loaded Succesfully
+[2019.11.07-05.21.35:168][ 55]LogFbx: SortedLinks :(0) Hips
+[2019.11.07-05.21.35:168][ 55]LogFbx: SortedLinks :(1) Spine
+[2019.11.07-05.21.35:168][ 55]LogFbx: SortedLinks :(2) Spine1
+[2019.11.07-05.21.35:168][ 55]LogFbx: SortedLinks :(3) Spine2
+[2019.11.07-05.21.35:168][ 55]LogFbx: SortedLinks :(4) Neck
+[2019.11.07-05.21.35:168][ 55]LogFbx: SortedLinks :(5) Head
+[2019.11.07-05.21.35:168][ 55]LogFbx: SortedLinks :(6) HeadTop_End
+[2019.11.07-05.21.35:168][ 55]LogFbx: SortedLinks :(7) LeftShoulder
+[2019.11.07-05.21.35:168][ 55]LogFbx: SortedLinks :(8) LeftArm
+[2019.11.07-05.21.35:168][ 55]LogFbx: SortedLinks :(9) LeftForeArm
+[2019.11.07-05.21.35:168][ 55]LogFbx: SortedLinks :(10) LeftHand
+[2019.11.07-05.21.35:168][ 55]LogFbx: SortedLinks :(11) LeftHandThumb1
+[2019.11.07-05.21.35:168][ 55]LogFbx: SortedLinks :(12) LeftHandThumb2
+[2019.11.07-05.21.35:168][ 55]LogFbx: SortedLinks :(13) LeftHandThumb3
+[2019.11.07-05.21.35:168][ 55]LogFbx: SortedLinks :(14) LeftHandThumb4
+[2019.11.07-05.21.35:168][ 55]LogFbx: SortedLinks :(15) LeftHandIndex1
+[2019.11.07-05.21.35:168][ 55]LogFbx: SortedLinks :(16) LeftHandIndex2
+[2019.11.07-05.21.35:168][ 55]LogFbx: SortedLinks :(17) LeftHandIndex3
+[2019.11.07-05.21.35:168][ 55]LogFbx: SortedLinks :(18) LeftHandIndex4
+[2019.11.07-05.21.35:168][ 55]LogFbx: SortedLinks :(19) LeftHandMiddle1
+[2019.11.07-05.21.35:168][ 55]LogFbx: SortedLinks :(20) LeftHandMiddle2
+[2019.11.07-05.21.35:168][ 55]LogFbx: SortedLinks :(21) LeftHandMiddle3
+[2019.11.07-05.21.35:168][ 55]LogFbx: SortedLinks :(22) LeftHandMiddle4
+[2019.11.07-05.21.35:168][ 55]LogFbx: SortedLinks :(23) RightShoulder
+[2019.11.07-05.21.35:168][ 55]LogFbx: SortedLinks :(24) RightArm
+[2019.11.07-05.21.35:168][ 55]LogFbx: SortedLinks :(25) RightForeArm
+[2019.11.07-05.21.35:168][ 55]LogFbx: SortedLinks :(26) RightHand
+[2019.11.07-05.21.35:168][ 55]LogFbx: SortedLinks :(27) RightHandThumb1
+[2019.11.07-05.21.35:168][ 55]LogFbx: SortedLinks :(28) RightHandThumb2
+[2019.11.07-05.21.35:168][ 55]LogFbx: SortedLinks :(29) RightHandThumb3
+[2019.11.07-05.21.35:168][ 55]LogFbx: SortedLinks :(30) RightHandThumb4
+[2019.11.07-05.21.35:168][ 55]LogFbx: SortedLinks :(31) RightHandIndex1
+[2019.11.07-05.21.35:168][ 55]LogFbx: SortedLinks :(32) RightHandIndex2
+[2019.11.07-05.21.35:168][ 55]LogFbx: SortedLinks :(33) RightHandIndex3
+[2019.11.07-05.21.35:168][ 55]LogFbx: SortedLinks :(34) RightHandIndex4
+[2019.11.07-05.21.35:168][ 55]LogFbx: SortedLinks :(35) RightHandMiddle1
+[2019.11.07-05.21.35:168][ 55]LogFbx: SortedLinks :(36) RightHandMiddle2
+[2019.11.07-05.21.35:168][ 55]LogFbx: SortedLinks :(37) RightHandMiddle3
+[2019.11.07-05.21.35:168][ 55]LogFbx: SortedLinks :(38) RightHandMiddle4
+[2019.11.07-05.21.35:168][ 55]LogFbx: SortedLinks :(39) LeftUpLeg
+[2019.11.07-05.21.35:168][ 55]LogFbx: SortedLinks :(40) LeftLeg
+[2019.11.07-05.21.35:168][ 55]LogFbx: SortedLinks :(41) LeftFoot
+[2019.11.07-05.21.35:168][ 55]LogFbx: SortedLinks :(42) LeftToeBase
+[2019.11.07-05.21.35:169][ 55]LogFbx: SortedLinks :(43) LeftToe_End
+[2019.11.07-05.21.35:169][ 55]LogFbx: SortedLinks :(44) RightUpLeg
+[2019.11.07-05.21.35:169][ 55]LogFbx: SortedLinks :(45) RightLeg
+[2019.11.07-05.21.35:169][ 55]LogFbx: SortedLinks :(46) RightFoot
+[2019.11.07-05.21.35:169][ 55]LogFbx: SortedLinks :(47) RightToeBase
+[2019.11.07-05.21.35:169][ 55]LogFbx: SortedLinks :(48) RightToe_End
+[2019.11.07-05.21.35:169][ 55]LogFbx: Parsing AnimStack mixamo.com
+[2019.11.07-05.21.35:169][ 55]LogLinker: Failed to load '/Game/en_1_AI/enemy1/animation/Crouched_Run': Can't find file.
+[2019.11.07-05.21.35:169][ 55]LogLinker: Failed to load '/Game/en_1_AI/enemy1/animation/Crouched_Run': Can't find file.
+[2019.11.07-05.21.36:426][ 55]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/en_1_AI/enemy1/animation/Crouched_Run.Crouched_Run
+[2019.11.07-05.21.36:426][ 55]LogAnimationCompression: Recompressing (AnimSequence /Game/en_1_AI/enemy1/animation/Crouched_Run.Crouched_Run) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.11.07-05.21.36:488][ 56]LogEditorSessionSummary: EditorSessionSummary sent report. Type=Shutdown, SessionId={C744356F-45E6-7E1F-64A7-3BBFED9959BA}
+[2019.11.07-05.21.47:943][246]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/en_1_AI/enemy1/animation/Crouched_Run.Crouched_Run
+[2019.11.07-05.21.47:981][246]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_15:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.11.07-05.21.48:074][246]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_15:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.11.07-05.21.48:857][246]LogRenderer: Reallocating scene render targets to support 952x584 Format 26 NumSamples 1 (Frame:1).
+[2019.11.07-05.21.48:857][246]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2019.11.07-05.21.51:492][437]LogSlate: Window 'Crouched_Run' being destroyed
+[2019.11.07-05.21.51:496][437]LogSlate: Window 'Crouched_Run' being destroyed
+[2019.11.07-05.21.51:496][437]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2019.11.07-05.21.51:537][437]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2019.11.07-05.21.51:645][437]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2019.11.07-05.21.53:661][640]LogAssetEditorManager: Opening Asset editor for SkeletalMesh /Game/en_1_AI/enemy1/animation/Idle.Idle
+[2019.11.07-05.21.53:671][640]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_18:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.11.07-05.21.53:727][640]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_18:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.11.07-05.21.54:004][640]LogRenderer: Reallocating scene render targets to support 952x704 Format 26 NumSamples 1 (Frame:1).
+[2019.11.07-05.21.55:794][783]LogSlate: Window 'Idle' being destroyed
+[2019.11.07-05.21.55:798][783]LogSlate: Window 'Idle' being destroyed
+[2019.11.07-05.21.55:798][783]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2019.11.07-05.22.02:250][428]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/en_1_AI/enemy1/animation/Idle_Anim_mixamo_com.Idle_Anim_mixamo_com
+[2019.11.07-05.22.02:264][428]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.11.07-05.22.02:305][428]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.11.07-05.22.02:641][428]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2019.11.07-05.22.08:476][858]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/en_1_AI/enemy1/animation/Throw_Take_001.Throw_Take_001
+[2019.11.07-05.22.08:613][858]LogWorld: UWorld::CleanupWorld for World_21, bSessionEnded=true, bCleanupResources=true
+[2019.11.07-05.22.10:272][992]LogSlate: Window 'Throw_Take_001' being destroyed
+[2019.11.07-05.22.10:275][992]LogSlate: Window 'Throw_Take_001' being destroyed
+[2019.11.07-05.22.10:276][992]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2019.11.07-05.22.10:352][992]LogWorld: UWorld::CleanupWorld for World_22, bSessionEnded=true, bCleanupResources=true
+[2019.11.07-05.22.10:457][992]LogWorld: UWorld::CleanupWorld for World_20, bSessionEnded=true, bCleanupResources=true
+[2019.11.07-05.22.13:914][357]LogUObjectHash: Compacting FUObjectHashTables data took   5.70ms
+[2019.11.07-05.22.15:087][357]LogSlate: Window 'Delete Assets' being destroyed
+[2019.11.07-05.22.15:223][357]LogUObjectHash: Compacting FUObjectHashTables data took   3.75ms
+[2019.11.07-05.22.15:258][357]LogUObjectHash: Compacting FUObjectHashTables data took   2.61ms
+[2019.11.07-05.22.15:288][357]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2019.11.07-05.22.26:708][425]LogAssetEditorManager: Opening Asset editor for Skeleton /Game/en_1_AI/enemy1/animation/Idle_Skeleton.Idle_Skeleton
+[2019.11.07-05.22.26:725][425]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_23:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.11.07-05.22.26:764][425]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_23:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.11.07-05.22.28:482][545]LogAssetEditorManager: Opening Asset editor for SkeletalMesh /Game/en_1_AI/enemy1/animation/Idle.Idle
+[2019.11.07-05.22.28:491][545]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_24:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.11.07-05.22.28:527][545]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_24:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.11.07-05.22.29:587][618]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/en_1_AI/enemy1/animation/Idle_Crouching.Idle_Crouching
+[2019.11.07-05.22.29:596][618]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_25:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.11.07-05.22.29:627][618]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_25:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.11.07-05.22.29:968][618]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2019.11.07-05.22.35:897][ 90]LogAssetEditorManager: Opening Asset editor for AnimBlueprint /Game/en_1_AI/enemy1/animation/Bpa_Human.Bpa_Human
+[2019.11.07-05.22.35:913][ 90]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_29:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.11.07-05.22.36:285][ 90]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_29:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.11.07-05.22.36:670][ 90]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2019.11.07-05.22.38:875][268]LogSlate: Window 'Bpa_Human' being destroyed
+[2019.11.07-05.22.38:879][268]LogSlate: Window 'Bpa_Human' being destroyed
+[2019.11.07-05.22.38:879][268]LogWorld: UWorld::CleanupWorld for World_23, bSessionEnded=true, bCleanupResources=true
+[2019.11.07-05.22.39:031][268]LogWorld: UWorld::CleanupWorld for World_24, bSessionEnded=true, bCleanupResources=true
+[2019.11.07-05.22.39:170][268]LogWorld: UWorld::CleanupWorld for World_25, bSessionEnded=true, bCleanupResources=true
+[2019.11.07-05.22.39:219][268]LogWorld: UWorld::CleanupWorld for World_27, bSessionEnded=true, bCleanupResources=true
+[2019.11.07-05.22.39:319][268]LogWorld: UWorld::CleanupWorld for World_26, bSessionEnded=true, bCleanupResources=true
+[2019.11.07-05.22.39:372][268]LogWorld: UWorld::CleanupWorld for World_29, bSessionEnded=true, bCleanupResources=true
+[2019.11.07-05.22.39:375][268]LogWorld: UWorld::CleanupWorld for World_28, bSessionEnded=true, bCleanupResources=true
+[2019.11.07-05.22.39:502][268]LogWorld: UWorld::CleanupWorld for World_30, bSessionEnded=true, bCleanupResources=true
+[2019.11.07-05.22.48:053][178]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/en_1_AI/enemy1/animation/Crouched_Run.Crouched_Run
+[2019.11.07-05.22.48:061][178]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_32:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.11.07-05.22.48:100][178]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_32:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.11.07-05.22.48:407][178]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2019.11.07-05.22.49:831][288]LogSlate: Window 'Crouched_Run' being destroyed
+[2019.11.07-05.22.49:834][288]LogSlate: Window 'Crouched_Run' being destroyed
+[2019.11.07-05.22.49:834][288]LogWorld: UWorld::CleanupWorld for World_32, bSessionEnded=true, bCleanupResources=true
+[2019.11.07-05.22.49:868][288]LogWorld: UWorld::CleanupWorld for World_34, bSessionEnded=true, bCleanupResources=true
+[2019.11.07-05.22.49:967][288]LogWorld: UWorld::CleanupWorld for World_33, bSessionEnded=true, bCleanupResources=true
+[2019.11.07-05.22.50:966][392]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/en_1_AI/enemy1/animation/Idle_Crouching.Idle_Crouching
+[2019.11.07-05.22.50:975][392]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_35:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.11.07-05.22.51:015][392]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_35:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.11.07-05.22.51:349][392]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2019.11.07-05.23.12:329][146]LogSlate: Window 'Idle_Crouching' being destroyed
+[2019.11.07-05.23.12:333][146]LogSlate: Window 'Idle_Crouching' being destroyed
+[2019.11.07-05.23.12:333][146]LogWorld: UWorld::CleanupWorld for World_35, bSessionEnded=true, bCleanupResources=true
+[2019.11.07-05.23.12:364][146]LogWorld: UWorld::CleanupWorld for World_37, bSessionEnded=true, bCleanupResources=true
+[2019.11.07-05.23.12:462][146]LogWorld: UWorld::CleanupWorld for World_36, bSessionEnded=true, bCleanupResources=true
+[2019.11.07-05.23.45:260][380]LogAssetEditorManager: Opening Asset editor for AnimBlueprint /Game/en_1_AI/enemy1/animation/Bpa_Human.Bpa_Human
+[2019.11.07-05.23.45:275][380]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_39:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.11.07-05.23.45:583][380]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_39:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.11.07-05.23.45:886][380]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2019.11.07-05.24.38:339][596]LogSlate: Window 'Bpa_Human' being destroyed
+[2019.11.07-05.24.38:343][596]LogSlate: Window 'Bpa_Human' being destroyed
+[2019.11.07-05.24.38:389][596]LogWorld: UWorld::CleanupWorld for World_39, bSessionEnded=true, bCleanupResources=true
+[2019.11.07-05.24.38:394][596]LogWorld: UWorld::CleanupWorld for World_38, bSessionEnded=true, bCleanupResources=true
+[2019.11.07-05.24.38:538][596]LogWorld: UWorld::CleanupWorld for World_40, bSessionEnded=true, bCleanupResources=true
+[2019.11.07-05.24.55:870][604]LogSlate: Window 'Add C++ Class' being destroyed
+[2019.11.07-05.25.21:068][610]LogUObjectHash: Compacting FUObjectHashTables data took   4.21ms
+[2019.11.07-05.25.21:069][610]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/VirtualRealityBP/Maps/MotionControllerMap' took 0.046
+[2019.11.07-05.25.21:070][610]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/en_1_AI/enemy1/animation/Idle_Crouching] ([1] browsable assets)...
+[2019.11.07-05.25.21:083][610]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/en_1_AI/enemy1/animation/Idle_Crouching.Idle_Crouching]
+[2019.11.07-05.25.21:083][610]OBJ SavePackage: Finished generating thumbnails for package [/Game/en_1_AI/enemy1/animation/Idle_Crouching]
+[2019.11.07-05.25.21:099][610]LogSavePackage: Moving 'D:/Backup(AR-Enemy AI)/AR&AI/Ai_test1 4.23/Saved/Idle_Crouching_Auto1518AE42B4E09EF392FAA85A02A97BE8B.tmp' to 'D:/Backup(AR-Enemy AI)/AR&AI/Ai_test1 4.23/Saved/Autosaves/Game/en_1_AI/enemy1/animation/Idle_Crouching_Auto1.uasset'
+[2019.11.07-05.25.21:120][610]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/en_1_AI/enemy1/animation/Crouched_Run] ([1] browsable assets)...
+[2019.11.07-05.25.21:130][610]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/en_1_AI/enemy1/animation/Crouched_Run.Crouched_Run]
+[2019.11.07-05.25.21:131][610]OBJ SavePackage: Finished generating thumbnails for package [/Game/en_1_AI/enemy1/animation/Crouched_Run]
+[2019.11.07-05.25.21:148][610]LogSavePackage: Moving 'D:/Backup(AR-Enemy AI)/AR&AI/Ai_test1 4.23/Saved/Crouched_Run_Auto19FE9B020437652A5A3B981BADBF08D2F.tmp' to 'D:/Backup(AR-Enemy AI)/AR&AI/Ai_test1 4.23/Saved/Autosaves/Game/en_1_AI/enemy1/animation/Crouched_Run_Auto1.uasset'
+[2019.11.07-05.25.21:148][610]LogFileHelpers: Auto-saving content packages took 0.078
+[2019.11.07-05.27.47:768][668]LogSlate: Window 'Pick Skeleton' being destroyed
+[2019.11.07-05.27.55:950][635]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Enemy4/Aniamtion/BlendSpace" FILE="D:/Backup(AR-Enemy AI)/AR&AI/Ai_test1 4.23/Content/Enemy4/Aniamtion/BlendSpace.uasset" SILENT=true
+[2019.11.07-05.27.55:965][635]LogSavePackage: Moving 'D:/Backup(AR-Enemy AI)/AR&AI/Ai_test1 4.23/Saved/BlendSpaceC38D07BE47B54D17A59B43BB9156D291.tmp' to 'D:/Backup(AR-Enemy AI)/AR&AI/Ai_test1 4.23/Content/Enemy4/Aniamtion/BlendSpace.uasset'
+[2019.11.07-05.27.56:131][635]LogUObjectHash: Compacting FUObjectHashTables data took   3.12ms
+[2019.11.07-05.27.56:166][635]LogUObjectHash: Compacting FUObjectHashTables data took   2.45ms
+[2019.11.07-05.27.56:195][635]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2019.11.07-05.27.57:381][767]LogAssetEditorManager: Opening Asset editor for BlendSpace /Game/Enemy4/Aniamtion/BlendSpace.BlendSpace
+[2019.11.07-05.27.57:391][767]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_41:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.11.07-05.27.57:433][767]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_41:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.11.07-05.27.57:799][767]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2019.11.07-05.28.00:082][963]LogAssetEditorManager: Opening Asset editor for AnimBlueprint /Game/en_1_AI/enemy1/animation/Bpa_Human.Bpa_Human
+[2019.11.07-05.28.00:099][963]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_44:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.11.07-05.28.00:400][963]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_44:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.11.07-05.28.00:716][963]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2019.11.07-05.28.12:444][983]LogSlate: Window 'Bpa_Human' being destroyed
+[2019.11.07-05.28.12:448][983]LogSlate: Window 'Bpa_Human' being destroyed
+[2019.11.07-05.28.12:449][983]LogWorld: UWorld::CleanupWorld for World_41, bSessionEnded=true, bCleanupResources=true
+[2019.11.07-05.28.12:600][983]LogWorld: UWorld::CleanupWorld for World_42, bSessionEnded=true, bCleanupResources=true
+[2019.11.07-05.28.12:657][983]LogWorld: UWorld::CleanupWorld for World_44, bSessionEnded=true, bCleanupResources=true
+[2019.11.07-05.28.12:660][983]LogWorld: UWorld::CleanupWorld for World_43, bSessionEnded=true, bCleanupResources=true
+[2019.11.07-05.28.12:801][983]LogWorld: UWorld::CleanupWorld for World_45, bSessionEnded=true, bCleanupResources=true
+[2019.11.07-05.28.19:687][785]LogContentBrowser: Verbose: The majority of assets in the view are of type: Skeleton
+[2019.11.07-05.28.22:452][785]LogContentBrowser: Verbose: The majority of assets in the view are of type: Skeleton
+[2019.11.07-05.28.30:804][785]LogSlate: Window 'Create Animation Blueprint' being destroyed
+[2019.11.07-05.28.36:303][441]LogPackageName: SearchForPackageOnDisk took   0.000s, but failed to resolve /Game/Enemy4/Aniamtion/AnimBlueprint.
+[2019.11.07-05.28.36:307][441]LogPackageName: SearchForPackageOnDisk took   0.000s, but failed to resolve /Game/Enemy4/Aniamtion/AnimBlueprint.
+[2019.11.07-05.28.39:648][799]LogAssetEditorManager: Opening Asset editor for AnimBlueprint /Game/Enemy4/Aniamtion/AnimBlueprint.AnimBlueprint
+[2019.11.07-05.28.39:664][799]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_48:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.11.07-05.28.39:976][799]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_48:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.11.07-05.28.40:267][799]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2019.11.07-05.29.06:279][ 65]LogAssetEditorManager: Opening Asset editor for AnimBlueprint /Game/AI/Fly_test/worm_bsp/wormBP.wormBP
+[2019.11.07-05.29.06:295][ 65]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_51:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.11.07-05.29.06:593][ 65]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_51:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.11.07-05.29.06:948][ 65]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2019.11.07-05.29.10:612][353]LogAssetEditorManager: Opening Asset editor for BlendSpace1D /Game/AI/Fly_test/worm_bsp/NewBlendSpace1D.NewBlendSpace1D
+[2019.11.07-05.29.10:619][353]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_53:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.11.07-05.29.10:651][353]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_53:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.11.07-05.29.10:974][353]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2019.11.07-05.29.47:843][468]LogRenderer: Reallocating scene render targets to support 1000x704 Format 26 NumSamples 1 (Frame:552).
+[2019.11.07-05.30.46:529][ 97]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/en_1_AI/enemy1/animation/Idle_Anim_mixamo_com.Idle_Anim_mixamo_com
+[2019.11.07-05.30.46:539][ 97]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_55:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.11.07-05.30.46:572][ 97]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_55:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.11.07-05.30.46:940][ 97]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2019.11.07-05.30.58:658][784]BlueprintLog: New page: Compile AnimBlueprint
+[2019.11.07-05.30.58:875][784]LogUObjectHash: Compacting FUObjectHashTables data took   4.10ms
+[2019.11.07-05.31.16:179][811]BlueprintLog: New page: Compile AnimBlueprint
+[2019.11.07-05.31.16:384][811]LogUObjectHash: Compacting FUObjectHashTables data took   4.09ms
+[2019.11.07-05.32.09:694][108]BlueprintLog: New page: Compile AnimBlueprint
+[2019.11.07-05.32.09:905][108]LogUObjectHash: Compacting FUObjectHashTables data took   3.87ms
+[2019.11.07-05.33.03:816][376]BlueprintLog: New page: Compile AnimBlueprint
+[2019.11.07-05.33.04:027][376]LogUObjectHash: Compacting FUObjectHashTables data took   4.33ms
+[2019.11.07-05.33.21:558][408]BlueprintLog: New page: Compile AnimBlueprint
+[2019.11.07-05.33.21:768][408]LogUObjectHash: Compacting FUObjectHashTables data took   4.09ms
+[2019.11.07-05.33.31:797][983]BlueprintLog: New page: Compile AnimBlueprint
+[2019.11.07-05.33.32:009][983]LogUObjectHash: Compacting FUObjectHashTables data took   4.03ms
+[2019.11.07-05.34.25:741][115]BlueprintLog: New page: Compile AnimBlueprint
+[2019.11.07-05.34.25:953][115]LogUObjectHash: Compacting FUObjectHashTables data took   4.29ms
+[2019.11.07-05.34.50:787][577]LogWorld: UWorld::CleanupWorld for World_53, bSessionEnded=true, bCleanupResources=true
+[2019.11.07-05.34.50:943][577]LogWorld: UWorld::CleanupWorld for World_54, bSessionEnded=true, bCleanupResources=true
+[2019.11.07-05.35.05:911][424]LogAssetEditorManager: Opening Asset editor for BlendSpace1D /Game/AI/Fly_test/worm_bsp/NewBlendSpace1D.NewBlendSpace1D
+[2019.11.07-05.35.05:922][424]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_58:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.11.07-05.35.05:953][424]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_58:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.11.07-05.35.06:268][424]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2019.11.07-05.35.29:097][780]LogSlate: Window 'NewBlendSpace1D' being destroyed
+[2019.11.07-05.35.29:101][780]LogSlate: Window 'NewBlendSpace1D' being destroyed
+[2019.11.07-05.35.29:125][780]LogWorld: UWorld::CleanupWorld for World_48, bSessionEnded=true, bCleanupResources=true
+[2019.11.07-05.35.29:129][780]LogWorld: UWorld::CleanupWorld for World_47, bSessionEnded=true, bCleanupResources=true
+[2019.11.07-05.35.29:280][780]LogWorld: UWorld::CleanupWorld for World_49, bSessionEnded=true, bCleanupResources=true
+[2019.11.07-05.35.29:297][780]LogWorld: UWorld::CleanupWorld for World_55, bSessionEnded=true, bCleanupResources=true
+[2019.11.07-05.35.29:347][780]LogWorld: UWorld::CleanupWorld for World_57, bSessionEnded=true, bCleanupResources=true
+[2019.11.07-05.35.29:452][780]LogWorld: UWorld::CleanupWorld for World_56, bSessionEnded=true, bCleanupResources=true
+[2019.11.07-05.35.29:468][780]LogWorld: UWorld::CleanupWorld for World_58, bSessionEnded=true, bCleanupResources=true
+[2019.11.07-05.35.29:600][780]LogWorld: UWorld::CleanupWorld for World_59, bSessionEnded=true, bCleanupResources=true
+[2019.11.07-05.35.44:531][ 12]LogAssetEditorManager: Opening Asset editor for BlendSpace /Game/Enemy4/Aniamtion/BlendSpace.BlendSpace
+[2019.11.07-05.35.44:540][ 12]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_60:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.11.07-05.35.44:570][ 12]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_60:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.11.07-05.35.44:883][ 12]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2019.11.07-05.36.16:751][809]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Enemy4/Aniamtion/BlendSpace" FILE="D:/Backup(AR-Enemy AI)/AR&AI/Ai_test1 4.23/Content/Enemy4/Aniamtion/BlendSpace.uasset" SILENT=true
+[2019.11.07-05.36.16:834][809]LogSavePackage: Moving 'D:/Backup(AR-Enemy AI)/AR&AI/Ai_test1 4.23/Saved/BlendSpaceE75E74D8447B629F101ABD88AB864F17.tmp' to 'D:/Backup(AR-Enemy AI)/AR&AI/Ai_test1 4.23/Content/Enemy4/Aniamtion/BlendSpace.uasset'
+[2019.11.07-05.36.45:520][377]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Enemy4/Aniamtion/BlendSpace" FILE="D:/Backup(AR-Enemy AI)/AR&AI/Ai_test1 4.23/Content/Enemy4/Aniamtion/BlendSpace.uasset" SILENT=true
+[2019.11.07-05.36.45:538][377]LogSavePackage: Moving 'D:/Backup(AR-Enemy AI)/AR&AI/Ai_test1 4.23/Saved/BlendSpaceA05A469C40BE34DAF7C4AF8042DC1E6E.tmp' to 'D:/Backup(AR-Enemy AI)/AR&AI/Ai_test1 4.23/Content/Enemy4/Aniamtion/BlendSpace.uasset'
+[2019.11.07-05.36.53:052][ 60]LogWorld: UWorld::CleanupWorld for World_51, bSessionEnded=true, bCleanupResources=true
+[2019.11.07-05.36.53:055][ 60]LogWorld: UWorld::CleanupWorld for World_50, bSessionEnded=true, bCleanupResources=true
+[2019.11.07-05.36.53:196][ 60]LogWorld: UWorld::CleanupWorld for World_52, bSessionEnded=true, bCleanupResources=true
+[2019.11.07-05.36.54:982][200]LogAssetEditorManager: Opening Asset editor for AnimBlueprint /Game/Enemy4/Aniamtion/AnimBlueprint.AnimBlueprint
+[2019.11.07-05.36.54:997][200]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_63:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.11.07-05.36.55:301][200]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_63:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.11.07-05.36.55:629][200]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2019.11.07-05.37.14:627][757]LogAssetEditorManager: Opening Asset editor for AnimBlueprint /Game/AI/Fly_test/worm_bsp/wormBP.wormBP
+[2019.11.07-05.37.14:643][757]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_66:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.11.07-05.37.14:940][757]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_66:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.11.07-05.37.15:295][757]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2019.11.07-05.37.57:771][297]LogAssetEditorManager: Opening Asset editor for AnimBlueprint /Game/en_1_AI/enemy1/animation/Bpa_Human.Bpa_Human
+[2019.11.07-05.37.57:785][297]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_69:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.11.07-05.37.58:090][297]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_69:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.11.07-05.37.58:430][297]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2019.11.07-05.38.46:923][ 82]LogSlate: Window 'wormBP' being destroyed
+[2019.11.07-05.38.46:926][ 82]LogSlate: Window 'wormBP' being destroyed
+[2019.11.07-05.38.46:980][ 82]LogWorld: UWorld::CleanupWorld for World_66, bSessionEnded=true, bCleanupResources=true
+[2019.11.07-05.38.46:985][ 82]LogWorld: UWorld::CleanupWorld for World_65, bSessionEnded=true, bCleanupResources=true
+[2019.11.07-05.38.47:142][ 82]LogWorld: UWorld::CleanupWorld for World_67, bSessionEnded=true, bCleanupResources=true
+[2019.11.07-05.39.43:310][690]LogUObjectHash: Compacting FUObjectHashTables data took   4.50ms
+[2019.11.07-05.39.43:310][690]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/VirtualRealityBP/Maps/MotionControllerMap' took 0.053
+[2019.11.07-05.39.43:312][690]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/AI/Fly_test/worm_bsp/wormBP] ([1] browsable assets)...
+[2019.11.07-05.39.43:312][690]OBJ SavePackage: Finished generating thumbnails for package [/Game/AI/Fly_test/worm_bsp/wormBP]
+[2019.11.07-05.39.43:377][690]LogSavePackage: Moving 'D:/Backup(AR-Enemy AI)/AR&AI/Ai_test1 4.23/Saved/wormBP_Auto28A473F8B40E4F4ACD585D1BB634E4AFB.tmp' to 'D:/Backup(AR-Enemy AI)/AR&AI/Ai_test1 4.23/Saved/Autosaves/Game/AI/Fly_test/worm_bsp/wormBP_Auto2.uasset'
+[2019.11.07-05.39.43:377][690]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Enemy4/Aniamtion/AnimBlueprint] ([1] browsable assets)...
+[2019.11.07-05.39.43:388][690]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/Enemy4/Aniamtion/AnimBlueprint.AnimBlueprint]
+[2019.11.07-05.39.43:388][690]OBJ SavePackage: Finished generating thumbnails for package [/Game/Enemy4/Aniamtion/AnimBlueprint]
+[2019.11.07-05.39.43:502][690]LogSavePackage: Moving 'D:/Backup(AR-Enemy AI)/AR&AI/Ai_test1 4.23/Saved/AnimBlueprint_Auto266D9A369456B811E39C20C8A02DACAB0.tmp' to 'D:/Backup(AR-Enemy AI)/AR&AI/Ai_test1 4.23/Saved/Autosaves/Game/Enemy4/Aniamtion/AnimBlueprint_Auto2.uasset'
+[2019.11.07-05.39.43:503][690]LogFileHelpers: Auto-saving content packages took 0.192
+[2019.11.07-05.40.02:654][850]BlueprintLog: New page: Compile AnimBlueprint
+[2019.11.07-05.40.02:864][850]LogUObjectHash: Compacting FUObjectHashTables data took   3.67ms
+[2019.11.07-05.41.57:849][114]BlueprintLog: New page: Compile AnimBlueprint
+[2019.11.07-05.41.58:073][114]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2019.11.07-05.42.00:146][114]LogStats: FPlatformStackWalk::StackWalkAndDump -  2.073 s
+[2019.11.07-05.42.00:146][114]LogOutputDevice: Error: === Handled ensure: ===
+[2019.11.07-05.42.00:146][114]LogOutputDevice: Error: 
+[2019.11.07-05.42.00:146][114]LogOutputDevice: Error: Ensure condition failed: Poses.Num() == DesiredAlphas.Num() [File:D:/Build/++UE4/Sync/Engine/Source/Runtime/AnimGraphRuntime/Private/AnimNodes/AnimNode_MultiWayBlend.cpp] [Line: 22]
+[2019.11.07-05.42.00:146][114]LogOutputDevice: Error: 
+[2019.11.07-05.42.00:146][114]LogOutputDevice: Error: Stack: 
+[2019.11.07-05.42.00:146][114]LogOutputDevice: Error: [Callstack] 0x00007ff8bcc34158 UE4Editor-AnimGraphRuntime.dll!UnknownFunction []
+[2019.11.07-05.42.00:146][114]LogOutputDevice: Error: [Callstack] 0x00007ff8bcbd693e UE4Editor-AnimGraphRuntime.dll!UnknownFunction []
+[2019.11.07-05.42.00:146][114]LogOutputDevice: Error: [Callstack] 0x00007ff8c211cf0a UE4Editor-Engine.dll!UnknownFunction []
+[2019.11.07-05.42.00:146][114]LogOutputDevice: Error: [Callstack] 0x00007ff8c211e76f UE4Editor-Engine.dll!UnknownFunction []
+[2019.11.07-05.42.00:147][114]LogOutputDevice: Error: [Callstack] 0x00007ff8c20c1229 UE4Editor-Engine.dll!UnknownFunction []
+[2019.11.07-05.42.00:147][114]LogOutputDevice: Error: [Callstack] 0x00007ff8c2429b4b UE4Editor-Engine.dll!UnknownFunction []
+[2019.11.07-05.42.00:147][114]LogOutputDevice: Error: [Callstack] 0x00007ff8c2428f71 UE4Editor-Engine.dll!UnknownFunction []
+[2019.11.07-05.42.00:147][114]LogOutputDevice: Error: [Callstack] 0x00007ff8c0e80086 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.11.07-05.42.00:147][114]LogOutputDevice: Error: [Callstack] 0x00007ff8c0e3e23f UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.11.07-05.42.00:147][114]LogOutputDevice: Error: [Callstack] 0x00007ff8be512ee6 UE4Editor-Kismet.dll!UnknownFunction []
+[2019.11.07-05.42.00:147][114]LogOutputDevice: Error: [Callstack] 0x00007ff8be4c397f UE4Editor-Kismet.dll!UnknownFunction []
+[2019.11.07-05.42.00:147][114]LogOutputDevice: Error: [Callstack] 0x00007ff8c0e460e8 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.11.07-05.42.00:147][114]LogOutputDevice: Error: [Callstack] 0x00007ff8be5ba781 UE4Editor-Kismet.dll!UnknownFunction []
+[2019.11.07-05.42.00:147][114]LogOutputDevice: Error: [Callstack] 0x00007ff8ab9885f6 UE4Editor-AnimationBlueprintEditor.dll!UnknownFunction []
+[2019.11.07-05.42.00:148][114]LogOutputDevice: Error: [Callstack] 0x00007ff8be5d5d78 UE4Editor-Kismet.dll!UnknownFunction []
+[2019.11.07-05.42.00:148][114]LogOutputDevice: Error: [Callstack] 0x00007ff8ca907fda UE4Editor-Slate.dll!UnknownFunction []
+[2019.11.07-05.42.00:148][114]LogOutputDevice: Error: [Callstack] 0x00007ff8ca9ea262 UE4Editor-Slate.dll!UnknownFunction []
+[2019.11.07-05.42.00:148][114]LogOutputDevice: Error: [Callstack] 0x00007ff8ca9cccf4 UE4Editor-Slate.dll!UnknownFunction []
+[2019.11.07-05.42.00:148][114]LogOutputDevice: Error: [Callstack] 0x00007ff8caa658b8 UE4Editor-Slate.dll!UnknownFunction []
+[2019.11.07-05.42.00:148][114]LogOutputDevice: Error: [Callstack] 0x00007ff8caa814b1 UE4Editor-Slate.dll!UnknownFunction []
+[2019.11.07-05.42.00:148][114]LogOutputDevice: Error: [Callstack] 0x00007ff8ca8c5231 UE4Editor-Slate.dll!UnknownFunction []
+[2019.11.07-05.42.00:148][114]LogOutputDevice: Error: [Callstack] 0x00007ff8ca94b4f1 UE4Editor-Slate.dll!UnknownFunction []
+[2019.11.07-05.42.00:148][114]LogOutputDevice: Error: [Callstack] 0x00007ff8ca9352e8 UE4Editor-Slate.dll!UnknownFunction []
+[2019.11.07-05.42.00:148][114]LogOutputDevice: Error: [Callstack] 0x00007ff8ca929c91 UE4Editor-Slate.dll!UnknownFunction []
+[2019.11.07-05.42.00:148][114]LogOutputDevice: Error: [Callstack] 0x00007ff908024e02 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.11.07-05.42.00:148][114]LogOutputDevice: Error: [Callstack] 0x00007ff9080126df UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.11.07-05.42.00:148][114]LogOutputDevice: Error: [Callstack] 0x00007ff908027340 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.11.07-05.42.00:148][114]LogOutputDevice: Error: [Callstack] 0x00007ff90800edd0 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.11.07-05.42.00:148][114]LogOutputDevice: Error: [Callstack] 0x00007ff91d0063ed USER32.dll!UnknownFunction []
+[2019.11.07-05.42.00:148][114]LogOutputDevice: Error: [Callstack] 0x00007ff91d005de2 USER32.dll!UnknownFunction []
+[2019.11.07-05.42.00:148][114]LogOutputDevice: Error: [Callstack] 0x00007ff9080288e9 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.11.07-05.42.00:148][114]LogOutputDevice: Error: [Callstack] 0x00007ff756006980 UE4Editor.exe!UnknownFunction []
+[2019.11.07-05.42.00:149][114]LogOutputDevice: Error: [Callstack] 0x00007ff75601a91c UE4Editor.exe!UnknownFunction []
+[2019.11.07-05.42.00:149][114]LogOutputDevice: Error: [Callstack] 0x00007ff75601a9fa UE4Editor.exe!UnknownFunction []
+[2019.11.07-05.42.00:149][114]LogOutputDevice: Error: [Callstack] 0x00007ff75602b92c UE4Editor.exe!UnknownFunction []
+[2019.11.07-05.42.00:149][114]LogOutputDevice: Error: [Callstack] 0x00007ff75602e60e UE4Editor.exe!UnknownFunction []
+[2019.11.07-05.42.00:149][114]LogOutputDevice: Error: [Callstack] 0x00007ff91c567bd4 KERNEL32.DLL!UnknownFunction []
+[2019.11.07-05.42.00:149][114]LogOutputDevice: Error: [Callstack] 0x00007ff91e50ced1 ntdll.dll!UnknownFunction []
+[2019.11.07-05.42.00:149][114]LogOutputDevice: Error: 
+[2019.11.07-05.42.00:156][114]LogStats:                SubmitErrorReport -  0.000 s
+[2019.11.07-05.42.04:555][114]LogStats:                    SendNewReport -  4.399 s
+[2019.11.07-05.42.04:555][114]LogStats:             FDebug::EnsureFailed -  6.506 s
+[2019.11.07-05.42.04:620][114]LogUObjectHash: Compacting FUObjectHashTables data took   4.36ms
+[2019.11.07-05.42.04:635][114]BlueprintLog: New page: Compile AnimBlueprint
+[2019.11.07-05.42.04:853][114]LogUObjectHash: Compacting FUObjectHashTables data took   3.95ms
+[2019.11.07-05.43.06:639][775]BlueprintLog: New page: Compile AnimBlueprint
+[2019.11.07-05.43.06:857][775]LogUObjectHash: Compacting FUObjectHashTables data took   4.29ms
+[2019.11.07-05.44.00:484][ 22]LogAssetEditorManager: Opening Asset editor for BlendSpace /Game/en_1_AI/enemy1/animation/BSP_FreeWAlk.BSP_FreeWAlk
+[2019.11.07-05.44.24:758][486]BlueprintLog: New page: Compile AnimBlueprint
+[2019.11.07-05.44.24:973][486]LogUObjectHash: Compacting FUObjectHashTables data took   4.20ms
+[2019.11.07-05.44.33:925][988]BlueprintLog: New page: Compile AnimBlueprint
+[2019.11.07-05.44.34:134][988]LogUObjectHash: Compacting FUObjectHashTables data took   4.18ms
+[2019.11.07-05.44.41:973][435]BlueprintLog: New page: Compile AnimBlueprint
+[2019.11.07-05.44.42:184][435]LogUObjectHash: Compacting FUObjectHashTables data took   4.21ms
+[2019.11.07-05.46.12:899][858]BlueprintLog: New page: Compile AnimBlueprint
+[2019.11.07-05.46.13:118][858]LogUObjectHash: Compacting FUObjectHashTables data took   4.40ms
+[2019.11.07-05.46.38:379][377]BlueprintLog: New page: Compile AnimBlueprint
+[2019.11.07-05.46.38:610][377]LogUObjectHash: Compacting FUObjectHashTables data took   4.13ms
+[2019.11.07-05.49.20:233][ 84]BlueprintLog: New page: Compile AnimBlueprint
+[2019.11.07-05.49.20:451][ 84]LogUObjectHash: Compacting FUObjectHashTables data took   4.34ms
+[2019.11.07-05.49.26:264][416]BlueprintLog: New page: Compile AnimBlueprint
+[2019.11.07-05.49.26:474][416]LogUObjectHash: Compacting FUObjectHashTables data took   4.05ms
+[2019.11.07-05.49.35:492][935]BlueprintLog: New page: Compile AnimBlueprint
+[2019.11.07-05.49.35:704][935]LogUObjectHash: Compacting FUObjectHashTables data took   4.12ms
+[2019.11.07-05.50.24:151][934]LogUObjectHash: Compacting FUObjectHashTables data took   4.21ms
+[2019.11.07-05.50.24:151][934]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/VirtualRealityBP/Maps/MotionControllerMap' took 0.039
+[2019.11.07-05.50.24:153][934]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Enemy4/Aniamtion/AnimBlueprint] ([1] browsable assets)...
+[2019.11.07-05.50.24:164][934]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/Enemy4/Aniamtion/AnimBlueprint.AnimBlueprint]
+[2019.11.07-05.50.24:164][934]OBJ SavePackage: Finished generating thumbnails for package [/Game/Enemy4/Aniamtion/AnimBlueprint]
+[2019.11.07-05.50.24:227][934]LogSavePackage: Moving 'D:/Backup(AR-Enemy AI)/AR&AI/Ai_test1 4.23/Saved/AnimBlueprint_Auto3A7A391E843BEDD9896CCCFB6C15AD961.tmp' to 'D:/Backup(AR-Enemy AI)/AR&AI/Ai_test1 4.23/Saved/Autosaves/Game/Enemy4/Aniamtion/AnimBlueprint_Auto3.uasset'
+[2019.11.07-05.50.24:228][934]LogFileHelpers: Auto-saving content packages took 0.075
+[2019.11.07-05.50.26:374][ 62]BlueprintLog: New page: Compile AnimBlueprint
+[2019.11.07-05.50.26:587][ 62]LogUObjectHash: Compacting FUObjectHashTables data took   3.64ms
+[2019.11.07-05.50.26:603][ 62]BlueprintLog: New page: Compile AnimBlueprint
+[2019.11.07-05.50.26:813][ 62]LogUObjectHash: Compacting FUObjectHashTables data took   3.87ms
+[2019.11.07-05.50.26:827][ 62]BlueprintLog: New page: Compile AnimBlueprint
+[2019.11.07-05.50.27:038][ 62]LogUObjectHash: Compacting FUObjectHashTables data took   3.80ms
+[2019.11.07-05.50.37:855][696]BlueprintLog: New page: Compile AnimBlueprint
+[2019.11.07-05.50.38:069][696]LogUObjectHash: Compacting FUObjectHashTables data took   3.87ms
+[2019.11.07-05.51.09:381][549]BlueprintLog: New page: Compile AnimBlueprint
+[2019.11.07-05.51.09:593][549]LogUObjectHash: Compacting FUObjectHashTables data took   4.36ms
+[2019.11.07-05.51.25:052][457]BlueprintLog: New page: Compile AnimBlueprint
+[2019.11.07-05.51.25:267][457]LogUObjectHash: Compacting FUObjectHashTables data took   4.09ms
+[2019.11.07-05.51.25:769][482]BlueprintLog: New page: Compile AnimBlueprint
+[2019.11.07-05.51.25:982][482]LogUObjectHash: Compacting FUObjectHashTables data took   4.18ms
+[2019.11.07-05.51.25:997][482]BlueprintLog: New page: Compile AnimBlueprint
+[2019.11.07-05.51.26:209][482]LogUObjectHash: Compacting FUObjectHashTables data took   4.20ms
+[2019.11.07-05.51.35:701][ 38]BlueprintLog: New page: Compile AnimBlueprint
+[2019.11.07-05.51.35:911][ 38]LogUObjectHash: Compacting FUObjectHashTables data took   3.78ms
+[2019.11.07-05.51.48:858][796]BlueprintLog: New page: Compile AnimBlueprint
+[2019.11.07-05.51.49:070][796]LogUObjectHash: Compacting FUObjectHashTables data took   4.20ms
+[2019.11.07-05.51.57:379][290]BlueprintLog: New page: Compile AnimBlueprint
+[2019.11.07-05.51.57:592][290]LogUObjectHash: Compacting FUObjectHashTables data took   4.12ms
+[2019.11.07-05.52.35:166][645]BlueprintLog: New page: Compile AnimBlueprint
+[2019.11.07-05.52.35:381][645]LogUObjectHash: Compacting FUObjectHashTables data took   4.34ms
+[2019.11.07-05.52.37:891][792]LogBlueprint: Warning: FMemberReference::ResolveMember (Iscrouch) bSelfContext == true, but no scope supplied!
+[2019.11.07-05.52.37:891][792]LogBlueprint: Warning: FMemberReference::ResolveMember (Iscrouch) bSelfContext == true, but no scope supplied!
+[2019.11.07-05.52.37:891][792]LogBlueprint: Warning: FMemberReference::ResolveMember (Iscrouch) bSelfContext == true, but no scope supplied!
+[2019.11.07-05.52.37:891][792]LogBlueprint: Warning: FMemberReference::ResolveMember (Iscrouch) bSelfContext == true, but no scope supplied!
+[2019.11.07-05.52.37:910][793]LogBlueprint: Warning: FMemberReference::ResolveMember (Iscrouch) bSelfContext == true, but no scope supplied!
+[2019.11.07-05.52.37:910][793]LogBlueprint: Warning: FMemberReference::ResolveMember (Iscrouch) bSelfContext == true, but no scope supplied!
+[2019.11.07-05.52.37:925][794]LogBlueprint: Warning: FMemberReference::ResolveMember (Iscrouch) bSelfContext == true, but no scope supplied!
+[2019.11.07-05.52.37:925][794]LogBlueprint: Warning: FMemberReference::ResolveMember (Iscrouch) bSelfContext == true, but no scope supplied!
+[2019.11.07-05.52.37:939][795]LogBlueprint: Warning: FMemberReference::ResolveMember (Iscrouch) bSelfContext == true, but no scope supplied!
+[2019.11.07-05.52.37:940][795]LogBlueprint: Warning: FMemberReference::ResolveMember (Iscrouch) bSelfContext == true, but no scope supplied!
+[2019.11.07-05.52.37:955][796]LogBlueprint: Warning: FMemberReference::ResolveMember (Iscrouch) bSelfContext == true, but no scope supplied!
+[2019.11.07-05.52.37:955][796]LogBlueprint: Warning: FMemberReference::ResolveMember (Iscrouch) bSelfContext == true, but no scope supplied!
+[2019.11.07-05.52.37:970][797]LogBlueprint: Warning: FMemberReference::ResolveMember (Iscrouch) bSelfContext == true, but no scope supplied!
+[2019.11.07-05.52.37:970][797]LogBlueprint: Warning: FMemberReference::ResolveMember (Iscrouch) bSelfContext == true, but no scope supplied!
+[2019.11.07-05.52.37:985][798]LogBlueprint: Warning: FMemberReference::ResolveMember (Iscrouch) bSelfContext == true, but no scope supplied!
+[2019.11.07-05.52.37:985][798]LogBlueprint: Warning: FMemberReference::ResolveMember (Iscrouch) bSelfContext == true, but no scope supplied!
+[2019.11.07-05.52.38:001][799]LogBlueprint: Warning: FMemberReference::ResolveMember (Iscrouch) bSelfContext == true, but no scope supplied!
+[2019.11.07-05.52.38:001][799]LogBlueprint: Warning: FMemberReference::ResolveMember (Iscrouch) bSelfContext == true, but no scope supplied!
+[2019.11.07-05.52.38:017][800]LogBlueprint: Warning: FMemberReference::ResolveMember (Iscrouch) bSelfContext == true, but no scope supplied!
+[2019.11.07-05.52.38:017][800]LogBlueprint: Warning: FMemberReference::ResolveMember (Iscrouch) bSelfContext == true, but no scope supplied!
+[2019.11.07-05.52.38:033][801]LogBlueprint: Warning: FMemberReference::ResolveMember (Iscrouch) bSelfContext == true, but no scope supplied!
+[2019.11.07-05.52.38:033][801]LogBlueprint: Warning: FMemberReference::ResolveMember (Iscrouch) bSelfContext == true, but no scope supplied!
+[2019.11.07-05.52.38:049][802]LogBlueprint: Warning: FMemberReference::ResolveMember (Iscrouch) bSelfContext == true, but no scope supplied!
+[2019.11.07-05.52.38:049][802]LogBlueprint: Warning: FMemberReference::ResolveMember (Iscrouch) bSelfContext == true, but no scope supplied!
+[2019.11.07-05.52.38:064][803]LogBlueprint: Warning: FMemberReference::ResolveMember (Iscrouch) bSelfContext == true, but no scope supplied!
+[2019.11.07-05.52.38:064][803]LogBlueprint: Warning: FMemberReference::ResolveMember (Iscrouch) bSelfContext == true, but no scope supplied!
+[2019.11.07-05.52.38:080][804]LogBlueprint: Warning: FMemberReference::ResolveMember (Iscrouch) bSelfContext == true, but no scope supplied!
+[2019.11.07-05.52.38:080][804]LogBlueprint: Warning: FMemberReference::ResolveMember (Iscrouch) bSelfContext == true, but no scope supplied!
+[2019.11.07-05.52.38:095][805]LogBlueprint: Warning: FMemberReference::ResolveMember (Iscrouch) bSelfContext == true, but no scope supplied!
+[2019.11.07-05.52.38:095][805]LogBlueprint: Warning: FMemberReference::ResolveMember (Iscrouch) bSelfContext == true, but no scope supplied!
+[2019.11.07-05.52.38:111][806]LogBlueprint: Warning: FMemberReference::ResolveMember (Iscrouch) bSelfContext == true, but no scope supplied!
+[2019.11.07-05.52.38:111][806]LogBlueprint: Warning: FMemberReference::ResolveMember (Iscrouch) bSelfContext == true, but no scope supplied!
+[2019.11.07-05.52.38:127][807]LogBlueprint: Warning: FMemberReference::ResolveMember (Iscrouch) bSelfContext == true, but no scope supplied!
+[2019.11.07-05.52.38:127][807]LogBlueprint: Warning: FMemberReference::ResolveMember (Iscrouch) bSelfContext == true, but no scope supplied!
+[2019.11.07-05.52.38:143][808]LogBlueprint: Warning: FMemberReference::ResolveMember (Iscrouch) bSelfContext == true, but no scope supplied!
+[2019.11.07-05.52.38:143][808]LogBlueprint: Warning: FMemberReference::ResolveMember (Iscrouch) bSelfContext == true, but no scope supplied!
+[2019.11.07-05.52.38:159][809]LogBlueprint: Warning: FMemberReference::ResolveMember (Iscrouch) bSelfContext == true, but no scope supplied!
+[2019.11.07-05.52.38:159][809]LogBlueprint: Warning: FMemberReference::ResolveMember (Iscrouch) bSelfContext == true, but no scope supplied!
+[2019.11.07-05.52.38:175][810]LogBlueprint: Warning: FMemberReference::ResolveMember (Iscrouch) bSelfContext == true, but no scope supplied!
+[2019.11.07-05.52.38:175][810]LogBlueprint: Warning: FMemberReference::ResolveMember (Iscrouch) bSelfContext == true, but no scope supplied!
+[2019.11.07-05.52.38:192][811]LogBlueprint: Warning: FMemberReference::ResolveMember (Iscrouch) bSelfContext == true, but no scope supplied!
+[2019.11.07-05.52.38:192][811]LogBlueprint: Warning: FMemberReference::ResolveMember (Iscrouch) bSelfContext == true, but no scope supplied!
+[2019.11.07-05.52.38:208][812]LogBlueprint: Warning: FMemberReference::ResolveMember (Iscrouch) bSelfContext == true, but no scope supplied!
+[2019.11.07-05.52.38:208][812]LogBlueprint: Warning: FMemberReference::ResolveMember (Iscrouch) bSelfContext == true, but no scope supplied!
+[2019.11.07-05.52.38:225][813]LogBlueprint: Warning: FMemberReference::ResolveMember (Iscrouch) bSelfContext == true, but no scope supplied!
+[2019.11.07-05.52.38:225][813]LogBlueprint: Warning: FMemberReference::ResolveMember (Iscrouch) bSelfContext == true, but no scope supplied!
+[2019.11.07-05.52.38:242][814]LogBlueprint: Warning: FMemberReference::ResolveMember (Iscrouch) bSelfContext == true, but no scope supplied!
+[2019.11.07-05.52.38:242][814]LogBlueprint: Warning: FMemberReference::ResolveMember (Iscrouch) bSelfContext == true, but no scope supplied!
+[2019.11.07-05.52.38:258][815]LogBlueprint: Warning: FMemberReference::ResolveMember (Iscrouch) bSelfContext == true, but no scope supplied!
+[2019.11.07-05.52.38:258][815]LogBlueprint: Warning: FMemberReference::ResolveMember (Iscrouch) bSelfContext == true, but no scope supplied!
+[2019.11.07-05.52.38:273][816]LogBlueprint: Warning: FMemberReference::ResolveMember (Iscrouch) bSelfContext == true, but no scope supplied!
+[2019.11.07-05.52.38:273][816]LogBlueprint: Warning: FMemberReference::ResolveMember (Iscrouch) bSelfContext == true, but no scope supplied!
+[2019.11.07-05.52.38:290][817]LogBlueprint: Warning: FMemberReference::ResolveMember (Iscrouch) bSelfContext == true, but no scope supplied!
+[2019.11.07-05.52.38:290][817]LogBlueprint: Warning: FMemberReference::ResolveMember (Iscrouch) bSelfContext == true, but no scope supplied!
+[2019.11.07-05.52.38:305][818]LogBlueprint: Warning: FMemberReference::ResolveMember (Iscrouch) bSelfContext == true, but no scope supplied!
+[2019.11.07-05.52.38:305][818]LogBlueprint: Warning: FMemberReference::ResolveMember (Iscrouch) bSelfContext == true, but no scope supplied!
+[2019.11.07-05.52.38:321][819]LogBlueprint: Warning: FMemberReference::ResolveMember (Iscrouch) bSelfContext == true, but no scope supplied!
+[2019.11.07-05.52.38:322][819]LogBlueprint: Warning: FMemberReference::ResolveMember (Iscrouch) bSelfContext == true, but no scope supplied!
+[2019.11.07-05.52.38:337][820]LogBlueprint: Warning: FMemberReference::ResolveMember (Iscrouch) bSelfContext == true, but no scope supplied!
+[2019.11.07-05.52.38:337][820]LogBlueprint: Warning: FMemberReference::ResolveMember (Iscrouch) bSelfContext == true, but no scope supplied!
+[2019.11.07-05.52.38:354][821]LogBlueprint: Warning: FMemberReference::ResolveMember (Iscrouch) bSelfContext == true, but no scope supplied!
+[2019.11.07-05.52.38:354][821]LogBlueprint: Warning: FMemberReference::ResolveMember (Iscrouch) bSelfContext == true, but no scope supplied!
+[2019.11.07-05.52.38:370][822]LogBlueprint: Warning: FMemberReference::ResolveMember (Iscrouch) bSelfContext == true, but no scope supplied!
+[2019.11.07-05.52.38:370][822]LogBlueprint: Warning: FMemberReference::ResolveMember (Iscrouch) bSelfContext == true, but no scope supplied!
+[2019.11.07-05.52.38:386][823]LogBlueprint: Warning: FMemberReference::ResolveMember (Iscrouch) bSelfContext == true, but no scope supplied!
+[2019.11.07-05.52.38:386][823]LogBlueprint: Warning: FMemberReference::ResolveMember (Iscrouch) bSelfContext == true, but no scope supplied!
+[2019.11.07-05.52.38:401][824]LogBlueprint: Warning: FMemberReference::ResolveMember (Iscrouch) bSelfContext == true, but no scope supplied!
+[2019.11.07-05.52.38:401][824]LogBlueprint: Warning: FMemberReference::ResolveMember (Iscrouch) bSelfContext == true, but no scope supplied!
+[2019.11.07-05.52.38:418][825]LogBlueprint: Warning: FMemberReference::ResolveMember (Iscrouch) bSelfContext == true, but no scope supplied!
+[2019.11.07-05.52.38:418][825]LogBlueprint: Warning: FMemberReference::ResolveMember (Iscrouch) bSelfContext == true, but no scope supplied!
+[2019.11.07-05.52.38:433][826]LogBlueprint: Warning: FMemberReference::ResolveMember (Iscrouch) bSelfContext == true, but no scope supplied!
+[2019.11.07-05.52.38:433][826]LogBlueprint: Warning: FMemberReference::ResolveMember (Iscrouch) bSelfContext == true, but no scope supplied!
+[2019.11.07-05.52.38:450][827]LogBlueprint: Warning: FMemberReference::ResolveMember (Iscrouch) bSelfContext == true, but no scope supplied!
+[2019.11.07-05.52.38:450][827]LogBlueprint: Warning: FMemberReference::ResolveMember (Iscrouch) bSelfContext == true, but no scope supplied!
+[2019.11.07-05.52.38:465][828]LogBlueprint: Warning: FMemberReference::ResolveMember (Iscrouch) bSelfContext == true, but no scope supplied!
+[2019.11.07-05.52.38:465][828]LogBlueprint: Warning: FMemberReference::ResolveMember (Iscrouch) bSelfContext == true, but no scope supplied!
+[2019.11.07-05.52.38:482][829]LogBlueprint: Warning: FMemberReference::ResolveMember (Iscrouch) bSelfContext == true, but no scope supplied!
+[2019.11.07-05.52.38:482][829]LogBlueprint: Warning: FMemberReference::ResolveMember (Iscrouch) bSelfContext == true, but no scope supplied!
+[2019.11.07-05.52.38:498][830]LogBlueprint: Warning: FMemberReference::ResolveMember (Iscrouch) bSelfContext == true, but no scope supplied!
+[2019.11.07-05.52.38:498][830]LogBlueprint: Warning: FMemberReference::ResolveMember (Iscrouch) bSelfContext == true, but no scope supplied!
+[2019.11.07-05.52.38:513][831]LogBlueprint: Warning: FMemberReference::ResolveMember (Iscrouch) bSelfContext == true, but no scope supplied!
+[2019.11.07-05.52.38:513][831]LogBlueprint: Warning: FMemberReference::ResolveMember (Iscrouch) bSelfContext == true, but no scope supplied!
+[2019.11.07-05.52.38:529][832]LogBlueprint: Warning: FMemberReference::ResolveMember (Iscrouch) bSelfContext == true, but no scope supplied!
+[2019.11.07-05.52.38:529][832]LogBlueprint: Warning: FMemberReference::ResolveMember (Iscrouch) bSelfContext == true, but no scope supplied!
+[2019.11.07-05.52.38:545][833]LogBlueprint: Warning: FMemberReference::ResolveMember (Iscrouch) bSelfContext == true, but no scope supplied!
+[2019.11.07-05.52.38:545][833]LogBlueprint: Warning: FMemberReference::ResolveMember (Iscrouch) bSelfContext == true, but no scope supplied!
+[2019.11.07-05.52.38:560][834]LogBlueprint: Warning: FMemberReference::ResolveMember (Iscrouch) bSelfContext == true, but no scope supplied!
+[2019.11.07-05.52.38:560][834]LogBlueprint: Warning: FMemberReference::ResolveMember (Iscrouch) bSelfContext == true, but no scope supplied!
+[2019.11.07-05.52.38:576][835]LogBlueprint: Warning: FMemberReference::ResolveMember (Iscrouch) bSelfContext == true, but no scope supplied!
+[2019.11.07-05.52.38:576][835]LogBlueprint: Warning: FMemberReference::ResolveMember (Iscrouch) bSelfContext == true, but no scope supplied!
+[2019.11.07-05.52.38:592][836]LogBlueprint: Warning: FMemberReference::ResolveMember (Iscrouch) bSelfContext == true, but no scope supplied!
+[2019.11.07-05.52.38:592][836]LogBlueprint: Warning: FMemberReference::ResolveMember (Iscrouch) bSelfContext == true, but no scope supplied!
+[2019.11.07-05.52.38:608][837]LogBlueprint: Warning: FMemberReference::ResolveMember (Iscrouch) bSelfContext == true, but no scope supplied!
+[2019.11.07-05.52.38:608][837]LogBlueprint: Warning: FMemberReference::ResolveMember (Iscrouch) bSelfContext == true, but no scope supplied!
+[2019.11.07-05.52.38:624][838]LogBlueprint: Warning: FMemberReference::ResolveMember (Iscrouch) bSelfContext == true, but no scope supplied!
+[2019.11.07-05.52.38:624][838]LogBlueprint: Warning: FMemberReference::ResolveMember (Iscrouch) bSelfContext == true, but no scope supplied!
+[2019.11.07-05.52.38:640][839]LogBlueprint: Warning: FMemberReference::ResolveMember (Iscrouch) bSelfContext == true, but no scope supplied!
+[2019.11.07-05.52.38:640][839]LogBlueprint: Warning: FMemberReference::ResolveMember (Iscrouch) bSelfContext == true, but no scope supplied!
+[2019.11.07-05.52.38:656][840]LogBlueprint: Warning: FMemberReference::ResolveMember (Iscrouch) bSelfContext == true, but no scope supplied!
+[2019.11.07-05.52.38:656][840]LogBlueprint: Warning: FMemberReference::ResolveMember (Iscrouch) bSelfContext == true, but no scope supplied!
+[2019.11.07-05.52.38:672][841]LogBlueprint: Warning: FMemberReference::ResolveMember (Iscrouch) bSelfContext == true, but no scope supplied!
+[2019.11.07-05.52.38:672][841]LogBlueprint: Warning: FMemberReference::ResolveMember (Iscrouch) bSelfContext == true, but no scope supplied!
+[2019.11.07-05.52.38:687][842]LogBlueprint: Warning: FMemberReference::ResolveMember (Iscrouch) bSelfContext == true, but no scope supplied!
+[2019.11.07-05.52.38:687][842]LogBlueprint: Warning: FMemberReference::ResolveMember (Iscrouch) bSelfContext == true, but no scope supplied!
+[2019.11.07-05.52.38:702][843]LogBlueprint: Warning: FMemberReference::ResolveMember (Iscrouch) bSelfContext == true, but no scope supplied!
+[2019.11.07-05.52.38:703][843]LogBlueprint: Warning: FMemberReference::ResolveMember (Iscrouch) bSelfContext == true, but no scope supplied!
+[2019.11.07-05.52.38:718][844]LogBlueprint: Warning: FMemberReference::ResolveMember (Iscrouch) bSelfContext == true, but no scope supplied!
+[2019.11.07-05.52.38:718][844]LogBlueprint: Warning: FMemberReference::ResolveMember (Iscrouch) bSelfContext == true, but no scope supplied!
+[2019.11.07-05.52.38:735][845]LogBlueprint: Warning: FMemberReference::ResolveMember (Iscrouch) bSelfContext == true, but no scope supplied!
+[2019.11.07-05.52.38:735][845]LogBlueprint: Warning: FMemberReference::ResolveMember (Iscrouch) bSelfContext == true, but no scope supplied!
+[2019.11.07-05.52.38:752][846]LogBlueprint: Warning: FMemberReference::ResolveMember (Iscrouch) bSelfContext == true, but no scope supplied!
+[2019.11.07-05.52.38:752][846]LogBlueprint: Warning: FMemberReference::ResolveMember (Iscrouch) bSelfContext == true, but no scope supplied!
+[2019.11.07-05.52.38:769][847]LogBlueprint: Warning: FMemberReference::ResolveMember (Iscrouch) bSelfContext == true, but no scope supplied!
+[2019.11.07-05.52.38:769][847]LogBlueprint: Warning: FMemberReference::ResolveMember (Iscrouch) bSelfContext == true, but no scope supplied!
+[2019.11.07-05.52.38:786][848]LogBlueprint: Warning: FMemberReference::ResolveMember (Iscrouch) bSelfContext == true, but no scope supplied!
+[2019.11.07-05.52.38:786][848]LogBlueprint: Warning: FMemberReference::ResolveMember (Iscrouch) bSelfContext == true, but no scope supplied!
+[2019.11.07-05.52.38:802][849]LogBlueprint: Warning: FMemberReference::ResolveMember (Iscrouch) bSelfContext == true, but no scope supplied!
+[2019.11.07-05.52.38:802][849]LogBlueprint: Warning: FMemberReference::ResolveMember (Iscrouch) bSelfContext == true, but no scope supplied!
+[2019.11.07-05.52.38:818][850]LogBlueprint: Warning: FMemberReference::ResolveMember (Iscrouch) bSelfContext == true, but no scope supplied!
+[2019.11.07-05.52.38:818][850]LogBlueprint: Warning: FMemberReference::ResolveMember (Iscrouch) bSelfContext == true, but no scope supplied!
+[2019.11.07-05.52.38:835][851]LogBlueprint: Warning: FMemberReference::ResolveMember (Iscrouch) bSelfContext == true, but no scope supplied!
+[2019.11.07-05.52.38:835][851]LogBlueprint: Warning: FMemberReference::ResolveMember (Iscrouch) bSelfContext == true, but no scope supplied!
+[2019.11.07-05.52.38:851][852]LogBlueprint: Warning: FMemberReference::ResolveMember (Iscrouch) bSelfContext == true, but no scope supplied!
+[2019.11.07-05.52.38:851][852]LogBlueprint: Warning: FMemberReference::ResolveMember (Iscrouch) bSelfContext == true, but no scope supplied!
+[2019.11.07-05.52.38:868][853]LogBlueprint: Warning: FMemberReference::ResolveMember (Iscrouch) bSelfContext == true, but no scope supplied!
+[2019.11.07-05.52.38:868][853]LogBlueprint: Warning: FMemberReference::ResolveMember (Iscrouch) bSelfContext == true, but no scope supplied!
+[2019.11.07-05.52.38:886][854]LogBlueprint: Warning: FMemberReference::ResolveMember (Iscrouch) bSelfContext == true, but no scope supplied!
+[2019.11.07-05.52.38:886][854]LogBlueprint: Warning: FMemberReference::ResolveMember (Iscrouch) bSelfContext == true, but no scope supplied!
+[2019.11.07-05.52.38:905][855]LogBlueprint: Warning: FMemberReference::ResolveMember (Iscrouch) bSelfContext == true, but no scope supplied!
+[2019.11.07-05.52.38:905][855]LogBlueprint: Warning: FMemberReference::ResolveMember (Iscrouch) bSelfContext == true, but no scope supplied!
+[2019.11.07-05.52.38:920][856]LogBlueprint: Warning: FMemberReference::ResolveMember (Iscrouch) bSelfContext == true, but no scope supplied!
+[2019.11.07-05.52.38:920][856]LogBlueprint: Warning: FMemberReference::ResolveMember (Iscrouch) bSelfContext == true, but no scope supplied!
+[2019.11.07-05.52.38:935][857]LogBlueprint: Warning: FMemberReference::ResolveMember (Iscrouch) bSelfContext == true, but no scope supplied!
+[2019.11.07-05.52.38:935][857]LogBlueprint: Warning: FMemberReference::ResolveMember (Iscrouch) bSelfContext == true, but no scope supplied!
+[2019.11.07-05.52.38:951][858]LogBlueprint: Warning: FMemberReference::ResolveMember (Iscrouch) bSelfContext == true, but no scope supplied!
+[2019.11.07-05.52.38:951][858]LogBlueprint: Warning: FMemberReference::ResolveMember (Iscrouch) bSelfContext == true, but no scope supplied!
+[2019.11.07-05.52.38:967][859]LogBlueprint: Warning: FMemberReference::ResolveMember (Iscrouch) bSelfContext == true, but no scope supplied!
+[2019.11.07-05.52.38:967][859]LogBlueprint: Warning: FMemberReference::ResolveMember (Iscrouch) bSelfContext == true, but no scope supplied!
+[2019.11.07-05.52.38:983][860]LogBlueprint: Warning: FMemberReference::ResolveMember (Iscrouch) bSelfContext == true, but no scope supplied!
+[2019.11.07-05.52.38:983][860]LogBlueprint: Warning: FMemberReference::ResolveMember (Iscrouch) bSelfContext == true, but no scope supplied!
+[2019.11.07-05.52.38:998][861]LogBlueprint: Warning: FMemberReference::ResolveMember (Iscrouch) bSelfContext == true, but no scope supplied!
+[2019.11.07-05.52.38:998][861]LogBlueprint: Warning: FMemberReference::ResolveMember (Iscrouch) bSelfContext == true, but no scope supplied!
+[2019.11.07-05.52.39:014][862]LogBlueprint: Warning: FMemberReference::ResolveMember (Iscrouch) bSelfContext == true, but no scope supplied!
+[2019.11.07-05.52.39:014][862]LogBlueprint: Warning: FMemberReference::ResolveMember (Iscrouch) bSelfContext == true, but no scope supplied!
+[2019.11.07-05.52.39:029][863]LogBlueprint: Warning: FMemberReference::ResolveMember (Iscrouch) bSelfContext == true, but no scope supplied!
+[2019.11.07-05.52.39:030][863]LogBlueprint: Warning: FMemberReference::ResolveMember (Iscrouch) bSelfContext == true, but no scope supplied!
+[2019.11.07-05.52.39:045][864]LogBlueprint: Warning: FMemberReference::ResolveMember (Iscrouch) bSelfContext == true, but no scope supplied!
+[2019.11.07-05.52.39:045][864]LogBlueprint: Warning: FMemberReference::ResolveMember (Iscrouch) bSelfContext == true, but no scope supplied!
+[2019.11.07-05.52.39:062][865]LogBlueprint: Warning: FMemberReference::ResolveMember (Iscrouch) bSelfContext == true, but no scope supplied!
+[2019.11.07-05.52.39:062][865]LogBlueprint: Warning: FMemberReference::ResolveMember (Iscrouch) bSelfContext == true, but no scope supplied!
+[2019.11.07-05.52.39:078][866]LogBlueprint: Warning: FMemberReference::ResolveMember (Iscrouch) bSelfContext == true, but no scope supplied!
+[2019.11.07-05.52.39:078][866]LogBlueprint: Warning: FMemberReference::ResolveMember (Iscrouch) bSelfContext == true, but no scope supplied!
+[2019.11.07-05.52.39:094][867]LogBlueprint: Warning: FMemberReference::ResolveMember (Iscrouch) bSelfContext == true, but no scope supplied!
+[2019.11.07-05.52.39:094][867]LogBlueprint: Warning: FMemberReference::ResolveMember (Iscrouch) bSelfContext == true, but no scope supplied!
+[2019.11.07-05.52.39:111][868]LogBlueprint: Warning: FMemberReference::ResolveMember (Iscrouch) bSelfContext == true, but no scope supplied!
+[2019.11.07-05.52.39:111][868]LogBlueprint: Warning: FMemberReference::ResolveMember (Iscrouch) bSelfContext == true, but no scope supplied!
+[2019.11.07-05.52.39:127][869]LogBlueprint: Warning: FMemberReference::ResolveMember (Iscrouch) bSelfContext == true, but no scope supplied!
+[2019.11.07-05.52.39:127][869]LogBlueprint: Warning: FMemberReference::ResolveMember (Iscrouch) bSelfContext == true, but no scope supplied!
+[2019.11.07-05.52.39:143][870]LogBlueprint: Warning: FMemberReference::ResolveMember (Iscrouch) bSelfContext == true, but no scope supplied!
+[2019.11.07-05.52.39:143][870]LogBlueprint: Warning: FMemberReference::ResolveMember (Iscrouch) bSelfContext == true, but no scope supplied!
+[2019.11.07-05.52.39:159][871]LogBlueprint: Warning: FMemberReference::ResolveMember (Iscrouch) bSelfContext == true, but no scope supplied!
+[2019.11.07-05.52.39:159][871]LogBlueprint: Warning: FMemberReference::ResolveMember (Iscrouch) bSelfContext == true, but no scope supplied!
+[2019.11.07-05.52.39:175][872]LogBlueprint: Warning: FMemberReference::ResolveMember (Iscrouch) bSelfContext == true, but no scope supplied!
+[2019.11.07-05.52.39:175][872]LogBlueprint: Warning: FMemberReference::ResolveMember (Iscrouch) bSelfContext == true, but no scope supplied!
+[2019.11.07-05.52.39:192][873]LogBlueprint: Warning: FMemberReference::ResolveMember (Iscrouch) bSelfContext == true, but no scope supplied!
+[2019.11.07-05.52.39:192][873]LogBlueprint: Warning: FMemberReference::ResolveMember (Iscrouch) bSelfContext == true, but no scope supplied!
+[2019.11.07-05.52.39:208][874]LogBlueprint: Warning: FMemberReference::ResolveMember (Iscrouch) bSelfContext == true, but no scope supplied!
+[2019.11.07-05.52.39:208][874]LogBlueprint: Warning: FMemberReference::ResolveMember (Iscrouch) bSelfContext == true, but no scope supplied!
+[2019.11.07-05.52.39:224][875]LogBlueprint: Warning: FMemberReference::ResolveMember (Iscrouch) bSelfContext == true, but no scope supplied!
+[2019.11.07-05.52.39:224][875]LogBlueprint: Warning: FMemberReference::ResolveMember (Iscrouch) bSelfContext == true, but no scope supplied!
+[2019.11.07-05.52.39:239][876]LogBlueprint: Warning: FMemberReference::ResolveMember (Iscrouch) bSelfContext == true, but no scope supplied!
+[2019.11.07-05.52.39:239][876]LogBlueprint: Warning: FMemberReference::ResolveMember (Iscrouch) bSelfContext == true, but no scope supplied!
+[2019.11.07-05.52.39:254][877]LogBlueprint: Warning: FMemberReference::ResolveMember (Iscrouch) bSelfContext == true, but no scope supplied!
+[2019.11.07-05.52.39:255][877]LogBlueprint: Warning: FMemberReference::ResolveMember (Iscrouch) bSelfContext == true, but no scope supplied!
+[2019.11.07-05.52.39:270][878]LogBlueprint: Warning: FMemberReference::ResolveMember (Iscrouch) bSelfContext == true, but no scope supplied!
+[2019.11.07-05.52.39:270][878]LogBlueprint: Warning: FMemberReference::ResolveMember (Iscrouch) bSelfContext == true, but no scope supplied!
+[2019.11.07-05.52.39:285][879]LogBlueprint: Warning: FMemberReference::ResolveMember (Iscrouch) bSelfContext == true, but no scope supplied!
+[2019.11.07-05.52.39:285][879]LogBlueprint: Warning: FMemberReference::ResolveMember (Iscrouch) bSelfContext == true, but no scope supplied!
+[2019.11.07-05.52.39:301][880]LogBlueprint: Warning: FMemberReference::ResolveMember (Iscrouch) bSelfContext == true, but no scope supplied!
+[2019.11.07-05.52.39:301][880]LogBlueprint: Warning: FMemberReference::ResolveMember (Iscrouch) bSelfContext == true, but no scope supplied!
+[2019.11.07-05.52.39:317][881]LogBlueprint: Warning: FMemberReference::ResolveMember (Iscrouch) bSelfContext == true, but no scope supplied!
+[2019.11.07-05.52.39:317][881]LogBlueprint: Warning: FMemberReference::ResolveMember (Iscrouch) bSelfContext == true, but no scope supplied!
+[2019.11.07-05.52.39:332][882]LogBlueprint: Warning: FMemberReference::ResolveMember (Iscrouch) bSelfContext == true, but no scope supplied!
+[2019.11.07-05.52.39:332][882]LogBlueprint: Warning: FMemberReference::ResolveMember (Iscrouch) bSelfContext == true, but no scope supplied!
+[2019.11.07-05.52.39:348][883]LogBlueprint: Warning: FMemberReference::ResolveMember (Iscrouch) bSelfContext == true, but no scope supplied!
+[2019.11.07-05.52.39:348][883]LogBlueprint: Warning: FMemberReference::ResolveMember (Iscrouch) bSelfContext == true, but no scope supplied!
+[2019.11.07-05.52.39:365][884]LogBlueprint: Warning: FMemberReference::ResolveMember (Iscrouch) bSelfContext == true, but no scope supplied!
+[2019.11.07-05.52.39:365][884]LogBlueprint: Warning: FMemberReference::ResolveMember (Iscrouch) bSelfContext == true, but no scope supplied!
+[2019.11.07-05.52.39:381][885]LogBlueprint: Warning: FMemberReference::ResolveMember (Iscrouch) bSelfContext == true, but no scope supplied!
+[2019.11.07-05.52.39:381][885]LogBlueprint: Warning: FMemberReference::ResolveMember (Iscrouch) bSelfContext == true, but no scope supplied!
+[2019.11.07-05.52.39:396][886]LogBlueprint: Warning: FMemberReference::ResolveMember (Iscrouch) bSelfContext == true, but no scope supplied!
+[2019.11.07-05.52.39:396][886]LogBlueprint: Warning: FMemberReference::ResolveMember (Iscrouch) bSelfContext == true, but no scope supplied!
+[2019.11.07-05.52.39:412][887]LogBlueprint: Warning: FMemberReference::ResolveMember (Iscrouch) bSelfContext == true, but no scope supplied!
+[2019.11.07-05.52.39:412][887]LogBlueprint: Warning: FMemberReference::ResolveMember (Iscrouch) bSelfContext == true, but no scope supplied!
+[2019.11.07-05.52.39:428][888]LogBlueprint: Warning: FMemberReference::ResolveMember (Iscrouch) bSelfContext == true, but no scope supplied!
+[2019.11.07-05.52.39:428][888]LogBlueprint: Warning: FMemberReference::ResolveMember (Iscrouch) bSelfContext == true, but no scope supplied!
+[2019.11.07-05.52.39:444][889]LogBlueprint: Warning: FMemberReference::ResolveMember (Iscrouch) bSelfContext == true, but no scope supplied!
+[2019.11.07-05.52.39:444][889]LogBlueprint: Warning: FMemberReference::ResolveMember (Iscrouch) bSelfContext == true, but no scope supplied!
+[2019.11.07-05.52.39:460][890]LogBlueprint: Warning: FMemberReference::ResolveMember (Iscrouch) bSelfContext == true, but no scope supplied!
+[2019.11.07-05.52.39:460][890]LogBlueprint: Warning: FMemberReference::ResolveMember (Iscrouch) bSelfContext == true, but no scope supplied!
+[2019.11.07-05.52.39:475][891]LogBlueprint: Warning: FMemberReference::ResolveMember (Iscrouch) bSelfContext == true, but no scope supplied!
+[2019.11.07-05.52.39:475][891]LogBlueprint: Warning: FMemberReference::ResolveMember (Iscrouch) bSelfContext == true, but no scope supplied!
+[2019.11.07-05.52.39:491][892]LogBlueprint: Warning: FMemberReference::ResolveMember (Iscrouch) bSelfContext == true, but no scope supplied!
+[2019.11.07-05.52.39:491][892]LogBlueprint: Warning: FMemberReference::ResolveMember (Iscrouch) bSelfContext == true, but no scope supplied!
+[2019.11.07-05.52.39:506][893]LogBlueprint: Warning: FMemberReference::ResolveMember (Iscrouch) bSelfContext == true, but no scope supplied!
+[2019.11.07-05.52.39:506][893]LogBlueprint: Warning: FMemberReference::ResolveMember (Iscrouch) bSelfContext == true, but no scope supplied!
+[2019.11.07-05.52.39:521][894]LogBlueprint: Warning: FMemberReference::ResolveMember (Iscrouch) bSelfContext == true, but no scope supplied!
+[2019.11.07-05.52.39:521][894]LogBlueprint: Warning: FMemberReference::ResolveMember (Iscrouch) bSelfContext == true, but no scope supplied!
+[2019.11.07-05.52.39:536][895]LogBlueprint: Warning: FMemberReference::ResolveMember (Iscrouch) bSelfContext == true, but no scope supplied!
+[2019.11.07-05.52.39:537][895]LogBlueprint: Warning: FMemberReference::ResolveMember (Iscrouch) bSelfContext == true, but no scope supplied!
+[2019.11.07-05.52.39:552][896]LogBlueprint: Warning: FMemberReference::ResolveMember (Iscrouch) bSelfContext == true, but no scope supplied!
+[2019.11.07-05.52.39:552][896]LogBlueprint: Warning: FMemberReference::ResolveMember (Iscrouch) bSelfContext == true, but no scope supplied!
+[2019.11.07-05.52.39:568][897]LogBlueprint: Warning: FMemberReference::ResolveMember (Iscrouch) bSelfContext == true, but no scope supplied!
+[2019.11.07-05.52.39:568][897]LogBlueprint: Warning: FMemberReference::ResolveMember (Iscrouch) bSelfContext == true, but no scope supplied!
+[2019.11.07-05.52.39:583][898]LogBlueprint: Warning: FMemberReference::ResolveMember (Iscrouch) bSelfContext == true, but no scope supplied!
+[2019.11.07-05.52.39:583][898]LogBlueprint: Warning: FMemberReference::ResolveMember (Iscrouch) bSelfContext == true, but no scope supplied!
+[2019.11.07-05.52.39:600][899]LogBlueprint: Warning: FMemberReference::ResolveMember (Iscrouch) bSelfContext == true, but no scope supplied!
+[2019.11.07-05.52.39:600][899]LogBlueprint: Warning: FMemberReference::ResolveMember (Iscrouch) bSelfContext == true, but no scope supplied!
+[2019.11.07-05.52.39:616][900]LogBlueprint: Warning: FMemberReference::ResolveMember (Iscrouch) bSelfContext == true, but no scope supplied!
+[2019.11.07-05.52.39:616][900]LogBlueprint: Warning: FMemberReference::ResolveMember (Iscrouch) bSelfContext == true, but no scope supplied!
+[2019.11.07-05.52.39:631][901]LogBlueprint: Warning: FMemberReference::ResolveMember (Iscrouch) bSelfContext == true, but no scope supplied!
+[2019.11.07-05.52.39:631][901]LogBlueprint: Warning: FMemberReference::ResolveMember (Iscrouch) bSelfContext == true, but no scope supplied!
+[2019.11.07-05.52.39:648][902]LogBlueprint: Warning: FMemberReference::ResolveMember (Iscrouch) bSelfContext == true, but no scope supplied!
+[2019.11.07-05.52.39:648][902]LogBlueprint: Warning: FMemberReference::ResolveMember (Iscrouch) bSelfContext == true, but no scope supplied!
+[2019.11.07-05.52.39:664][903]LogBlueprint: Warning: FMemberReference::ResolveMember (Iscrouch) bSelfContext == true, but no scope supplied!
+[2019.11.07-05.52.39:664][903]LogBlueprint: Warning: FMemberReference::ResolveMember (Iscrouch) bSelfContext == true, but no scope supplied!
+[2019.11.07-05.52.39:681][904]LogBlueprint: Warning: FMemberReference::ResolveMember (Iscrouch) bSelfContext == true, but no scope supplied!
+[2019.11.07-05.52.39:681][904]LogBlueprint: Warning: FMemberReference::ResolveMember (Iscrouch) bSelfContext == true, but no scope supplied!
+[2019.11.07-05.52.39:698][905]LogBlueprint: Warning: FMemberReference::ResolveMember (Iscrouch) bSelfContext == true, but no scope supplied!
+[2019.11.07-05.52.39:698][905]LogBlueprint: Warning: FMemberReference::ResolveMember (Iscrouch) bSelfContext == true, but no scope supplied!
+[2019.11.07-05.52.39:714][906]LogBlueprint: Warning: FMemberReference::ResolveMember (Iscrouch) bSelfContext == true, but no scope supplied!
+[2019.11.07-05.52.39:715][906]LogBlueprint: Warning: FMemberReference::ResolveMember (Iscrouch) bSelfContext == true, but no scope supplied!
+[2019.11.07-05.52.39:732][907]LogBlueprint: Warning: FMemberReference::ResolveMember (Iscrouch) bSelfContext == true, but no scope supplied!
+[2019.11.07-05.52.39:732][907]LogBlueprint: Warning: FMemberReference::ResolveMember (Iscrouch) bSelfContext == true, but no scope supplied!
+[2019.11.07-05.52.39:749][908]LogBlueprint: Warning: FMemberReference::ResolveMember (Iscrouch) bSelfContext == true, but no scope supplied!
+[2019.11.07-05.52.39:749][908]LogBlueprint: Warning: FMemberReference::ResolveMember (Iscrouch) bSelfContext == true, but no scope supplied!
+[2019.11.07-05.52.39:765][909]LogBlueprint: Warning: FMemberReference::ResolveMember (Iscrouch) bSelfContext == true, but no scope supplied!
+[2019.11.07-05.52.39:765][909]LogBlueprint: Warning: FMemberReference::ResolveMember (Iscrouch) bSelfContext == true, but no scope supplied!
+[2019.11.07-05.52.39:781][910]LogBlueprint: Warning: FMemberReference::ResolveMember (Iscrouch) bSelfContext == true, but no scope supplied!
+[2019.11.07-05.52.39:781][910]LogBlueprint: Warning: FMemberReference::ResolveMember (Iscrouch) bSelfContext == true, but no scope supplied!
+[2019.11.07-05.52.39:797][911]LogBlueprint: Warning: FMemberReference::ResolveMember (Iscrouch) bSelfContext == true, but no scope supplied!
+[2019.11.07-05.52.39:797][911]LogBlueprint: Warning: FMemberReference::ResolveMember (Iscrouch) bSelfContext == true, but no scope supplied!
+[2019.11.07-05.52.39:813][912]LogBlueprint: Warning: FMemberReference::ResolveMember (Iscrouch) bSelfContext == true, but no scope supplied!
+[2019.11.07-05.52.39:813][912]LogBlueprint: Warning: FMemberReference::ResolveMember (Iscrouch) bSelfContext == true, but no scope supplied!
+[2019.11.07-05.52.39:828][913]LogBlueprint: Warning: FMemberReference::ResolveMember (Iscrouch) bSelfContext == true, but no scope supplied!
+[2019.11.07-05.52.39:829][913]LogBlueprint: Warning: FMemberReference::ResolveMember (Iscrouch) bSelfContext == true, but no scope supplied!
+[2019.11.07-05.52.39:845][914]LogBlueprint: Warning: FMemberReference::ResolveMember (Iscrouch) bSelfContext == true, but no scope supplied!
+[2019.11.07-05.52.39:845][914]LogBlueprint: Warning: FMemberReference::ResolveMember (Iscrouch) bSelfContext == true, but no scope supplied!
+[2019.11.07-05.52.39:861][915]LogBlueprint: Warning: FMemberReference::ResolveMember (Iscrouch) bSelfContext == true, but no scope supplied!
+[2019.11.07-05.52.39:861][915]LogBlueprint: Warning: FMemberReference::ResolveMember (Iscrouch) bSelfContext == true, but no scope supplied!
+[2019.11.07-05.52.39:877][916]LogBlueprint: Warning: FMemberReference::ResolveMember (Iscrouch) bSelfContext == true, but no scope supplied!
+[2019.11.07-05.52.39:877][916]LogBlueprint: Warning: FMemberReference::ResolveMember (Iscrouch) bSelfContext == true, but no scope supplied!
+[2019.11.07-05.52.39:893][917]LogBlueprint: Warning: FMemberReference::ResolveMember (Iscrouch) bSelfContext == true, but no scope supplied!
+[2019.11.07-05.52.39:893][917]LogBlueprint: Warning: FMemberReference::ResolveMember (Iscrouch) bSelfContext == true, but no scope supplied!
+[2019.11.07-05.52.39:909][918]LogBlueprint: Warning: FMemberReference::ResolveMember (Iscrouch) bSelfContext == true, but no scope supplied!
+[2019.11.07-05.52.39:909][918]LogBlueprint: Warning: FMemberReference::ResolveMember (Iscrouch) bSelfContext == true, but no scope supplied!
+[2019.11.07-05.52.39:926][919]LogBlueprint: Warning: FMemberReference::ResolveMember (Iscrouch) bSelfContext == true, but no scope supplied!
+[2019.11.07-05.52.39:926][919]LogBlueprint: Warning: FMemberReference::ResolveMember (Iscrouch) bSelfContext == true, but no scope supplied!
+[2019.11.07-05.52.39:943][920]LogBlueprint: Warning: FMemberReference::ResolveMember (Iscrouch) bSelfContext == true, but no scope supplied!
+[2019.11.07-05.52.39:943][920]LogBlueprint: Warning: FMemberReference::ResolveMember (Iscrouch) bSelfContext == true, but no scope supplied!
+[2019.11.07-05.52.39:960][921]LogBlueprint: Warning: FMemberReference::ResolveMember (Iscrouch) bSelfContext == true, but no scope supplied!
+[2019.11.07-05.52.39:960][921]LogBlueprint: Warning: FMemberReference::ResolveMember (Iscrouch) bSelfContext == true, but no scope supplied!
+[2019.11.07-05.52.39:977][922]LogBlueprint: Warning: FMemberReference::ResolveMember (Iscrouch) bSelfContext == true, but no scope supplied!
+[2019.11.07-05.52.39:977][922]LogBlueprint: Warning: FMemberReference::ResolveMember (Iscrouch) bSelfContext == true, but no scope supplied!
+[2019.11.07-05.52.39:995][923]LogBlueprint: Warning: FMemberReference::ResolveMember (Iscrouch) bSelfContext == true, but no scope supplied!
+[2019.11.07-05.52.39:996][923]LogBlueprint: Warning: FMemberReference::ResolveMember (Iscrouch) bSelfContext == true, but no scope supplied!
+[2019.11.07-05.52.40:013][924]LogBlueprint: Warning: FMemberReference::ResolveMember (Iscrouch) bSelfContext == true, but no scope supplied!
+[2019.11.07-05.52.40:013][924]LogBlueprint: Warning: FMemberReference::ResolveMember (Iscrouch) bSelfContext == true, but no scope supplied!
+[2019.11.07-05.52.40:029][925]LogBlueprint: Warning: FMemberReference::ResolveMember (Iscrouch) bSelfContext == true, but no scope supplied!
+[2019.11.07-05.52.40:029][925]LogBlueprint: Warning: FMemberReference::ResolveMember (Iscrouch) bSelfContext == true, but no scope supplied!
+[2019.11.07-05.52.40:046][926]LogBlueprint: Warning: FMemberReference::ResolveMember (Iscrouch) bSelfContext == true, but no scope supplied!
+[2019.11.07-05.52.40:046][926]LogBlueprint: Warning: FMemberReference::ResolveMember (Iscrouch) bSelfContext == true, but no scope supplied!
+[2019.11.07-05.52.40:061][927]LogBlueprint: Warning: FMemberReference::ResolveMember (Iscrouch) bSelfContext == true, but no scope supplied!
+[2019.11.07-05.52.40:061][927]LogBlueprint: Warning: FMemberReference::ResolveMember (Iscrouch) bSelfContext == true, but no scope supplied!
+[2019.11.07-05.52.40:077][928]LogBlueprint: Warning: FMemberReference::ResolveMember (Iscrouch) bSelfContext == true, but no scope supplied!
+[2019.11.07-05.52.40:077][928]LogBlueprint: Warning: FMemberReference::ResolveMember (Iscrouch) bSelfContext == true, but no scope supplied!
+[2019.11.07-05.52.40:094][929]LogBlueprint: Warning: FMemberReference::ResolveMember (Iscrouch) bSelfContext == true, but no scope supplied!
+[2019.11.07-05.52.40:094][929]LogBlueprint: Warning: FMemberReference::ResolveMember (Iscrouch) bSelfContext == true, but no scope supplied!
+[2019.11.07-05.52.40:110][930]LogBlueprint: Warning: FMemberReference::ResolveMember (Iscrouch) bSelfContext == true, but no scope supplied!
+[2019.11.07-05.52.40:110][930]LogBlueprint: Warning: FMemberReference::ResolveMember (Iscrouch) bSelfContext == true, but no scope supplied!
+[2019.11.07-05.52.40:126][931]LogBlueprint: Warning: FMemberReference::ResolveMember (Iscrouch) bSelfContext == true, but no scope supplied!
+[2019.11.07-05.52.40:126][931]LogBlueprint: Warning: FMemberReference::ResolveMember (Iscrouch) bSelfContext == true, but no scope supplied!
+[2019.11.07-05.52.40:142][932]LogBlueprint: Warning: FMemberReference::ResolveMember (Iscrouch) bSelfContext == true, but no scope supplied!
+[2019.11.07-05.52.40:142][932]LogBlueprint: Warning: FMemberReference::ResolveMember (Iscrouch) bSelfContext == true, but no scope supplied!
+[2019.11.07-05.52.40:159][933]LogBlueprint: Warning: FMemberReference::ResolveMember (Iscrouch) bSelfContext == true, but no scope supplied!
+[2019.11.07-05.52.40:159][933]LogBlueprint: Warning: FMemberReference::ResolveMember (Iscrouch) bSelfContext == true, but no scope supplied!
+[2019.11.07-05.52.40:176][934]LogBlueprint: Warning: FMemberReference::ResolveMember (Iscrouch) bSelfContext == true, but no scope supplied!
+[2019.11.07-05.52.40:176][934]LogBlueprint: Warning: FMemberReference::ResolveMember (Iscrouch) bSelfContext == true, but no scope supplied!
+[2019.11.07-05.52.40:192][935]LogBlueprint: Warning: FMemberReference::ResolveMember (Iscrouch) bSelfContext == true, but no scope supplied!
+[2019.11.07-05.52.40:192][935]LogBlueprint: Warning: FMemberReference::ResolveMember (Iscrouch) bSelfContext == true, but no scope supplied!
+[2019.11.07-05.52.40:208][936]LogBlueprint: Warning: FMemberReference::ResolveMember (Iscrouch) bSelfContext == true, but no scope supplied!
+[2019.11.07-05.52.40:208][936]LogBlueprint: Warning: FMemberReference::ResolveMember (Iscrouch) bSelfContext == true, but no scope supplied!
+[2019.11.07-05.52.40:224][937]LogBlueprint: Warning: FMemberReference::ResolveMember (Iscrouch) bSelfContext == true, but no scope supplied!
+[2019.11.07-05.52.40:224][937]LogBlueprint: Warning: FMemberReference::ResolveMember (Iscrouch) bSelfContext == true, but no scope supplied!
+[2019.11.07-05.52.40:242][938]LogBlueprint: Warning: FMemberReference::ResolveMember (Iscrouch) bSelfContext == true, but no scope supplied!
+[2019.11.07-05.52.40:242][938]LogBlueprint: Warning: FMemberReference::ResolveMember (Iscrouch) bSelfContext == true, but no scope supplied!
+[2019.11.07-05.52.40:259][939]LogBlueprint: Warning: FMemberReference::ResolveMember (Iscrouch) bSelfContext == true, but no scope supplied!
+[2019.11.07-05.52.40:259][939]LogBlueprint: Warning: FMemberReference::ResolveMember (Iscrouch) bSelfContext == true, but no scope supplied!
+[2019.11.07-05.52.40:275][940]LogBlueprint: Warning: FMemberReference::ResolveMember (Iscrouch) bSelfContext == true, but no scope supplied!
+[2019.11.07-05.52.40:275][940]LogBlueprint: Warning: FMemberReference::ResolveMember (Iscrouch) bSelfContext == true, but no scope supplied!
+[2019.11.07-05.52.40:291][941]LogBlueprint: Warning: FMemberReference::ResolveMember (Iscrouch) bSelfContext == true, but no scope supplied!
+[2019.11.07-05.52.40:291][941]LogBlueprint: Warning: FMemberReference::ResolveMember (Iscrouch) bSelfContext == true, but no scope supplied!
+[2019.11.07-05.52.40:307][942]LogBlueprint: Warning: FMemberReference::ResolveMember (Iscrouch) bSelfContext == true, but no scope supplied!
+[2019.11.07-05.52.40:307][942]LogBlueprint: Warning: FMemberReference::ResolveMember (Iscrouch) bSelfContext == true, but no scope supplied!
+[2019.11.07-05.52.40:323][943]LogBlueprint: Warning: FMemberReference::ResolveMember (Iscrouch) bSelfContext == true, but no scope supplied!
+[2019.11.07-05.52.40:323][943]LogBlueprint: Warning: FMemberReference::ResolveMember (Iscrouch) bSelfContext == true, but no scope supplied!
+[2019.11.07-05.52.40:339][944]LogBlueprint: Warning: FMemberReference::ResolveMember (Iscrouch) bSelfContext == true, but no scope supplied!
+[2019.11.07-05.52.40:339][944]LogBlueprint: Warning: FMemberReference::ResolveMember (Iscrouch) bSelfContext == true, but no scope supplied!
+[2019.11.07-05.52.40:355][945]LogBlueprint: Warning: FMemberReference::ResolveMember (Iscrouch) bSelfContext == true, but no scope supplied!
+[2019.11.07-05.52.40:355][945]LogBlueprint: Warning: FMemberReference::ResolveMember (Iscrouch) bSelfContext == true, but no scope supplied!
+[2019.11.07-05.52.40:370][946]LogBlueprint: Warning: FMemberReference::ResolveMember (Iscrouch) bSelfContext == true, but no scope supplied!
+[2019.11.07-05.52.40:370][946]LogBlueprint: Warning: FMemberReference::ResolveMember (Iscrouch) bSelfContext == true, but no scope supplied!
+[2019.11.07-05.52.40:386][947]LogBlueprint: Warning: FMemberReference::ResolveMember (Iscrouch) bSelfContext == true, but no scope supplied!
+[2019.11.07-05.52.40:386][947]LogBlueprint: Warning: FMemberReference::ResolveMember (Iscrouch) bSelfContext == true, but no scope supplied!
+[2019.11.07-05.52.40:402][948]LogBlueprint: Warning: FMemberReference::ResolveMember (Iscrouch) bSelfContext == true, but no scope supplied!
+[2019.11.07-05.52.40:402][948]LogBlueprint: Warning: FMemberReference::ResolveMember (Iscrouch) bSelfContext == true, but no scope supplied!
+[2019.11.07-05.52.40:418][949]LogBlueprint: Warning: FMemberReference::ResolveMember (Iscrouch) bSelfContext == true, but no scope supplied!
+[2019.11.07-05.52.40:418][949]LogBlueprint: Warning: FMemberReference::ResolveMember (Iscrouch) bSelfContext == true, but no scope supplied!
+[2019.11.07-05.52.40:433][950]LogBlueprint: Warning: FMemberReference::ResolveMember (Iscrouch) bSelfContext == true, but no scope supplied!
+[2019.11.07-05.52.40:433][950]LogBlueprint: Warning: FMemberReference::ResolveMember (Iscrouch) bSelfContext == true, but no scope supplied!
+[2019.11.07-05.52.40:449][951]LogBlueprint: Warning: FMemberReference::ResolveMember (Iscrouch) bSelfContext == true, but no scope supplied!
+[2019.11.07-05.52.40:449][951]LogBlueprint: Warning: FMemberReference::ResolveMember (Iscrouch) bSelfContext == true, but no scope supplied!
+[2019.11.07-05.52.40:466][952]LogBlueprint: Warning: FMemberReference::ResolveMember (Iscrouch) bSelfContext == true, but no scope supplied!
+[2019.11.07-05.52.40:466][952]LogBlueprint: Warning: FMemberReference::ResolveMember (Iscrouch) bSelfContext == true, but no scope supplied!
+[2019.11.07-05.52.40:482][953]LogBlueprint: Warning: FMemberReference::ResolveMember (Iscrouch) bSelfContext == true, but no scope supplied!
+[2019.11.07-05.52.40:482][953]LogBlueprint: Warning: FMemberReference::ResolveMember (Iscrouch) bSelfContext == true, but no scope supplied!
+[2019.11.07-05.52.40:498][954]LogBlueprint: Warning: FMemberReference::ResolveMember (Iscrouch) bSelfContext == true, but no scope supplied!
+[2019.11.07-05.52.40:498][954]LogBlueprint: Warning: FMemberReference::ResolveMember (Iscrouch) bSelfContext == true, but no scope supplied!
+[2019.11.07-05.52.40:514][955]LogBlueprint: Warning: FMemberReference::ResolveMember (Iscrouch) bSelfContext == true, but no scope supplied!
+[2019.11.07-05.52.40:514][955]LogBlueprint: Warning: FMemberReference::ResolveMember (Iscrouch) bSelfContext == true, but no scope supplied!
+[2019.11.07-05.52.40:530][956]LogBlueprint: Warning: FMemberReference::ResolveMember (Iscrouch) bSelfContext == true, but no scope supplied!
+[2019.11.07-05.52.40:530][956]LogBlueprint: Warning: FMemberReference::ResolveMember (Iscrouch) bSelfContext == true, but no scope supplied!
+[2019.11.07-05.52.40:546][957]LogBlueprint: Warning: FMemberReference::ResolveMember (Iscrouch) bSelfContext == true, but no scope supplied!
+[2019.11.07-05.52.40:546][957]LogBlueprint: Warning: FMemberReference::ResolveMember (Iscrouch) bSelfContext == true, but no scope supplied!
+[2019.11.07-05.52.40:562][958]LogBlueprint: Warning: FMemberReference::ResolveMember (Iscrouch) bSelfContext == true, but no scope supplied!
+[2019.11.07-05.52.40:562][958]LogBlueprint: Warning: FMemberReference::ResolveMember (Iscrouch) bSelfContext == true, but no scope supplied!
+[2019.11.07-05.52.40:578][959]LogBlueprint: Warning: FMemberReference::ResolveMember (Iscrouch) bSelfContext == true, but no scope supplied!
+[2019.11.07-05.52.40:578][959]LogBlueprint: Warning: FMemberReference::ResolveMember (Iscrouch) bSelfContext == true, but no scope supplied!
+[2019.11.07-05.52.40:593][960]LogBlueprint: Warning: FMemberReference::ResolveMember (Iscrouch) bSelfContext == true, but no scope supplied!
+[2019.11.07-05.52.40:593][960]LogBlueprint: Warning: FMemberReference::ResolveMember (Iscrouch) bSelfContext == true, but no scope supplied!
+[2019.11.07-05.52.40:608][961]LogBlueprint: Warning: FMemberReference::ResolveMember (Iscrouch) bSelfContext == true, but no scope supplied!
+[2019.11.07-05.52.40:608][961]LogBlueprint: Warning: FMemberReference::ResolveMember (Iscrouch) bSelfContext == true, but no scope supplied!
+[2019.11.07-05.52.40:623][962]LogBlueprint: Warning: FMemberReference::ResolveMember (Iscrouch) bSelfContext == true, but no scope supplied!
+[2019.11.07-05.52.40:624][962]LogBlueprint: Warning: FMemberReference::ResolveMember (Iscrouch) bSelfContext == true, but no scope supplied!
+[2019.11.07-05.52.40:638][963]LogBlueprint: Warning: FMemberReference::ResolveMember (Iscrouch) bSelfContext == true, but no scope supplied!
+[2019.11.07-05.52.40:639][963]LogBlueprint: Warning: FMemberReference::ResolveMember (Iscrouch) bSelfContext == true, but no scope supplied!
+[2019.11.07-05.52.40:654][964]LogBlueprint: Warning: FMemberReference::ResolveMember (Iscrouch) bSelfContext == true, but no scope supplied!
+[2019.11.07-05.52.40:654][964]LogBlueprint: Warning: FMemberReference::ResolveMember (Iscrouch) bSelfContext == true, but no scope supplied!
+[2019.11.07-05.52.40:669][965]LogBlueprint: Warning: FMemberReference::ResolveMember (Iscrouch) bSelfContext == true, but no scope supplied!
+[2019.11.07-05.52.40:669][965]LogBlueprint: Warning: FMemberReference::ResolveMember (Iscrouch) bSelfContext == true, but no scope supplied!
+[2019.11.07-05.52.40:685][966]LogBlueprint: Warning: FMemberReference::ResolveMember (Iscrouch) bSelfContext == true, but no scope supplied!
+[2019.11.07-05.52.40:686][966]LogBlueprint: Warning: FMemberReference::ResolveMember (Iscrouch) bSelfContext == true, but no scope supplied!
+[2019.11.07-05.52.40:701][967]LogBlueprint: Warning: FMemberReference::ResolveMember (Iscrouch) bSelfContext == true, but no scope supplied!
+[2019.11.07-05.52.40:701][967]LogBlueprint: Warning: FMemberReference::ResolveMember (Iscrouch) bSelfContext == true, but no scope supplied!
+[2019.11.07-05.52.40:717][968]LogBlueprint: Warning: FMemberReference::ResolveMember (Iscrouch) bSelfContext == true, but no scope supplied!
+[2019.11.07-05.52.40:717][968]LogBlueprint: Warning: FMemberReference::ResolveMember (Iscrouch) bSelfContext == true, but no scope supplied!
+[2019.11.07-05.52.40:732][969]LogBlueprint: Warning: FMemberReference::ResolveMember (Iscrouch) bSelfContext == true, but no scope supplied!
+[2019.11.07-05.52.40:732][969]LogBlueprint: Warning: FMemberReference::ResolveMember (Iscrouch) bSelfContext == true, but no scope supplied!
+[2019.11.07-05.52.40:748][970]LogBlueprint: Warning: FMemberReference::ResolveMember (Iscrouch) bSelfContext == true, but no scope supplied!
+[2019.11.07-05.52.40:748][970]LogBlueprint: Warning: FMemberReference::ResolveMember (Iscrouch) bSelfContext == true, but no scope supplied!
+[2019.11.07-05.52.40:764][971]LogBlueprint: Warning: FMemberReference::ResolveMember (Iscrouch) bSelfContext == true, but no scope supplied!
+[2019.11.07-05.52.40:764][971]LogBlueprint: Warning: FMemberReference::ResolveMember (Iscrouch) bSelfContext == true, but no scope supplied!
+[2019.11.07-05.52.40:780][972]LogBlueprint: Warning: FMemberReference::ResolveMember (Iscrouch) bSelfContext == true, but no scope supplied!
+[2019.11.07-05.52.40:780][972]LogBlueprint: Warning: FMemberReference::ResolveMember (Iscrouch) bSelfContext == true, but no scope supplied!
+[2019.11.07-05.52.40:796][973]LogBlueprint: Warning: FMemberReference::ResolveMember (Iscrouch) bSelfContext == true, but no scope supplied!
+[2019.11.07-05.52.40:796][973]LogBlueprint: Warning: FMemberReference::ResolveMember (Iscrouch) bSelfContext == true, but no scope supplied!
+[2019.11.07-05.52.40:812][974]LogBlueprint: Warning: FMemberReference::ResolveMember (Iscrouch) bSelfContext == true, but no scope supplied!
+[2019.11.07-05.52.40:812][974]LogBlueprint: Warning: FMemberReference::ResolveMember (Iscrouch) bSelfContext == true, but no scope supplied!
+[2019.11.07-05.52.40:828][975]LogBlueprint: Warning: FMemberReference::ResolveMember (Iscrouch) bSelfContext == true, but no scope supplied!
+[2019.11.07-05.52.40:828][975]LogBlueprint: Warning: FMemberReference::ResolveMember (Iscrouch) bSelfContext == true, but no scope supplied!
+[2019.11.07-05.52.40:847][976]LogBlueprint: Warning: FMemberReference::ResolveMember (Iscrouch) bSelfContext == true, but no scope supplied!
+[2019.11.07-05.52.40:847][976]LogBlueprint: Warning: FMemberReference::ResolveMember (Iscrouch) bSelfContext == true, but no scope supplied!
+[2019.11.07-05.52.40:863][977]LogBlueprint: Warning: FMemberReference::ResolveMember (Iscrouch) bSelfContext == true, but no scope supplied!
+[2019.11.07-05.52.40:863][977]LogBlueprint: Warning: FMemberReference::ResolveMember (Iscrouch) bSelfContext == true, but no scope supplied!
+[2019.11.07-05.52.40:879][978]LogBlueprint: Warning: FMemberReference::ResolveMember (Iscrouch) bSelfContext == true, but no scope supplied!
+[2019.11.07-05.52.40:879][978]LogBlueprint: Warning: FMemberReference::ResolveMember (Iscrouch) bSelfContext == true, but no scope supplied!
+[2019.11.07-05.52.40:895][979]LogBlueprint: Warning: FMemberReference::ResolveMember (Iscrouch) bSelfContext == true, but no scope supplied!
+[2019.11.07-05.52.40:895][979]LogBlueprint: Warning: FMemberReference::ResolveMember (Iscrouch) bSelfContext == true, but no scope supplied!
+[2019.11.07-05.52.40:911][980]LogBlueprint: Warning: FMemberReference::ResolveMember (Iscrouch) bSelfContext == true, but no scope supplied!
+[2019.11.07-05.52.40:911][980]LogBlueprint: Warning: FMemberReference::ResolveMember (Iscrouch) bSelfContext == true, but no scope supplied!
+[2019.11.07-05.52.40:927][981]LogBlueprint: Warning: FMemberReference::ResolveMember (Iscrouch) bSelfContext == true, but no scope supplied!
+[2019.11.07-05.52.40:927][981]LogBlueprint: Warning: FMemberReference::ResolveMember (Iscrouch) bSelfContext == true, but no scope supplied!
+[2019.11.07-05.52.40:944][982]LogBlueprint: Warning: FMemberReference::ResolveMember (Iscrouch) bSelfContext == true, but no scope supplied!
+[2019.11.07-05.52.40:944][982]LogBlueprint: Warning: FMemberReference::ResolveMember (Iscrouch) bSelfContext == true, but no scope supplied!
+[2019.11.07-05.52.40:961][983]LogBlueprint: Warning: FMemberReference::ResolveMember (Iscrouch) bSelfContext == true, but no scope supplied!
+[2019.11.07-05.52.40:961][983]LogBlueprint: Warning: FMemberReference::ResolveMember (Iscrouch) bSelfContext == true, but no scope supplied!
+[2019.11.07-05.52.40:978][984]LogBlueprint: Warning: FMemberReference::ResolveMember (Iscrouch) bSelfContext == true, but no scope supplied!
+[2019.11.07-05.52.40:978][984]LogBlueprint: Warning: FMemberReference::ResolveMember (Iscrouch) bSelfContext == true, but no scope supplied!
+[2019.11.07-05.52.40:993][985]LogBlueprint: Warning: FMemberReference::ResolveMember (Iscrouch) bSelfContext == true, but no scope supplied!
+[2019.11.07-05.52.40:993][985]LogBlueprint: Warning: FMemberReference::ResolveMember (Iscrouch) bSelfContext == true, but no scope supplied!
+[2019.11.07-05.52.41:010][986]LogBlueprint: Warning: FMemberReference::ResolveMember (Iscrouch) bSelfContext == true, but no scope supplied!
+[2019.11.07-05.52.41:010][986]LogBlueprint: Warning: FMemberReference::ResolveMember (Iscrouch) bSelfContext == true, but no scope supplied!
+[2019.11.07-05.52.41:026][987]LogBlueprint: Warning: FMemberReference::ResolveMember (Iscrouch) bSelfContext == true, but no scope supplied!
+[2019.11.07-05.52.41:026][987]LogBlueprint: Warning: FMemberReference::ResolveMember (Iscrouch) bSelfContext == true, but no scope supplied!
+[2019.11.07-05.52.41:042][988]LogBlueprint: Warning: FMemberReference::ResolveMember (Iscrouch) bSelfContext == true, but no scope supplied!
+[2019.11.07-05.52.41:042][988]LogBlueprint: Warning: FMemberReference::ResolveMember (Iscrouch) bSelfContext == true, but no scope supplied!
+[2019.11.07-05.52.41:057][989]LogBlueprint: Warning: FMemberReference::ResolveMember (Iscrouch) bSelfContext == true, but no scope supplied!
+[2019.11.07-05.52.41:057][989]LogBlueprint: Warning: FMemberReference::ResolveMember (Iscrouch) bSelfContext == true, but no scope supplied!
+[2019.11.07-05.52.41:073][990]LogBlueprint: Warning: FMemberReference::ResolveMember (Iscrouch) bSelfContext == true, but no scope supplied!
+[2019.11.07-05.52.41:073][990]LogBlueprint: Warning: FMemberReference::ResolveMember (Iscrouch) bSelfContext == true, but no scope supplied!
+[2019.11.07-05.52.41:089][991]LogBlueprint: Warning: FMemberReference::ResolveMember (Iscrouch) bSelfContext == true, but no scope supplied!
+[2019.11.07-05.52.41:089][991]LogBlueprint: Warning: FMemberReference::ResolveMember (Iscrouch) bSelfContext == true, but no scope supplied!
+[2019.11.07-05.52.41:104][992]LogBlueprint: Warning: FMemberReference::ResolveMember (Iscrouch) bSelfContext == true, but no scope supplied!
+[2019.11.07-05.52.41:104][992]LogBlueprint: Warning: FMemberReference::ResolveMember (Iscrouch) bSelfContext == true, but no scope supplied!
+[2019.11.07-05.52.41:119][993]LogBlueprint: Warning: FMemberReference::ResolveMember (Iscrouch) bSelfContext == true, but no scope supplied!
+[2019.11.07-05.52.41:119][993]LogBlueprint: Warning: FMemberReference::ResolveMember (Iscrouch) bSelfContext == true, but no scope supplied!
+[2019.11.07-05.52.41:135][994]LogBlueprint: Warning: FMemberReference::ResolveMember (Iscrouch) bSelfContext == true, but no scope supplied!
+[2019.11.07-05.52.41:135][994]LogBlueprint: Warning: FMemberReference::ResolveMember (Iscrouch) bSelfContext == true, but no scope supplied!
+[2019.11.07-05.52.41:150][995]LogBlueprint: Warning: FMemberReference::ResolveMember (Iscrouch) bSelfContext == true, but no scope supplied!
+[2019.11.07-05.52.41:151][995]LogBlueprint: Warning: FMemberReference::ResolveMember (Iscrouch) bSelfContext == true, but no scope supplied!
+[2019.11.07-05.52.41:166][996]LogBlueprint: Warning: FMemberReference::ResolveMember (Iscrouch) bSelfContext == true, but no scope supplied!
+[2019.11.07-05.52.41:166][996]LogBlueprint: Warning: FMemberReference::ResolveMember (Iscrouch) bSelfContext == true, but no scope supplied!
+[2019.11.07-05.52.41:182][997]LogBlueprint: Warning: FMemberReference::ResolveMember (Iscrouch) bSelfContext == true, but no scope supplied!
+[2019.11.07-05.52.41:182][997]LogBlueprint: Warning: FMemberReference::ResolveMember (Iscrouch) bSelfContext == true, but no scope supplied!
+[2019.11.07-05.52.41:197][998]LogBlueprint: Warning: FMemberReference::ResolveMember (Iscrouch) bSelfContext == true, but no scope supplied!
+[2019.11.07-05.52.41:197][998]LogBlueprint: Warning: FMemberReference::ResolveMember (Iscrouch) bSelfContext == true, but no scope supplied!
+[2019.11.07-05.52.41:213][999]LogBlueprint: Warning: FMemberReference::ResolveMember (Iscrouch) bSelfContext == true, but no scope supplied!
+[2019.11.07-05.52.41:213][999]LogBlueprint: Warning: FMemberReference::ResolveMember (Iscrouch) bSelfContext == true, but no scope supplied!
+[2019.11.07-05.52.41:227][  0]LogBlueprint: Warning: FMemberReference::ResolveMember (Iscrouch) bSelfContext == true, but no scope supplied!
+[2019.11.07-05.52.41:227][  0]LogBlueprint: Warning: FMemberReference::ResolveMember (Iscrouch) bSelfContext == true, but no scope supplied!
+[2019.11.07-05.52.41:242][  1]LogBlueprint: Warning: FMemberReference::ResolveMember (Iscrouch) bSelfContext == true, but no scope supplied!
+[2019.11.07-05.52.41:242][  1]LogBlueprint: Warning: FMemberReference::ResolveMember (Iscrouch) bSelfContext == true, but no scope supplied!
+[2019.11.07-05.52.41:256][  2]LogBlueprint: Warning: FMemberReference::ResolveMember (Iscrouch) bSelfContext == true, but no scope supplied!
+[2019.11.07-05.52.41:256][  2]LogBlueprint: Warning: FMemberReference::ResolveMember (Iscrouch) bSelfContext == true, but no scope supplied!
+[2019.11.07-05.52.41:271][  3]LogBlueprint: Warning: FMemberReference::ResolveMember (Iscrouch) bSelfContext == true, but no scope supplied!
+[2019.11.07-05.52.41:271][  3]LogBlueprint: Warning: FMemberReference::ResolveMember (Iscrouch) bSelfContext == true, but no scope supplied!
+[2019.11.07-05.52.41:286][  4]LogBlueprint: Warning: FMemberReference::ResolveMember (Iscrouch) bSelfContext == true, but no scope supplied!
+[2019.11.07-05.52.41:286][  4]LogBlueprint: Warning: FMemberReference::ResolveMember (Iscrouch) bSelfContext == true, but no scope supplied!
+[2019.11.07-05.52.41:301][  5]LogBlueprint: Warning: FMemberReference::ResolveMember (Iscrouch) bSelfContext == true, but no scope supplied!
+[2019.11.07-05.52.41:301][  5]LogBlueprint: Warning: FMemberReference::ResolveMember (Iscrouch) bSelfContext == true, but no scope supplied!
+[2019.11.07-05.52.41:316][  6]LogBlueprint: Warning: FMemberReference::ResolveMember (Iscrouch) bSelfContext == true, but no scope supplied!
+[2019.11.07-05.52.41:316][  6]LogBlueprint: Warning: FMemberReference::ResolveMember (Iscrouch) bSelfContext == true, but no scope supplied!
+[2019.11.07-05.52.41:334][  7]LogBlueprint: Warning: FMemberReference::ResolveMember (Iscrouch) bSelfContext == true, but no scope supplied!
+[2019.11.07-05.52.41:334][  7]LogBlueprint: Warning: FMemberReference::ResolveMember (Iscrouch) bSelfContext == true, but no scope supplied!
+[2019.11.07-05.52.41:359][  7]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2019.11.07-05.52.41:359][  7]LogWindows: Windows GetLastError: The operation completed successfully. (0)

@@ -1,0 +1,1117 @@
+﻿Log file open, 10/01/19 15:53:36
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: Ai_test1
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.057047
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +5:30, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogHMD: Failed initializing OVRPlugin 1.37.0
+LogInit: Build: ++UE4+Release-4.23-CL-8386587
+LogInit: Engine Version: 4.23.0-8386587+++UE4+Release-4.23
+LogInit: Compatible Engine Version: 4.23.0-8386587+++UE4+Release-4.23
+LogInit: Net CL: 8386587
+LogInit: OS: Windows 10 (Release 1903) (), CPU: Intel(R) Core(TM) i7-7700K CPU @ 4.20GHz, GPU: NVIDIA GeForce GTX 1060 6GB
+LogInit: Compiled (64-bit): Aug 31 2019 02:04:44
+LogInit: Compiled with Visual C++: 19.16.27030.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.23
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.23/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 23
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 34
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 35
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 31
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 27
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 6
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 9
+LogInit: Presizing for max 16777216 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2019.10.01-10.23.37:517][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2019.10.01-10.23.37:517][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2019.10.01-10.23.37:517][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/5K!LL2/Documents/Unreal Projects/Ai_test1 4.23/Saved/Config/Windows/Engine.ini]
+[2019.10.01-10.23.37:517][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2019.10.01-10.23.37:517][  0]LogConfig: Setting CVar [[r.DefaultFeature.AmbientOcclusion:0]]
+[2019.10.01-10.23.37:517][  0]LogConfig: Setting CVar [[r.DefaultFeature.AmbientOcclusionStaticFraction:0]]
+[2019.10.01-10.23.37:517][  0]LogConfig: Setting CVar [[vr.InstancedStereo:1]]
+[2019.10.01-10.23.37:517][  0]LogConfig: Setting CVar [[r.SeparateTranslucency:0]]
+[2019.10.01-10.23.37:517][  0]LogConfig: Setting CVar [[r.HZBOcclusion:0]]
+[2019.10.01-10.23.37:517][  0]LogConfig: Setting CVar [[r.SSR.MaxRoughness:0]]
+[2019.10.01-10.23.37:517][  0]LogConfig: Setting CVar [[r.rhicmdbypass:0]]
+[2019.10.01-10.23.37:517][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/5K!LL2/Documents/Unreal Projects/Ai_test1 4.23/Saved/Config/Windows/Engine.ini]
+[2019.10.01-10.23.37:517][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/5K!LL2/Documents/Unreal Projects/Ai_test1 4.23/Saved/Config/Windows/Engine.ini]
+[2019.10.01-10.23.37:518][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2019.10.01-10.23.37:518][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2019.10.01-10.23.37:518][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2019.10.01-10.23.37:518][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2019.10.01-10.23.37:518][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2019.10.01-10.23.37:518][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2019.10.01-10.23.37:518][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2019.10.01-10.23.37:518][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2019.10.01-10.23.37:518][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2019.10.01-10.23.37:518][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2019.10.01-10.23.37:518][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2019.10.01-10.23.37:518][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2019.10.01-10.23.37:518][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2019.10.01-10.23.37:518][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/5K!LL2/Documents/Unreal Projects/Ai_test1 4.23/Saved/Config/Windows/Engine.ini]
+[2019.10.01-10.23.37:518][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2019.10.01-10.23.37:518][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2019.10.01-10.23.37:518][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2019.10.01-10.23.37:518][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2019.10.01-10.23.37:518][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2019.10.01-10.23.37:518][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2019.10.01-10.23.37:518][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2019.10.01-10.23.37:518][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2019.10.01-10.23.37:518][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2019.10.01-10.23.37:518][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2019.10.01-10.23.37:518][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2019.10.01-10.23.37:518][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2019.10.01-10.23.37:518][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2019.10.01-10.23.37:518][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/5K!LL2/Documents/Unreal Projects/Ai_test1 4.23/Saved/Config/Windows/Engine.ini]
+[2019.10.01-10.23.37:518][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/5K!LL2/Documents/Unreal Projects/Ai_test1 4.23/Saved/Config/Windows/Engine.ini]
+[2019.10.01-10.23.37:522][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/5K!LL2/Documents/Unreal Projects/Ai_test1 4.23/Saved/Config/Windows/Scalability.ini]
+[2019.10.01-10.23.37:522][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.10.01-10.23.37:522][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.10.01-10.23.37:522][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/5K!LL2/Documents/Unreal Projects/Ai_test1 4.23/Saved/Config/Windows/Scalability.ini]
+[2019.10.01-10.23.37:522][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:3]]
+[2019.10.01-10.23.37:522][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/5K!LL2/Documents/Unreal Projects/Ai_test1 4.23/Saved/Config/Windows/Scalability.ini]
+[2019.10.01-10.23.37:522][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.10.01-10.23.37:522][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.10.01-10.23.37:522][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.10.01-10.23.37:522][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.10.01-10.23.37:522][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.10.01-10.23.37:522][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.10.01-10.23.37:522][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.10.01-10.23.37:522][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.10.01-10.23.37:522][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.10.01-10.23.37:522][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.10.01-10.23.37:522][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.10.01-10.23.37:522][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.10.01-10.23.37:522][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.10.01-10.23.37:522][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.10.01-10.23.37:522][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.10.01-10.23.37:522][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.10.01-10.23.37:522][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.10.01-10.23.37:522][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.10.01-10.23.37:522][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/5K!LL2/Documents/Unreal Projects/Ai_test1 4.23/Saved/Config/Windows/Scalability.ini]
+[2019.10.01-10.23.37:522][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:0]]
+[2019.10.01-10.23.37:522][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.10.01-10.23.37:522][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.10.01-10.23.37:522][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:0]]
+[2019.10.01-10.23.37:522][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.10.01-10.23.37:522][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:0]]
+[2019.10.01-10.23.37:522][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.10.01-10.23.37:522][  0]LogConfig: Setting CVar [[r.LensFlareQuality:0]]
+[2019.10.01-10.23.37:522][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:0]]
+[2019.10.01-10.23.37:522][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.10.01-10.23.37:522][  0]LogConfig: Setting CVar [[r.BloomQuality:1]]
+[2019.10.01-10.23.37:522][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:0]]
+[2019.10.01-10.23.37:522][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.10.01-10.23.37:522][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.10.01-10.23.37:522][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.10.01-10.23.37:522][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.10.01-10.23.37:522][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.10.01-10.23.37:522][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.10.01-10.23.37:522][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.10.01-10.23.37:522][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.10.01-10.23.37:522][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.10.01-10.23.37:522][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.10.01-10.23.37:522][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.10.01-10.23.37:522][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.10.01-10.23.37:522][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.10.01-10.23.37:522][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.10.01-10.23.37:522][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.10.01-10.23.37:522][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.10.01-10.23.37:522][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.10.01-10.23.37:522][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.10.01-10.23.37:522][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/5K!LL2/Documents/Unreal Projects/Ai_test1 4.23/Saved/Config/Windows/Scalability.ini]
+[2019.10.01-10.23.37:522][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.10.01-10.23.37:522][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.10.01-10.23.37:522][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.10.01-10.23.37:522][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.10.01-10.23.37:522][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.10.01-10.23.37:522][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.10.01-10.23.37:522][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.10.01-10.23.37:522][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.10.01-10.23.37:522][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/5K!LL2/Documents/Unreal Projects/Ai_test1 4.23/Saved/Config/Windows/Scalability.ini]
+[2019.10.01-10.23.37:522][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:4]]
+[2019.10.01-10.23.37:522][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.10.01-10.23.37:522][  0]LogConfig: Setting CVar [[r.SSR.Quality:0]]
+[2019.10.01-10.23.37:522][  0]LogConfig: Setting CVar [[r.SceneColorFormat:2]]
+[2019.10.01-10.23.37:522][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.10.01-10.23.37:522][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:0]]
+[2019.10.01-10.23.37:522][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.10.01-10.23.37:522][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.10.01-10.23.37:522][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.10.01-10.23.37:522][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.10.01-10.23.37:522][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.10.01-10.23.37:522][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.10.01-10.23.37:522][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.10.01-10.23.37:522][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/5K!LL2/Documents/Unreal Projects/Ai_test1 4.23/Saved/Config/Windows/Scalability.ini]
+[2019.10.01-10.23.37:522][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.10.01-10.23.37:522][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.10.01-10.23.37:523][  0]LogInit: Selected Device Profile: [Windows]
+[2019.10.01-10.23.37:523][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.10.01-10.23.37:525][  0]LogHAL: Display: Platform has ~ 16 GB [17114382336 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.10.01-10.23.37:525][  0]LogInit: Going up to parent DeviceProfile []
+[2019.10.01-10.23.37:525][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/5K!LL2/Documents/Unreal Projects/Ai_test1 4.23/Saved/Config/Windows/Scalability.ini]
+[2019.10.01-10.23.37:525][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.10.01-10.23.37:525][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.10.01-10.23.37:525][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/5K!LL2/Documents/Unreal Projects/Ai_test1 4.23/Saved/Config/Windows/Scalability.ini]
+[2019.10.01-10.23.37:525][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:3]]
+[2019.10.01-10.23.37:525][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/5K!LL2/Documents/Unreal Projects/Ai_test1 4.23/Saved/Config/Windows/Scalability.ini]
+[2019.10.01-10.23.37:525][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.10.01-10.23.37:525][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.10.01-10.23.37:525][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.10.01-10.23.37:525][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.10.01-10.23.37:525][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.10.01-10.23.37:525][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.10.01-10.23.37:525][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.10.01-10.23.37:525][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.10.01-10.23.37:525][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.10.01-10.23.37:525][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.10.01-10.23.37:525][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.10.01-10.23.37:525][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.10.01-10.23.37:525][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.10.01-10.23.37:525][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.10.01-10.23.37:525][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.10.01-10.23.37:525][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.10.01-10.23.37:525][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.10.01-10.23.37:525][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.10.01-10.23.37:525][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/5K!LL2/Documents/Unreal Projects/Ai_test1 4.23/Saved/Config/Windows/Scalability.ini]
+[2019.10.01-10.23.37:525][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:0]]
+[2019.10.01-10.23.37:525][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.10.01-10.23.37:525][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.10.01-10.23.37:525][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:0]]
+[2019.10.01-10.23.37:525][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.10.01-10.23.37:525][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:0]]
+[2019.10.01-10.23.37:525][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.10.01-10.23.37:525][  0]LogConfig: Setting CVar [[r.LensFlareQuality:0]]
+[2019.10.01-10.23.37:525][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:0]]
+[2019.10.01-10.23.37:526][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.10.01-10.23.37:526][  0]LogConfig: Setting CVar [[r.BloomQuality:1]]
+[2019.10.01-10.23.37:526][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:0]]
+[2019.10.01-10.23.37:526][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.10.01-10.23.37:526][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.10.01-10.23.37:526][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.10.01-10.23.37:526][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.10.01-10.23.37:526][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.10.01-10.23.37:526][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.10.01-10.23.37:526][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.10.01-10.23.37:526][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.10.01-10.23.37:526][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.10.01-10.23.37:526][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.10.01-10.23.37:526][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.10.01-10.23.37:526][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.10.01-10.23.37:526][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.10.01-10.23.37:526][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.10.01-10.23.37:526][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.10.01-10.23.37:526][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.10.01-10.23.37:526][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.10.01-10.23.37:526][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.10.01-10.23.37:526][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/5K!LL2/Documents/Unreal Projects/Ai_test1 4.23/Saved/Config/Windows/Scalability.ini]
+[2019.10.01-10.23.37:526][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.10.01-10.23.37:526][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.10.01-10.23.37:526][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.10.01-10.23.37:526][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.10.01-10.23.37:526][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.10.01-10.23.37:526][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.10.01-10.23.37:526][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.10.01-10.23.37:526][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.10.01-10.23.37:526][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/5K!LL2/Documents/Unreal Projects/Ai_test1 4.23/Saved/Config/Windows/Scalability.ini]
+[2019.10.01-10.23.37:526][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:4]]
+[2019.10.01-10.23.37:526][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.10.01-10.23.37:526][  0]LogConfig: Setting CVar [[r.SSR.Quality:0]]
+[2019.10.01-10.23.37:526][  0]LogConfig: Setting CVar [[r.SceneColorFormat:2]]
+[2019.10.01-10.23.37:526][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.10.01-10.23.37:526][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:0]]
+[2019.10.01-10.23.37:526][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.10.01-10.23.37:526][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.10.01-10.23.37:526][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.10.01-10.23.37:526][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.10.01-10.23.37:526][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.10.01-10.23.37:526][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.10.01-10.23.37:526][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.10.01-10.23.37:526][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/5K!LL2/Documents/Unreal Projects/Ai_test1 4.23/Saved/Config/Windows/Scalability.ini]
+[2019.10.01-10.23.37:526][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.10.01-10.23.37:526][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.10.01-10.23.37:526][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2019.10.01-10.23.37:526][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2019.10.01-10.23.37:526][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2019.10.01-10.23.37:526][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/5K!LL2/Documents/Unreal Projects/Ai_test1 4.23/Saved/Config/Windows/Engine.ini]
+[2019.10.01-10.23.37:526][  0]LogInit: Computer: DESKTOP-LC882U3
+[2019.10.01-10.23.37:526][  0]LogInit: User: 5KLL2
+[2019.10.01-10.23.37:526][  0]LogInit: CPU Page size=4096, Cores=4
+[2019.10.01-10.23.37:526][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2019.10.01-10.23.37:526][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2019.10.01-10.23.37:526][  0]LogMemory: Platform Memory Stats for Windows
+[2019.10.01-10.23.37:526][  0]LogMemory: Process Physical Memory: 105.02 MB used, 105.02 MB peak
+[2019.10.01-10.23.37:526][  0]LogMemory: Process Virtual Memory: 92.83 MB used, 92.83 MB peak
+[2019.10.01-10.23.37:526][  0]LogMemory: Physical Memory: 7531.92 MB used,  8789.63 MB free, 16321.55 MB total
+[2019.10.01-10.23.37:526][  0]LogMemory: Virtual Memory: 4681.07 MB used,  134213048.00 MB free, 134217728.00 MB total
+[2019.10.01-10.23.37:529][  0]LogWindows: WindowsPlatformFeatures enabled
+[2019.10.01-10.23.37:545][  0]LogInit: Using OS detected language (en-US).
+[2019.10.01-10.23.37:545][  0]LogInit: Using OS detected locale (en-IN).
+[2019.10.01-10.23.37:546][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2019.10.01-10.23.37:715][  0]LogInit: Setting process to per monitor DPI aware
+[2019.10.01-10.23.37:744][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.10.01-10.23.37:745][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.10.01-10.23.37:889][  0]LogHMD: Failed to initialize OpenVR with code 126
+[2019.10.01-10.23.37:889][  0]LogD3D11RHI: D3D11 adapters:
+[2019.10.01-10.23.37:946][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1060 6GB' (Feature Level 11_0)
+[2019.10.01-10.23.37:947][  0]LogD3D11RHI:       6052/0/8160 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2019.10.01-10.23.37:949][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.10.01-10.23.37:949][  0]LogD3D11RHI:       0/0/8160 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.10.01-10.23.37:949][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.10.01-10.23.37:958][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.10.01-10.23.37:958][  0]LogD3D11RHI:     GPU DeviceId: 0x1c03 (for the marketing name, search the web for "GPU Device Id")
+[2019.10.01-10.23.37:958][  0]LogWindows: EnumDisplayDevices:
+[2019.10.01-10.23.37:958][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1060 6GB' (P:1 D:1)
+[2019.10.01-10.23.37:958][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1060 6GB' (P:0 D:1)
+[2019.10.01-10.23.37:958][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1060 6GB' (P:0 D:0)
+[2019.10.01-10.23.37:959][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1060 6GB' (P:0 D:0)
+[2019.10.01-10.23.37:959][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2019.10.01-10.23.37:959][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1060 6GB
+[2019.10.01-10.23.37:959][  0]LogD3D11RHI:   Driver Version: 436.30 (internal:26.21.14.3630, unified:436.30)
+[2019.10.01-10.23.37:959][  0]LogD3D11RHI:      Driver Date: 9-5-2019
+[2019.10.01-10.23.37:959][  0]LogRHI: Texture pool is 4236 MB (70% of 6052 MB)
+[2019.10.01-10.23.37:994][  0]LogD3D11RHI: Async texture creation enabled
+[2019.10.01-10.23.38:064][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2019.10.01-10.23.38:445][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2019.10.01-10.23.38:452][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2019.10.01-10.23.38:458][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2019.10.01-10.23.38:465][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2019.10.01-10.23.38:471][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2019.10.01-10.23.38:478][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2019.10.01-10.23.38:484][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2019.10.01-10.23.38:492][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2019.10.01-10.23.38:495][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2019.10.01-10.23.38:522][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2019.10.01-10.23.38:522][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2019.10.01-10.23.38:522][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2019.10.01-10.23.38:522][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2019.10.01-10.23.38:522][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2019.10.01-10.23.38:522][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2019.10.01-10.23.38:522][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2019.10.01-10.23.38:522][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2019.10.01-10.23.38:522][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2019.10.01-10.23.38:522][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2019.10.01-10.23.38:522][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2019.10.01-10.23.38:522][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2019.10.01-10.23.38:522][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2019.10.01-10.23.38:522][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2019.10.01-10.23.38:522][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2019.10.01-10.23.38:522][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2019.10.01-10.23.38:522][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2019.10.01-10.23.38:522][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2019.10.01-10.23.38:523][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2019.10.01-10.23.38:537][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2019.10.01-10.23.38:537][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2019.10.01-10.23.38:548][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2019.10.01-10.23.38:548][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2019.10.01-10.23.38:553][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2019.10.01-10.23.38:559][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2019.10.01-10.23.38:565][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2019.10.01-10.23.38:572][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2019.10.01-10.23.38:591][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2019.10.01-10.23.38:592][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2019.10.01-10.23.38:592][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.10.01-10.23.38:597][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2019.10.01-10.23.38:635][  0]LogShaderCompilers: Guid format shader working directory is -24 characters bigger than the processId version (../../../../../../Users/5K!LL2/Documents/Unreal Projects/Ai_test1 4.23/Intermediate/Shaders/WorkingDirectory/17636/).
+[2019.10.01-10.23.38:635][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/5K!LL2/AppData/Local/Temp/UnrealShaderWorkingDir/B369957E44FE7B5DBB941683AC425AF0/'.
+[2019.10.01-10.23.38:637][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.10.01-10.23.38:637][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.10.01-10.23.38:637][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.10.01-10.23.39:150][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.10.01-10.23.39:471][  0]LogDerivedDataCache: Loaded boot cache 0.32s 93MB C:/Users/5K!LL2/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc.
+[2019.10.01-10.23.39:471][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/5K!LL2/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc
+[2019.10.01-10.23.39:471][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/5K!LL2/Documents/Unreal Projects/Ai_test1 4.23/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.10.01-10.23.39:471][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.10.01-10.23.39:471][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/5K!LL2/Documents/Unreal Projects/Ai_test1 4.23/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.10.01-10.23.39:471][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.10.01-10.23.39:480][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.10.01-10.23.39:481][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.10.01-10.23.39:481][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2019.10.01-10.23.39:481][  0]LogDerivedDataCache: Using Local data cache path C:/Users/5K!LL2/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.10.01-10.23.39:481][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.10.01-10.23.39:481][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.10.01-10.23.39:498][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.10.01-10.23.39:501][  0]LogSlate: Using FreeType 2.6.0
+[2019.10.01-10.23.39:529][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.10.01-10.23.41:199][  0]LogAssetRegistry: FAssetRegistry took 0.0020 seconds to start up
+[2019.10.01-10.23.41:423][  0]LogInit: Selected Device Profile: [Windows]
+[2019.10.01-10.23.41:790][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.10.01-10.23.41:790][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2019.10.01-10.23.41:790][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.10.01-10.23.41:790][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2019.10.01-10.23.41:790][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2019.10.01-10.23.41:797][  0]LogNetVersion: Ai_test1 1.0.0, NetCL: 8386587, EngineNetVer: 11, GameNetVer: 0 (Checksum: 3006622118)
+[2019.10.01-10.23.42:186][  0]LogPackageLocalizationCache: Processed 12 localized package path(s) for 1 prioritized culture(s) in 0.071767 seconds
+[2019.10.01-10.23.42:192][  0]LogUObjectArray: 43444 objects as part of root set at end of initial load.
+[2019.10.01-10.23.42:192][  0]LogUObjectAllocator: 7548648 out of 0 bytes used by permanent object pool.
+[2019.10.01-10.23.42:192][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.10.01-10.24.04:508][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.10.01-10.24.04:511][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.10.01-10.24.04:584][  0]SourceControl: Source control is disabled
+[2019.10.01-10.24.04:584][  0]SourceControl: Source control is disabled
+[2019.10.01-10.24.04:585][  0]SourceControl: Source control is disabled
+[2019.10.01-10.24.04:586][  0]SourceControl: Source control is disabled
+[2019.10.01-10.24.04:874][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.10.01-10.24.05:162][  0]LogOcInput: OculusInput pre-init called
+[2019.10.01-10.24.07:191][  0]LogEngine: Initializing Engine...
+[2019.10.01-10.24.07:216][  0]LogHMD: Failed to initialize OpenVR with code 126
+[2019.10.01-10.24.07:217][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2019.10.01-10.24.07:440][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.10.01-10.24.07:488][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.10.01-10.24.07:518][  0]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.10.01-10.24.07:541][  0]LogInit: FAudioDevice initialized.
+[2019.10.01-10.24.07:541][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.10.01-10.24.07:723][  0]LogDerivedDataCache: Saved boot cache 0.18s 93MB C:/Users/5K!LL2/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc.
+[2019.10.01-10.24.07:735][  0]LogInit: Texture streaming: Enabled
+[2019.10.01-10.24.07:778][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.10.01-10.24.07:827][  0]LogInit: Transaction tracking system initialized
+[2019.10.01-10.24.07:853][  0]BlueprintLog: New page: Editor Load
+[2019.10.01-10.24.07:921][  0]LocalizationService: Localization service is disabled
+[2019.10.01-10.24.08:561][  0]LogFileCache: Scanning file cache for directory 'C:/Users/5K!LL2/Documents/Unreal Projects/Ai_test1 4.23/Content/' took 0.01s
+[2019.10.01-10.24.08:561][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.10.01-10.24.08:561][  0]LogCook: Display: Mobile HDR setting 1
+[2019.10.01-10.24.08:941][  0]SourceControl: Source control is disabled
+[2019.10.01-10.24.08:941][  0]Cmd: MAP LOAD FILE="../../../../../../Users/5K!LL2/Documents/Unreal Projects/Ai_test1 4.23/Content/VirtualRealityBP/Maps/StartupMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.10.01-10.24.09:019][  0]LightingResults: New page: Lighting Build
+[2019.10.01-10.24.09:021][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2019.10.01-10.24.09:021][  0]MapCheck: New page: Map Check
+[2019.10.01-10.24.09:021][  0]LightingResults: New page: Lighting Build
+[2019.10.01-10.24.09:043][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2019.10.01-10.24.09:973][  0]LogAIModule: Creating AISystem for world StartupMap
+[2019.10.01-10.24.09:978][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.10.01-10.24.10:006][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2019.10.01-10.24.10:006][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.10.01-10.24.10:006][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.202ms to complete.
+[2019.10.01-10.24.10:006][  0]LogFileHelpers: Loading map 'StartupMap' took 1.064
+[2019.10.01-10.24.10:176][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.01-10.24.10:181][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.01-10.24.10:189][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.01-10.24.10:196][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.01-10.24.10:201][  0]LogCollectionManager: Loaded 0 collections in 0.001101 seconds
+[2019.10.01-10.24.10:204][  0]LogFileCache: Scanning file cache for directory 'C:/Users/5K!LL2/Documents/Unreal Projects/Ai_test1 4.23/Saved/Collections/' took 0.00s
+[2019.10.01-10.24.10:204][  0]LogFileCache: Scanning file cache for directory 'C:/Users/5K!LL2/Documents/Unreal Projects/Ai_test1 4.23/Content/Developers/5KLL2/Collections/' took 0.00s
+[2019.10.01-10.24.10:204][  0]LogFileCache: Scanning file cache for directory 'C:/Users/5K!LL2/Documents/Unreal Projects/Ai_test1 4.23/Content/Collections/' took 0.00s
+[2019.10.01-10.24.10:205][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2019.10.01-10.24.10:212][  0]LogContentBrowser: Native class hierarchy populated in 0.0071 seconds. Added 2870 classes and 682 folders.
+[2019.10.01-10.24.10:216][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.10.01-10.24.10:254][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.10.01-10.24.10:259][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2019.10.01-10.24.10:324][  0]LogSlate: Took 0.000168 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.10.01-10.24.10:328][  0]LogSlate: Took 0.000226 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.10.01-10.24.10:379][  0]LogSlate: Took 0.048566 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.10.01-10.24.10:444][  0]LogRenderer: Reallocating scene render targets to support 1076x528 Format 26 NumSamples 1 (Frame:1).
+[2019.10.01-10.24.10:567][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.10.01-10.24.10:568][  0]LogLoad: (Engine Initialization) Total time: 34.65 seconds
+[2019.10.01-10.24.10:568][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.10.01-10.24.10:634][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.10.01-10.24.10:651][  0]LogSlate: Took 0.000120 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.10.01-10.24.11:946][ 23]LogAssetRegistry: Asset discovery search completed in 30.7477 seconds
+[2019.10.01-10.24.11:949][ 23]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000003 seconds (found 0 objects)
+[2019.10.01-10.24.11:949][ 23]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000042 seconds (updated 0 objects)
+[2019.10.01-10.24.28:540][779]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.01-10.25.14:456][444]LogSlate: Took 0.000118 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.10.01-10.25.17:801][444]LogBlueprint: Warning: [Compiler ThirdPersonCharacter] InputAction Event references unknown Action 'Attack' for  InputAction Attack
+[2019.10.01-10.25.17:801][444]LogBlueprint: Warning: [Compiler ThirdPersonCharacter] InputAction Event references unknown Action 'ResetVR' for  InputAction ResetVR
+[2019.10.01-10.25.17:801][444]LogBlueprint: Warning: [Compiler ThirdPersonCharacter] Input Axis Event references unknown Axis 'LookUpRate' for  InputAxis LookUpRate
+[2019.10.01-10.25.17:801][444]LogBlueprint: Warning: [Compiler ThirdPersonCharacter] Input Axis Event references unknown Axis 'TurnRate' for  InputAxis TurnRate
+[2019.10.01-10.25.17:802][444]LogBlueprint: Warning: [Compiler ThirdPersonCharacter] InputAction Event references unknown Action 'Jump' for  InputAction Jump
+[2019.10.01-10.25.17:802][444]LogBlueprint: Warning: [Compiler ThirdPersonCharacter] Input Axis Event references unknown Axis 'LookUp' for  InputAxis LookUp
+[2019.10.01-10.25.17:802][444]LogBlueprint: Warning: [Compiler ThirdPersonCharacter] Input Axis Event references unknown Axis 'Turn' for  InputAxis Turn
+[2019.10.01-10.25.17:802][444]LogBlueprint: Warning: [Compiler ThirdPersonCharacter] Input Axis Event references unknown Axis 'MoveRight' for  InputAxis MoveRight
+[2019.10.01-10.25.17:802][444]LogBlueprint: Warning: [Compiler ThirdPersonCharacter] Input Axis Event references unknown Axis 'MoveForward' for  InputAxis MoveForward
+[2019.10.01-10.25.20:368][444]LogAIModule: Creating AISystem for world MotionControllerMap
+[2019.10.01-10.25.20:949][444]LogAssetEditorManager: Opening Asset editor for World /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap
+[2019.10.01-10.25.21:032][444]LogUObjectHash: Compacting FUObjectHashTables data took   1.95ms
+[2019.10.01-10.25.21:078][444]Cmd: MAP LOAD FILE="../../../../../../Users/5K!LL2/Documents/Unreal Projects/Ai_test1 4.23/Content/VirtualRealityBP/Maps/MotionControllerMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.10.01-10.25.21:078][444]LightingResults: New page: Lighting Build
+[2019.10.01-10.25.21:078][444]LoadErrors: New page: Loading map: MotionControllerMap.umap
+[2019.10.01-10.25.21:079][444]LogWorld: UWorld::CleanupWorld for StartupMap, bSessionEnded=true, bCleanupResources=true
+[2019.10.01-10.25.21:114][444]MapCheck: New page: Map Check
+[2019.10.01-10.25.21:114][444]LightingResults: New page: Lighting Build
+[2019.10.01-10.25.21:133][444]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2019.10.01-10.25.21:485][444]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.10.01-10.25.21:555][444]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2019.10.01-10.25.21:572][444]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.10.01-10.25.21:572][444]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.108ms to complete.
+[2019.10.01-10.25.21:572][444]LogFileHelpers: Loading map 'MotionControllerMap' took 0.533
+[2019.10.01-10.25.42:542][810]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.01-10.26.21:478][106]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.01-10.26.21:811][106]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/AI/enemy1.enemy1
+[2019.10.01-10.26.22:029][106]LogEnum: Warning: Enum name collision: 'Chase_States::NewEnumerator0' is in both '/Game/test/AI/Enum_Change_STatus/Chase_States.Chase_States' and '/Game/AI/Enum_Change_STatus/Chase_States.Chase_States'
+[2019.10.01-10.26.22:029][106]LogEnum: Warning: Enum name collision: 'Chase_States::NewEnumerator1' is in both '/Game/test/AI/Enum_Change_STatus/Chase_States.Chase_States' and '/Game/AI/Enum_Change_STatus/Chase_States.Chase_States'
+[2019.10.01-10.26.22:029][106]LogEnum: Warning: Enum name collision: 'Chase_States::NewEnumerator2' is in both '/Game/test/AI/Enum_Change_STatus/Chase_States.Chase_States' and '/Game/AI/Enum_Change_STatus/Chase_States.Chase_States'
+[2019.10.01-10.26.22:029][106]LogEnum: Warning: Enum name collision: 'Chase_States::Chase_MAX' is in both '/Game/test/AI/Enum_Change_STatus/Chase_States.Chase_States' and '/Game/AI/Enum_Change_STatus/Chase_States.Chase_States'
+[2019.10.01-10.26.22:029][106]LogEnum: Warning: Enum name collision: 'Chase_States::NewEnumerator0' is in both '/Game/test/AI/Enum_Change_STatus/Chase_States.Chase_States' and '/Game/AI/Enum_Change_STatus/Chase_States.Chase_States'
+[2019.10.01-10.26.22:029][106]LogEnum: Warning: Enum name collision: 'Chase_States::NewEnumerator1' is in both '/Game/test/AI/Enum_Change_STatus/Chase_States.Chase_States' and '/Game/AI/Enum_Change_STatus/Chase_States.Chase_States'
+[2019.10.01-10.26.22:029][106]LogEnum: Warning: Enum name collision: 'Chase_States::NewEnumerator2' is in both '/Game/test/AI/Enum_Change_STatus/Chase_States.Chase_States' and '/Game/AI/Enum_Change_STatus/Chase_States.Chase_States'
+[2019.10.01-10.26.22:036][106]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0004 seconds. Added 121 classes and 0 folders.
+[2019.10.01-10.26.22:842][106]LogSlate: Took 0.012058 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.10.01-10.26.23:188][107]LogSlate: Took 0.015434 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.10.01-10.26.34:989][110]LogSlate: Window 'enemy1' being destroyed
+[2019.10.01-10.26.34:998][110]LogSlate: Window 'enemy1' being destroyed
+[2019.10.01-10.26.35:006][110]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2019.10.01-10.26.38:022][119]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/AI/enemy1.enemy1
+[2019.10.01-10.26.42:027][365]LogSlate: Window 'enemy1' being destroyed
+[2019.10.01-10.26.42:034][365]LogSlate: Window 'enemy1' being destroyed
+[2019.10.01-10.26.42:034][365]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2019.10.01-10.27.03:452][691]LogUObjectHash: Compacting FUObjectHashTables data took   2.64ms
+[2019.10.01-10.27.03:480][691]LogMetaData: Removing '/Game/AI/enemy1_AI.enemy1_AI_C' ref from Metadata '/Game/AI/Ai1.PackageMetaData'
+[2019.10.01-10.27.03:480][691]LogMetaData: Removing '/Game/AI/enemy1_AI.SKEL_enemy1_AI_C' ref from Metadata '/Game/AI/Ai1.PackageMetaData'
+[2019.10.01-10.27.03:685][691]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/enemy1_AI" FILE="../../../../../../Users/5K!LL2/Documents/Unreal Projects/Ai_test1 4.23/Content/AI/enemy1_AI.uasset" SILENT=true
+[2019.10.01-10.27.03:833][691]LogSavePackage: Moving '../../../../../../Users/5K!LL2/Documents/Unreal Projects/Ai_test1 4.23/Saved/enemy1_AI5BFC2358413A8AE050041E943724A437.tmp' to '../../../../../../Users/5K!LL2/Documents/Unreal Projects/Ai_test1 4.23/Content/AI/enemy1_AI.uasset'
+[2019.10.01-10.27.04:236][691]LogUObjectHash: Compacting FUObjectHashTables data took   2.90ms
+[2019.10.01-10.27.04:265][691]LogUObjectHash: Compacting FUObjectHashTables data took   1.98ms
+[2019.10.01-10.27.04:287][691]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2019.10.01-10.27.04:386][691]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/enemy1" FILE="../../../../../../Users/5K!LL2/Documents/Unreal Projects/Ai_test1 4.23/Content/AI/enemy1.uasset" SILENT=true
+[2019.10.01-10.27.04:480][691]LogSavePackage: Moving '../../../../../../Users/5K!LL2/Documents/Unreal Projects/Ai_test1 4.23/Saved/enemy14243D970410B11419182F887ED9B80E3.tmp' to '../../../../../../Users/5K!LL2/Documents/Unreal Projects/Ai_test1 4.23/Content/AI/enemy1.uasset'
+[2019.10.01-10.27.08:862][129]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/AI/enemy1.enemy1
+[2019.10.01-10.27.12:953][370]BlueprintLog: New page: Compile enemy1
+[2019.10.01-10.27.13:157][370]LogUObjectHash: Compacting FUObjectHashTables data took   2.61ms
+[2019.10.01-10.27.14:693][481]LogSlate: Window 'enemy1' being destroyed
+[2019.10.01-10.27.14:701][481]LogSlate: Window 'enemy1' being destroyed
+[2019.10.01-10.27.14:717][481]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2019.10.01-10.27.16:747][667]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/AI/enemy1_AI.enemy1_AI
+[2019.10.01-10.27.27:475][748]LogSlate: Window 'enemy1_AI' being destroyed
+[2019.10.01-10.27.27:482][748]LogSlate: Window 'enemy1_AI' being destroyed
+[2019.10.01-10.27.27:547][748]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2019.10.01-10.28.07:759][109]LogMetaData: Removing '/Game/AI/enemy1/enemy1.enemy1:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/AI/enemy1.PackageMetaData'
+[2019.10.01-10.28.07:759][109]LogMetaData: Removing '/Game/AI/enemy1/enemy1.enemy1_C' ref from Metadata '/Game/AI/enemy1.PackageMetaData'
+[2019.10.01-10.28.07:759][109]LogMetaData: Removing '/Game/AI/enemy1/enemy1.enemy1:EventGraph.K2Node_Event_1' ref from Metadata '/Game/AI/enemy1.PackageMetaData'
+[2019.10.01-10.28.07:759][109]LogMetaData: Removing '/Game/AI/enemy1/enemy1.enemy1:GotoLocation.K2Node_FunctionEntry_0' ref from Metadata '/Game/AI/enemy1.PackageMetaData'
+[2019.10.01-10.28.07:759][109]LogMetaData: Removing '/Game/AI/enemy1/enemy1.enemy1:Random.K2Node_FunctionEntry_0' ref from Metadata '/Game/AI/enemy1.PackageMetaData'
+[2019.10.01-10.28.07:759][109]LogMetaData: Removing '/Game/AI/enemy1/enemy1.enemy1:Random.K2Node_FunctionResult_0' ref from Metadata '/Game/AI/enemy1.PackageMetaData'
+[2019.10.01-10.28.07:759][109]LogMetaData: Removing '/Game/AI/enemy1/enemy1.enemy1:ran1.K2Node_FunctionEntry_0' ref from Metadata '/Game/AI/enemy1.PackageMetaData'
+[2019.10.01-10.28.07:759][109]LogMetaData: Removing '/Game/AI/enemy1/enemy1.enemy1:ran1.K2Node_FunctionResult_0' ref from Metadata '/Game/AI/enemy1.PackageMetaData'
+[2019.10.01-10.28.07:759][109]LogMetaData: Removing '/Game/AI/enemy1/enemy1.enemy1_C:ran1' ref from Metadata '/Game/AI/enemy1.PackageMetaData'
+[2019.10.01-10.28.07:759][109]LogMetaData: Removing '/Game/AI/enemy1/enemy1.enemy1_C:ReceiveTick' ref from Metadata '/Game/AI/enemy1.PackageMetaData'
+[2019.10.01-10.28.07:759][109]LogMetaData: Removing '/Game/AI/enemy1/enemy1.enemy1_C:Arrow1' ref from Metadata '/Game/AI/enemy1.PackageMetaData'
+[2019.10.01-10.28.07:759][109]LogMetaData: Removing '/Game/AI/enemy1/enemy1.enemy1_C:Gravity' ref from Metadata '/Game/AI/enemy1.PackageMetaData'
+[2019.10.01-10.28.07:759][109]LogMetaData: Removing '/Game/AI/enemy1/enemy1.enemy1_C:Velocity' ref from Metadata '/Game/AI/enemy1.PackageMetaData'
+[2019.10.01-10.28.07:759][109]LogMetaData: Removing '/Game/AI/enemy1/enemy1.enemy1_C:NewVar_0' ref from Metadata '/Game/AI/enemy1.PackageMetaData'
+[2019.10.01-10.28.07:759][109]LogMetaData: Removing '/Game/AI/enemy1/enemy1.enemy1_C:Player' ref from Metadata '/Game/AI/enemy1.PackageMetaData'
+[2019.10.01-10.28.07:759][109]LogMetaData: Removing '/Game/AI/enemy1/enemy1.enemy1_C:MAkeRange' ref from Metadata '/Game/AI/enemy1.PackageMetaData'
+[2019.10.01-10.28.07:759][109]LogMetaData: Removing '/Game/AI/enemy1/enemy1.enemy1_C:NewVar_1' ref from Metadata '/Game/AI/enemy1.PackageMetaData'
+[2019.10.01-10.28.07:759][109]LogMetaData: Removing '/Game/AI/enemy1/enemy1.enemy1_C:MAkeRange_0' ref from Metadata '/Game/AI/enemy1.PackageMetaData'
+[2019.10.01-10.28.07:759][109]LogMetaData: Removing '/Game/AI/enemy1/enemy1.SKEL_enemy1_C:ran1' ref from Metadata '/Game/AI/enemy1.PackageMetaData'
+[2019.10.01-10.28.07:759][109]LogMetaData: Removing '/Game/AI/enemy1/enemy1.SKEL_enemy1_C:UserConstructionScript' ref from Metadata '/Game/AI/enemy1.PackageMetaData'
+[2019.10.01-10.28.07:759][109]LogMetaData: Removing '/Game/AI/enemy1/enemy1.SKEL_enemy1_C:Arrow1' ref from Metadata '/Game/AI/enemy1.PackageMetaData'
+[2019.10.01-10.28.07:759][109]LogMetaData: Removing '/Game/AI/enemy1/enemy1.SKEL_enemy1_C:Gravity' ref from Metadata '/Game/AI/enemy1.PackageMetaData'
+[2019.10.01-10.28.07:759][109]LogMetaData: Removing '/Game/AI/enemy1/enemy1.SKEL_enemy1_C:Velocity' ref from Metadata '/Game/AI/enemy1.PackageMetaData'
+[2019.10.01-10.28.07:759][109]LogMetaData: Removing '/Game/AI/enemy1/enemy1.SKEL_enemy1_C:NewVar_0' ref from Metadata '/Game/AI/enemy1.PackageMetaData'
+[2019.10.01-10.28.07:759][109]LogMetaData: Removing '/Game/AI/enemy1/enemy1.SKEL_enemy1_C:Player' ref from Metadata '/Game/AI/enemy1.PackageMetaData'
+[2019.10.01-10.28.07:759][109]LogMetaData: Removing '/Game/AI/enemy1/enemy1.SKEL_enemy1_C:MAkeRange' ref from Metadata '/Game/AI/enemy1.PackageMetaData'
+[2019.10.01-10.28.07:759][109]LogMetaData: Removing '/Game/AI/enemy1/enemy1.SKEL_enemy1_C:NewVar_1' ref from Metadata '/Game/AI/enemy1.PackageMetaData'
+[2019.10.01-10.28.07:759][109]LogMetaData: Removing '/Game/AI/enemy1/enemy1.SKEL_enemy1_C:MAkeRange_0' ref from Metadata '/Game/AI/enemy1.PackageMetaData'
+[2019.10.01-10.28.07:759][109]LogMetaData: Removing '/Game/AI/enemy1/enemy1.SKEL_enemy1_C:ReceiveTick' ref from Metadata '/Game/AI/enemy1.PackageMetaData'
+[2019.10.01-10.28.07:759][109]LogMetaData: Removing '/Game/AI/enemy1/enemy1.SKEL_enemy1_C:ReceiveActorBeginOverlap' ref from Metadata '/Game/AI/enemy1.PackageMetaData'
+[2019.10.01-10.28.07:759][109]LogMetaData: Removing '/Game/AI/enemy1/enemy1.SKEL_enemy1_C' ref from Metadata '/Game/AI/enemy1.PackageMetaData'
+[2019.10.01-10.28.07:797][109]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/enemy1/enemy1" FILE="../../../../../../Users/5K!LL2/Documents/Unreal Projects/Ai_test1 4.23/Content/AI/enemy1/enemy1.uasset" SILENT=true
+[2019.10.01-10.28.07:848][109]LogSavePackage: Moving '../../../../../../Users/5K!LL2/Documents/Unreal Projects/Ai_test1 4.23/Saved/enemy10D195CD94A8ECCA701D920B83065DBCD.tmp' to '../../../../../../Users/5K!LL2/Documents/Unreal Projects/Ai_test1 4.23/Content/AI/enemy1/enemy1.uasset'
+[2019.10.01-10.28.07:853][109]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/enemy1" FILE="../../../../../../Users/5K!LL2/Documents/Unreal Projects/Ai_test1 4.23/Content/AI/enemy1.uasset" SILENT=true
+[2019.10.01-10.28.07:876][109]LogSavePackage: Moving '../../../../../../Users/5K!LL2/Documents/Unreal Projects/Ai_test1 4.23/Saved/enemy1F78D9FF8457208F0CCEF46879A3982A5.tmp' to '../../../../../../Users/5K!LL2/Documents/Unreal Projects/Ai_test1 4.23/Content/AI/enemy1.uasset'
+[2019.10.01-10.28.11:497][491]LogMetaData: Removing '/Game/AI/enemy1/enemy1_AI.enemy1_AI_C' ref from Metadata '/Game/AI/enemy1_AI.PackageMetaData'
+[2019.10.01-10.28.11:497][491]LogMetaData: Removing '/Game/AI/enemy1/enemy1_AI.SKEL_enemy1_AI_C' ref from Metadata '/Game/AI/enemy1_AI.PackageMetaData'
+[2019.10.01-10.28.11:497][491]LogMetaData: Removing '/Game/AI/enemy1/enemy1_AI.SKEL_enemy1_AI_C:ReceiveBeginPlay' ref from Metadata '/Game/AI/enemy1_AI.PackageMetaData'
+[2019.10.01-10.28.11:497][491]LogMetaData: Removing '/Game/AI/enemy1/enemy1_AI.SKEL_enemy1_AI_C:BndEvt__AIPerception_K2Node_ComponentBoundEvent_0_ActorPerceptionUpdatedDelegate__DelegateSignature' ref from Metadata '/Game/AI/enemy1_AI.PackageMetaData'
+[2019.10.01-10.28.11:497][491]LogMetaData: Removing '/Game/AI/enemy1/enemy1_AI.SKEL_enemy1_AI_C:ReceiveTick' ref from Metadata '/Game/AI/enemy1_AI.PackageMetaData'
+[2019.10.01-10.28.11:497][491]LogMetaData: Removing '/Game/AI/enemy1/enemy1_AI.SKEL_enemy1_AI_C:MAkeRange_0' ref from Metadata '/Game/AI/enemy1_AI.PackageMetaData'
+[2019.10.01-10.28.11:497][491]LogMetaData: Removing '/Game/AI/enemy1/enemy1_AI.SKEL_enemy1_AI_C:MAkeRange' ref from Metadata '/Game/AI/enemy1_AI.PackageMetaData'
+[2019.10.01-10.28.11:497][491]LogMetaData: Removing '/Game/AI/enemy1/enemy1_AI.SKEL_enemy1_AI_C:CharacterB' ref from Metadata '/Game/AI/enemy1_AI.PackageMetaData'
+[2019.10.01-10.28.11:497][491]LogMetaData: Removing '/Game/AI/enemy1/enemy1_AI.SKEL_enemy1_AI_C:AIPerception' ref from Metadata '/Game/AI/enemy1_AI.PackageMetaData'
+[2019.10.01-10.28.11:497][491]LogMetaData: Removing '/Game/AI/enemy1/enemy1_AI.SKEL_enemy1_AI_C:UserConstructionScript' ref from Metadata '/Game/AI/enemy1_AI.PackageMetaData'
+[2019.10.01-10.28.11:497][491]LogMetaData: Removing '/Game/AI/enemy1/enemy1_AI.SKEL_enemy1_AI_C:UserConstructionScript.NewLocalVar_0' ref from Metadata '/Game/AI/enemy1_AI.PackageMetaData'
+[2019.10.01-10.28.11:497][491]LogMetaData: Removing '/Game/AI/enemy1/enemy1_AI.SKEL_enemy1_AI_C:ran1' ref from Metadata '/Game/AI/enemy1_AI.PackageMetaData'
+[2019.10.01-10.28.11:497][491]LogMetaData: Removing '/Game/AI/enemy1/enemy1_AI.enemy1_AI_C:MAkeRange_0' ref from Metadata '/Game/AI/enemy1_AI.PackageMetaData'
+[2019.10.01-10.28.11:497][491]LogMetaData: Removing '/Game/AI/enemy1/enemy1_AI.enemy1_AI_C:MAkeRange' ref from Metadata '/Game/AI/enemy1_AI.PackageMetaData'
+[2019.10.01-10.28.11:497][491]LogMetaData: Removing '/Game/AI/enemy1/enemy1_AI.enemy1_AI_C:CharacterB' ref from Metadata '/Game/AI/enemy1_AI.PackageMetaData'
+[2019.10.01-10.28.11:497][491]LogMetaData: Removing '/Game/AI/enemy1/enemy1_AI.enemy1_AI_C:AIPerception' ref from Metadata '/Game/AI/enemy1_AI.PackageMetaData'
+[2019.10.01-10.28.11:497][491]LogMetaData: Removing '/Game/AI/enemy1/enemy1_AI.enemy1_AI_C:ReceiveTick' ref from Metadata '/Game/AI/enemy1_AI.PackageMetaData'
+[2019.10.01-10.28.11:497][491]LogMetaData: Removing '/Game/AI/enemy1/enemy1_AI.enemy1_AI_C:ReceiveBeginPlay' ref from Metadata '/Game/AI/enemy1_AI.PackageMetaData'
+[2019.10.01-10.28.11:497][491]LogMetaData: Removing '/Game/AI/enemy1/enemy1_AI.enemy1_AI_C:UserConstructionScript' ref from Metadata '/Game/AI/enemy1_AI.PackageMetaData'
+[2019.10.01-10.28.11:497][491]LogMetaData: Removing '/Game/AI/enemy1/enemy1_AI.enemy1_AI_C:ran1' ref from Metadata '/Game/AI/enemy1_AI.PackageMetaData'
+[2019.10.01-10.28.11:497][491]LogMetaData: Removing '/Game/AI/enemy1/enemy1_AI.enemy1_AI_C:UserConstructionScript.NewLocalVar_0' ref from Metadata '/Game/AI/enemy1_AI.PackageMetaData'
+[2019.10.01-10.28.11:527][491]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/enemy1/enemy1_AI" FILE="../../../../../../Users/5K!LL2/Documents/Unreal Projects/Ai_test1 4.23/Content/AI/enemy1/enemy1_AI.uasset" SILENT=true
+[2019.10.01-10.28.11:551][491]LogSavePackage: Moving '../../../../../../Users/5K!LL2/Documents/Unreal Projects/Ai_test1 4.23/Saved/enemy1_AI765E57FB4B35A5561C2648AE2496905F.tmp' to '../../../../../../Users/5K!LL2/Documents/Unreal Projects/Ai_test1 4.23/Content/AI/enemy1/enemy1_AI.uasset'
+[2019.10.01-10.28.11:717][491]LogUObjectHash: Compacting FUObjectHashTables data took   2.76ms
+[2019.10.01-10.28.11:748][491]LogUObjectHash: Compacting FUObjectHashTables data took   2.18ms
+[2019.10.01-10.28.11:769][491]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2019.10.01-10.28.11:797][491]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/enemy1/enemy1" FILE="../../../../../../Users/5K!LL2/Documents/Unreal Projects/Ai_test1 4.23/Content/AI/enemy1/enemy1.uasset" SILENT=true
+[2019.10.01-10.28.11:840][491]LogSavePackage: Moving '../../../../../../Users/5K!LL2/Documents/Unreal Projects/Ai_test1 4.23/Saved/enemy17ED855C34E439C967B3E29B6A4FC8265.tmp' to '../../../../../../Users/5K!LL2/Documents/Unreal Projects/Ai_test1 4.23/Content/AI/enemy1/enemy1.uasset'
+[2019.10.01-10.29.04:961][405]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2019.10.01-10.29.04:976][405]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.10.01-10.29.04:977][405]LogPlayLevel: [PlayLevel] Compiling enemy1 before play...
+[2019.10.01-10.29.05:111][405]LogPlayLevel: [PlayLevel] Compiling Change_speed_Npc before play...
+[2019.10.01-10.29.05:256][405]LogUObjectHash: Compacting FUObjectHashTables data took   2.95ms
+[2019.10.01-10.29.05:256][405]LogPlayLevel: PlayLevel: Blueprint regeneration took 279 ms (2 blueprints)
+[2019.10.01-10.29.05:299][405]PIE: New page: PIE session: MotionControllerMap (01-Oct-2019 9:29:05 pm)
+[2019.10.01-10.29.05:327][405]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2019.10.01-10.29.05:381][405]LogPlayLevel: Creating play world package: /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap
+[2019.10.01-10.29.05:417][405]LogPlayLevel: PIE: StaticDuplicateObject took: (0.034910s)
+[2019.10.01-10.29.05:438][405]LogAIModule: Creating AISystem for world MotionControllerMap
+[2019.10.01-10.29.05:454][405]LogPlayLevel: PIE: World Init took: (0.037133s)
+[2019.10.01-10.29.05:454][405]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap to /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap (0.072664s)
+[2019.10.01-10.29.05:477][405]LogUObjectHash: Compacting FUObjectHashTables data took   1.97ms
+[2019.10.01-10.29.05:556][405]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.10.01-10.29.05:570][405]LogInit: FAudioDevice initialized.
+[2019.10.01-10.29.05:688][405]LogUObjectGlobals: Warning: Failed to find object 'Class None.'
+[2019.10.01-10.29.05:688][405]LogLoad: Game class is 'GameModeBase'
+[2019.10.01-10.29.05:865][405]LogWorld: Bringing World /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap up for play (max tick rate 0) at 2019.10.01-15.59.05
+[2019.10.01-10.29.06:094][405]LogWorld: Bringing up level for play took: 0.250146
+[2019.10.01-10.29.06:148][405]LogOnline: OSS: Creating online subsystem instance for: :Context_11
+[2019.10.01-10.29.06:315][405]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 20 classes and 0 folders.
+[2019.10.01-10.29.06:426][405]PIE: Play in editor start time for /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap 1.373
+[2019.10.01-10.29.06:426][405]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2019.10.01-10.29.10:128][764]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2019.10.01-10.29.10:129][764]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.01-10.29.10:138][764]LogWorld: BeginTearingDown for /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap
+[2019.10.01-10.29.10:139][764]LogWorld: UWorld::CleanupWorld for MotionControllerMap, bSessionEnded=true, bCleanupResources=true
+[2019.10.01-10.29.10:149][764]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.01-10.29.10:149][764]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2019.10.01-10.29.10:180][764]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.01-10.29.10:270][764]LogUObjectHash: Compacting FUObjectHashTables data took   3.26ms
+[2019.10.01-10.29.10:287][765]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2019.10.01-10.29.21:881][808]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.01-10.29.22:097][829]LogAssetEditorManager: Opening Asset editor for BehaviorTree /Game/AI/BT2.BT2
+[2019.10.01-10.29.28:620][459]LogAssetEditorManager: Opening Asset editor for BehaviorTree /Game/AI/BT.BT
+[2019.10.01-10.29.56:757][355]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/AI/Meleattack/projectileattack.projectileattack
+[2019.10.01-10.30.02:305][791]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/AI/enemy1/enemy1.enemy1
+[2019.10.01-10.30.33:575][552]BlueprintLog: New page: Compile enemy1
+[2019.10.01-10.30.33:792][552]LogUObjectHash: Compacting FUObjectHashTables data took   3.34ms
+[2019.10.01-10.30.47:789][785]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/BT" FILE="../../../../../../Users/5K!LL2/Documents/Unreal Projects/Ai_test1 4.23/Content/AI/BT.uasset" SILENT=true
+[2019.10.01-10.30.47:813][785]LogSavePackage: Moving '../../../../../../Users/5K!LL2/Documents/Unreal Projects/Ai_test1 4.23/Saved/BT6D9DF3444426E17FF04993BC4A37E006.tmp' to '../../../../../../Users/5K!LL2/Documents/Unreal Projects/Ai_test1 4.23/Content/AI/BT.uasset'
+[2019.10.01-10.30.50:819][105]LogSlate: Window 'enemy1' being destroyed
+[2019.10.01-10.30.50:827][105]LogSlate: Window 'enemy1' being destroyed
+[2019.10.01-10.30.50:879][105]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2019.10.01-10.30.50:907][105]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2019.10.01-10.30.55:657][627]LogAssetEditorManager: Opening Asset editor for BehaviorTree /Game/AI/BT.BT
+[2019.10.01-10.30.59:228][902]LogMetaData: Removing '/Game/AI/enemy1/BT.BT:Behavior Tree.BehaviorTreeGraphNode_Root_0' ref from Metadata '/Game/AI/BT.PackageMetaData'
+[2019.10.01-10.30.59:257][902]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/enemy1/BT" FILE="../../../../../../Users/5K!LL2/Documents/Unreal Projects/Ai_test1 4.23/Content/AI/enemy1/BT.uasset" SILENT=true
+[2019.10.01-10.30.59:280][902]LogSavePackage: Moving '../../../../../../Users/5K!LL2/Documents/Unreal Projects/Ai_test1 4.23/Saved/BTA83238484A15F5BC80767E808CBF9401.tmp' to '../../../../../../Users/5K!LL2/Documents/Unreal Projects/Ai_test1 4.23/Content/AI/enemy1/BT.uasset'
+[2019.10.01-10.30.59:500][902]LogUObjectHash: Compacting FUObjectHashTables data took   3.05ms
+[2019.10.01-10.30.59:530][902]LogUObjectHash: Compacting FUObjectHashTables data took   2.04ms
+[2019.10.01-10.30.59:552][902]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2019.10.01-10.30.59:572][902]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/enemy1/enemy1_AI" FILE="../../../../../../Users/5K!LL2/Documents/Unreal Projects/Ai_test1 4.23/Content/AI/enemy1/enemy1_AI.uasset" SILENT=true
+[2019.10.01-10.30.59:597][902]LogSavePackage: Moving '../../../../../../Users/5K!LL2/Documents/Unreal Projects/Ai_test1 4.23/Saved/enemy1_AI74301AC341F76557094B0083847F2853.tmp' to '../../../../../../Users/5K!LL2/Documents/Unreal Projects/Ai_test1 4.23/Content/AI/enemy1/enemy1_AI.uasset'
+[2019.10.01-10.31.35:274][ 23]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/AI/Meleattack/IsPlayerInRAnge.IsPlayerInRAnge
+[2019.10.01-10.31.54:022][984]LogMetaData: Removing '/Game/AI/enemy1/looping_the_enemy/Change_speed_Npc.Change_speed_Npc_C' ref from Metadata '/Game/AI/looping_the_enemy/Change_speed_Npc.PackageMetaData'
+[2019.10.01-10.31.54:022][984]LogMetaData: Removing '/Game/AI/enemy1/looping_the_enemy/Change_speed_Npc.Change_speed_Npc_C:speed' ref from Metadata '/Game/AI/looping_the_enemy/Change_speed_Npc.PackageMetaData'
+[2019.10.01-10.31.54:022][984]LogMetaData: Removing '/Game/AI/enemy1/looping_the_enemy/Change_speed_Npc.SKEL_Change_speed_Npc_C' ref from Metadata '/Game/AI/looping_the_enemy/Change_speed_Npc.PackageMetaData'
+[2019.10.01-10.31.54:022][984]LogMetaData: Removing '/Game/AI/enemy1/looping_the_enemy/Change_speed_Npc.Change_speed_Npc_C:ReceiveActivationAI' ref from Metadata '/Game/AI/looping_the_enemy/Change_speed_Npc.PackageMetaData'
+[2019.10.01-10.31.54:022][984]LogMetaData: Removing '/Game/AI/enemy1/looping_the_enemy/Change_speed_Npc.SKEL_Change_speed_Npc_C:ReceiveActivationAI' ref from Metadata '/Game/AI/looping_the_enemy/Change_speed_Npc.PackageMetaData'
+[2019.10.01-10.31.54:022][984]LogMetaData: Removing '/Game/AI/enemy1/looping_the_enemy/Change_speed_Npc.SKEL_Change_speed_Npc_C:speed' ref from Metadata '/Game/AI/looping_the_enemy/Change_speed_Npc.PackageMetaData'
+[2019.10.01-10.31.54:031][984]LogMetaData: Removing '/Game/AI/enemy1/looping_the_enemy/PetrolPoints.PetrolPoints_C' ref from Metadata '/Game/AI/looping_the_enemy/PetrolPoints.PackageMetaData'
+[2019.10.01-10.31.54:031][984]LogMetaData: Removing '/Game/AI/enemy1/looping_the_enemy/PetrolPoints.PetrolPoints:EventGraph.K2Node_Event_0' ref from Metadata '/Game/AI/looping_the_enemy/PetrolPoints.PackageMetaData'
+[2019.10.01-10.31.54:031][984]LogMetaData: Removing '/Game/AI/enemy1/looping_the_enemy/PetrolPoints.PetrolPoints:EventGraph.K2Node_Event_1' ref from Metadata '/Game/AI/looping_the_enemy/PetrolPoints.PackageMetaData'
+[2019.10.01-10.31.54:031][984]LogMetaData: Removing '/Game/AI/enemy1/looping_the_enemy/PetrolPoints.PetrolPoints:EventGraph.K2Node_Event_2' ref from Metadata '/Game/AI/looping_the_enemy/PetrolPoints.PackageMetaData'
+[2019.10.01-10.31.54:031][984]LogMetaData: Removing '/Game/AI/enemy1/looping_the_enemy/PetrolPoints.PetrolPoints:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/AI/looping_the_enemy/PetrolPoints.PackageMetaData'
+[2019.10.01-10.31.54:031][984]LogMetaData: Removing '/Game/AI/enemy1/looping_the_enemy/PetrolPoints.SKEL_PetrolPoints_C:ReceiveBeginPlay' ref from Metadata '/Game/AI/looping_the_enemy/PetrolPoints.PackageMetaData'
+[2019.10.01-10.31.54:031][984]LogMetaData: Removing '/Game/AI/enemy1/looping_the_enemy/PetrolPoints.SKEL_PetrolPoints_C:ReceiveActorBeginOverlap' ref from Metadata '/Game/AI/looping_the_enemy/PetrolPoints.PackageMetaData'
+[2019.10.01-10.31.54:031][984]LogMetaData: Removing '/Game/AI/enemy1/looping_the_enemy/PetrolPoints.SKEL_PetrolPoints_C:ReceiveTick' ref from Metadata '/Game/AI/looping_the_enemy/PetrolPoints.PackageMetaData'
+[2019.10.01-10.31.54:031][984]LogMetaData: Removing '/Game/AI/enemy1/looping_the_enemy/PetrolPoints.SKEL_PetrolPoints_C:wait' ref from Metadata '/Game/AI/looping_the_enemy/PetrolPoints.PackageMetaData'
+[2019.10.01-10.31.54:031][984]LogMetaData: Removing '/Game/AI/enemy1/looping_the_enemy/PetrolPoints.SKEL_PetrolPoints_C:IsLooping' ref from Metadata '/Game/AI/looping_the_enemy/PetrolPoints.PackageMetaData'
+[2019.10.01-10.31.54:031][984]LogMetaData: Removing '/Game/AI/enemy1/looping_the_enemy/PetrolPoints.SKEL_PetrolPoints_C:Points' ref from Metadata '/Game/AI/looping_the_enemy/PetrolPoints.PackageMetaData'
+[2019.10.01-10.31.54:031][984]LogMetaData: Removing '/Game/AI/enemy1/looping_the_enemy/PetrolPoints.SKEL_PetrolPoints_C:DefaultSceneRoot' ref from Metadata '/Game/AI/looping_the_enemy/PetrolPoints.PackageMetaData'
+[2019.10.01-10.31.54:031][984]LogMetaData: Removing '/Game/AI/enemy1/looping_the_enemy/PetrolPoints.SKEL_PetrolPoints_C:UserConstructionScript' ref from Metadata '/Game/AI/looping_the_enemy/PetrolPoints.PackageMetaData'
+[2019.10.01-10.31.54:031][984]LogMetaData: Removing '/Game/AI/enemy1/looping_the_enemy/PetrolPoints.SKEL_PetrolPoints_C' ref from Metadata '/Game/AI/looping_the_enemy/PetrolPoints.PackageMetaData'
+[2019.10.01-10.31.54:031][984]LogMetaData: Removing '/Game/AI/enemy1/looping_the_enemy/PetrolPoints.PetrolPoints_C:wait' ref from Metadata '/Game/AI/looping_the_enemy/PetrolPoints.PackageMetaData'
+[2019.10.01-10.31.54:031][984]LogMetaData: Removing '/Game/AI/enemy1/looping_the_enemy/PetrolPoints.PetrolPoints_C:IsLooping' ref from Metadata '/Game/AI/looping_the_enemy/PetrolPoints.PackageMetaData'
+[2019.10.01-10.31.54:031][984]LogMetaData: Removing '/Game/AI/enemy1/looping_the_enemy/PetrolPoints.PetrolPoints_C:Points' ref from Metadata '/Game/AI/looping_the_enemy/PetrolPoints.PackageMetaData'
+[2019.10.01-10.31.54:031][984]LogMetaData: Removing '/Game/AI/enemy1/looping_the_enemy/PetrolPoints.PetrolPoints_C:DefaultSceneRoot' ref from Metadata '/Game/AI/looping_the_enemy/PetrolPoints.PackageMetaData'
+[2019.10.01-10.31.54:077][984]LogSavePackage: Moving '../../../../../../Users/5K!LL2/Documents/Unreal Projects/Ai_test1 4.23/Saved/Change_speed_Npc4362AA214E9F7A05D3A79BB64298431F.tmp' to '../../../../../../Users/5K!LL2/Documents/Unreal Projects/Ai_test1 4.23/Content/AI/enemy1/looping_the_enemy/Change_speed_Npc.uasset'
+[2019.10.01-10.31.54:092][984]LogSavePackage: Moving '../../../../../../Users/5K!LL2/Documents/Unreal Projects/Ai_test1 4.23/Saved/PetrolPoints5593CE804A24DF04057FFF97BF799178.tmp' to '../../../../../../Users/5K!LL2/Documents/Unreal Projects/Ai_test1 4.23/Content/AI/enemy1/looping_the_enemy/PetrolPoints.uasset'
+[2019.10.01-10.31.54:107][984]LogSavePackage: Moving '../../../../../../Users/5K!LL2/Documents/Unreal Projects/Ai_test1 4.23/Saved/PetrolPoints4ACFA3C9439A30F6C82F60A508EF20F7.tmp' to '../../../../../../Users/5K!LL2/Documents/Unreal Projects/Ai_test1 4.23/Content/AI/looping_the_enemy/PetrolPoints.uasset'
+[2019.10.01-10.31.54:266][984]LogUObjectHash: Compacting FUObjectHashTables data took   2.33ms
+[2019.10.01-10.31.54:297][984]LogUObjectHash: Compacting FUObjectHashTables data took   1.89ms
+[2019.10.01-10.31.54:319][984]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2019.10.01-10.31.54:338][984]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/enemy1/BT" FILE="../../../../../../Users/5K!LL2/Documents/Unreal Projects/Ai_test1 4.23/Content/AI/enemy1/BT.uasset" SILENT=true
+[2019.10.01-10.31.54:357][984]LogSavePackage: Moving '../../../../../../Users/5K!LL2/Documents/Unreal Projects/Ai_test1 4.23/Saved/BTCD7957C04FD49A1F04FD06A66F6505E5.tmp' to '../../../../../../Users/5K!LL2/Documents/Unreal Projects/Ai_test1 4.23/Content/AI/enemy1/BT.uasset'
+[2019.10.01-10.31.54:399][984]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/AI/enemy1/looping_the_enemy/Change_speed_Npc.
+[2019.10.01-10.31.54:402][984]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/AI/enemy1/looping_the_enemy/PetrolPoints.
+[2019.10.01-10.32.14:319][122]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/AI/enemy1/looping_the_enemy/Change_speed_Npc.Change_speed_Npc
+[2019.10.01-10.32.44:702][377]BlueprintLog: New page: Compile Change_speed_Npc
+[2019.10.01-10.32.44:850][377]LogUObjectHash: Compacting FUObjectHashTables data took   3.02ms
+[2019.10.01-10.32.45:440][446]BlueprintLog: New page: Compile Change_speed_Npc
+[2019.10.01-10.32.45:597][446]LogUObjectHash: Compacting FUObjectHashTables data took   3.15ms
+[2019.10.01-10.32.45:603][446]BlueprintLog: New page: Compile Change_speed_Npc
+[2019.10.01-10.32.45:754][446]LogUObjectHash: Compacting FUObjectHashTables data took   2.81ms
+[2019.10.01-10.32.45:759][446]BlueprintLog: New page: Compile Change_speed_Npc
+[2019.10.01-10.32.45:908][446]LogUObjectHash: Compacting FUObjectHashTables data took   2.97ms
+[2019.10.01-10.32.57:464][522]LogUObjectHash: Compacting FUObjectHashTables data took   2.48ms
+[2019.10.01-10.33.00:973][522]LogSlate: Window 'Delete Assets' being destroyed
+[2019.10.01-10.33.06:478][  2]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/AI/Fly_Bee.Fly_Bee
+[2019.10.01-10.33.09:440][226]LogSlate: Window 'Fly_Bee' being destroyed
+[2019.10.01-10.33.09:446][226]LogSlate: Window 'Fly_Bee' being destroyed
+[2019.10.01-10.33.09:470][226]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2019.10.01-10.33.09:500][226]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2019.10.01-10.33.09:531][226]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2019.10.01-10.33.13:857][665]LogUObjectHash: Compacting FUObjectHashTables data took   2.49ms
+[2019.10.01-10.33.15:376][665]LogSlate: Window 'Delete Assets' being destroyed
+[2019.10.01-10.33.15:410][665]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/AI/Fly_Bee.Fly_Bee
+[2019.10.01-10.33.17:392][665]LogUObjectHash: Compacting FUObjectHashTables data took   2.16ms
+[2019.10.01-10.33.17:565][665]LogUObjectHash: Compacting FUObjectHashTables data took   1.85ms
+[2019.10.01-10.33.17:588][665]LogUObjectHash: Compacting FUObjectHashTables data took   1.92ms
+[2019.10.01-10.33.17:610][665]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2019.10.01-10.33.19:688][891]LogUObjectHash: Compacting FUObjectHashTables data took   2.25ms
+[2019.10.01-10.33.20:870][891]LogSlate: Window 'Delete Assets' being destroyed
+[2019.10.01-10.33.20:877][891]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/AI/BP_Fly.BP_Fly
+[2019.10.01-10.33.21:609][891]LogUObjectHash: Compacting FUObjectHashTables data took   2.42ms
+[2019.10.01-10.33.21:630][891]LogUObjectHash: Compacting FUObjectHashTables data took   1.79ms
+[2019.10.01-10.33.21:650][891]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2019.10.01-10.33.24:104][159]LogUObjectHash: Compacting FUObjectHashTables data took   1.89ms
+[2019.10.01-10.33.25:155][159]LogSlate: Window 'Delete Assets' being destroyed
+[2019.10.01-10.33.25:160][159]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/AI/BSP_Fly.BSP_Fly
+[2019.10.01-10.33.25:482][159]LogUObjectHash: Compacting FUObjectHashTables data took   1.88ms
+[2019.10.01-10.33.25:507][159]LogUObjectHash: Compacting FUObjectHashTables data took   1.96ms
+[2019.10.01-10.33.25:531][159]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2019.10.01-10.33.47:393][506]LogAssetEditorManager: Opening Asset editor for BehaviorTree /Game/AI/enemy1/BT.BT
+[2019.10.01-10.34.12:174][836]LogUObjectHash: Compacting FUObjectHashTables data took   2.38ms
+[2019.10.01-10.34.17:996][836]LogSlate: Window 'Delete Assets' being destroyed
+[2019.10.01-10.34.45:558][562]LogUObjectHash: Compacting FUObjectHashTables data took   2.18ms
+[2019.10.01-10.34.49:075][562]LogSlate: Window 'Delete Assets' being destroyed
+[2019.10.01-10.34.49:082][562]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/AI/enemy1/looping_the_enemy/PetrolPoints.PetrolPoints
+[2019.10.01-10.34.49:410][562]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2019.10.01-10.34.49:432][562]LogUObjectHash: Compacting FUObjectHashTables data took   1.84ms
+[2019.10.01-10.34.49:454][562]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2019.10.01-10.35.03:146][942]LogMetaData: Removing '/Game/AI/enemy1/Change_speed_Npc.Change_speed_Npc_C' ref from Metadata '/Game/AI/enemy1/looping_the_enemy/Change_speed_Npc.PackageMetaData'
+[2019.10.01-10.35.03:146][942]LogMetaData: Removing '/Game/AI/enemy1/Change_speed_Npc.SKEL_Change_speed_Npc_C' ref from Metadata '/Game/AI/enemy1/looping_the_enemy/Change_speed_Npc.PackageMetaData'
+[2019.10.01-10.35.03:146][942]LogMetaData: Removing '/Game/AI/enemy1/Change_speed_Npc.SKEL_Change_speed_Npc_C:ReceiveActivationAI' ref from Metadata '/Game/AI/enemy1/looping_the_enemy/Change_speed_Npc.PackageMetaData'
+[2019.10.01-10.35.03:146][942]LogMetaData: Removing '/Game/AI/enemy1/Change_speed_Npc.SKEL_Change_speed_Npc_C:speed' ref from Metadata '/Game/AI/enemy1/looping_the_enemy/Change_speed_Npc.PackageMetaData'
+[2019.10.01-10.35.03:146][942]LogMetaData: Removing '/Game/AI/enemy1/Change_speed_Npc.Change_speed_Npc_C:speed' ref from Metadata '/Game/AI/enemy1/looping_the_enemy/Change_speed_Npc.PackageMetaData'
+[2019.10.01-10.35.03:146][942]LogMetaData: Removing '/Game/AI/enemy1/Change_speed_Npc.Change_speed_Npc_C:ReceiveActivationAI' ref from Metadata '/Game/AI/enemy1/looping_the_enemy/Change_speed_Npc.PackageMetaData'
+[2019.10.01-10.35.03:176][942]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/enemy1/Change_speed_Npc" FILE="../../../../../../Users/5K!LL2/Documents/Unreal Projects/Ai_test1 4.23/Content/AI/enemy1/Change_speed_Npc.uasset" SILENT=true
+[2019.10.01-10.35.03:187][942]LogSavePackage: Moving '../../../../../../Users/5K!LL2/Documents/Unreal Projects/Ai_test1 4.23/Saved/Change_speed_Npc36EA279B49E16687CF35858011DC2C30.tmp' to '../../../../../../Users/5K!LL2/Documents/Unreal Projects/Ai_test1 4.23/Content/AI/enemy1/Change_speed_Npc.uasset'
+[2019.10.01-10.35.03:394][942]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2019.10.01-10.35.03:426][942]LogUObjectHash: Compacting FUObjectHashTables data took   2.12ms
+[2019.10.01-10.35.03:450][942]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2019.10.01-10.35.03:470][942]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/enemy1/BT" FILE="../../../../../../Users/5K!LL2/Documents/Unreal Projects/Ai_test1 4.23/Content/AI/enemy1/BT.uasset" SILENT=true
+[2019.10.01-10.35.03:489][942]LogSavePackage: Moving '../../../../../../Users/5K!LL2/Documents/Unreal Projects/Ai_test1 4.23/Saved/BT4ACFBB2D4DFB6B9CFEB7C28E4C91252C.tmp' to '../../../../../../Users/5K!LL2/Documents/Unreal Projects/Ai_test1 4.23/Content/AI/enemy1/BT.uasset'
+[2019.10.01-10.35.03:555][942]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/AI/enemy1/Change_speed_Npc.
+[2019.10.01-10.35.08:674][432]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/AI/enemy1/Change_speed_Npc.Change_speed_Npc
+[2019.10.01-10.35.36:157][494]LogMetaData: Removing '/Game/AI/enemy1/Black_Bord_Function/Change_speed_Npc.Change_speed_Npc_C' ref from Metadata '/Game/AI/enemy1/Change_speed_Npc.PackageMetaData'
+[2019.10.01-10.35.36:157][494]LogMetaData: Removing '/Game/AI/enemy1/Black_Bord_Function/Change_speed_Npc.Change_speed_Npc_C:speed' ref from Metadata '/Game/AI/enemy1/Change_speed_Npc.PackageMetaData'
+[2019.10.01-10.35.36:157][494]LogMetaData: Removing '/Game/AI/enemy1/Black_Bord_Function/Change_speed_Npc.Change_speed_Npc_C:ReceiveActivationAI' ref from Metadata '/Game/AI/enemy1/Change_speed_Npc.PackageMetaData'
+[2019.10.01-10.35.36:157][494]LogMetaData: Removing '/Game/AI/enemy1/Black_Bord_Function/Change_speed_Npc.SKEL_Change_speed_Npc_C' ref from Metadata '/Game/AI/enemy1/Change_speed_Npc.PackageMetaData'
+[2019.10.01-10.35.36:157][494]LogMetaData: Removing '/Game/AI/enemy1/Black_Bord_Function/Change_speed_Npc.SKEL_Change_speed_Npc_C:ReceiveActivationAI' ref from Metadata '/Game/AI/enemy1/Change_speed_Npc.PackageMetaData'
+[2019.10.01-10.35.36:157][494]LogMetaData: Removing '/Game/AI/enemy1/Black_Bord_Function/Change_speed_Npc.SKEL_Change_speed_Npc_C:speed' ref from Metadata '/Game/AI/enemy1/Change_speed_Npc.PackageMetaData'
+[2019.10.01-10.35.36:200][494]LogSavePackage: Moving '../../../../../../Users/5K!LL2/Documents/Unreal Projects/Ai_test1 4.23/Saved/Change_speed_Npc22A8CEE542E26ACB1B1DADA87F2DA88C.tmp' to '../../../../../../Users/5K!LL2/Documents/Unreal Projects/Ai_test1 4.23/Content/AI/enemy1/Black_Bord_Function/Change_speed_Npc.uasset'
+[2019.10.01-10.35.36:345][494]LogUObjectHash: Compacting FUObjectHashTables data took   2.41ms
+[2019.10.01-10.35.36:375][494]LogUObjectHash: Compacting FUObjectHashTables data took   1.96ms
+[2019.10.01-10.35.36:399][494]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2019.10.01-10.35.36:417][494]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/enemy1/BT" FILE="../../../../../../Users/5K!LL2/Documents/Unreal Projects/Ai_test1 4.23/Content/AI/enemy1/BT.uasset" SILENT=true
+[2019.10.01-10.35.36:436][494]LogSavePackage: Moving '../../../../../../Users/5K!LL2/Documents/Unreal Projects/Ai_test1 4.23/Saved/BT92549BEB4ED06EDF3399B386EDC480E6.tmp' to '../../../../../../Users/5K!LL2/Documents/Unreal Projects/Ai_test1 4.23/Content/AI/enemy1/BT.uasset'
+[2019.10.01-10.35.36:470][494]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/AI/enemy1/Black_Bord_Function/Change_speed_Npc.
+[2019.10.01-10.35.58:652][895]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/AI/Meleattack/MeleAttack.MeleAttack
+[2019.10.01-10.36.09:921][ 45]LogMetaData: Removing '/Game/AI/enemy1/Black_Bord_Function/MeleAttack.MeleAttack_C' ref from Metadata '/Game/AI/Meleattack/MeleAttack.PackageMetaData'
+[2019.10.01-10.36.09:921][ 45]LogMetaData: Removing '/Game/AI/enemy1/Black_Bord_Function/MeleAttack.SKEL_MeleAttack_C:ReceiveExecuteAI' ref from Metadata '/Game/AI/Meleattack/MeleAttack.PackageMetaData'
+[2019.10.01-10.36.09:921][ 45]LogMetaData: Removing '/Game/AI/enemy1/Black_Bord_Function/MeleAttack.SKEL_MeleAttack_C:delay' ref from Metadata '/Game/AI/Meleattack/MeleAttack.PackageMetaData'
+[2019.10.01-10.36.09:921][ 45]LogMetaData: Removing '/Game/AI/enemy1/Black_Bord_Function/MeleAttack.SKEL_MeleAttack_C' ref from Metadata '/Game/AI/Meleattack/MeleAttack.PackageMetaData'
+[2019.10.01-10.36.09:921][ 45]LogMetaData: Removing '/Game/AI/enemy1/Black_Bord_Function/MeleAttack.MeleAttack_C:delay' ref from Metadata '/Game/AI/Meleattack/MeleAttack.PackageMetaData'
+[2019.10.01-10.36.09:921][ 45]LogMetaData: Removing '/Game/AI/enemy1/Black_Bord_Function/MeleAttack.MeleAttack_C:ReceiveExecuteAI' ref from Metadata '/Game/AI/Meleattack/MeleAttack.PackageMetaData'
+[2019.10.01-10.36.09:964][ 45]LogSavePackage: Moving '../../../../../../Users/5K!LL2/Documents/Unreal Projects/Ai_test1 4.23/Saved/MeleAttack529CB1DC4600D194C7F64BA6FA9D1CE8.tmp' to '../../../../../../Users/5K!LL2/Documents/Unreal Projects/Ai_test1 4.23/Content/AI/enemy1/Black_Bord_Function/MeleAttack.uasset'
+[2019.10.01-10.36.10:115][ 45]LogUObjectHash: Compacting FUObjectHashTables data took   2.07ms
+[2019.10.01-10.36.10:147][ 45]LogUObjectHash: Compacting FUObjectHashTables data took   1.99ms
+[2019.10.01-10.36.10:172][ 45]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2019.10.01-10.36.10:192][ 45]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/enemy1/BT" FILE="../../../../../../Users/5K!LL2/Documents/Unreal Projects/Ai_test1 4.23/Content/AI/enemy1/BT.uasset" SILENT=true
+[2019.10.01-10.36.10:215][ 45]LogSavePackage: Moving '../../../../../../Users/5K!LL2/Documents/Unreal Projects/Ai_test1 4.23/Saved/BT20621993449B13CF50F2B18E5DF4B5BD.tmp' to '../../../../../../Users/5K!LL2/Documents/Unreal Projects/Ai_test1 4.23/Content/AI/enemy1/BT.uasset'
+[2019.10.01-10.36.10:249][ 45]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/AI/enemy1/Black_Bord_Function/MeleAttack.
+[2019.10.01-10.36.17:369][802]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/AI/Meleattack/projectileattack.projectileattack
+[2019.10.01-10.36.36:279][723]LogMetaData: Removing '/Game/AI/enemy1/Black_Bord_Function/projectileattack.projectileattack_C' ref from Metadata '/Game/AI/Meleattack/projectileattack.PackageMetaData'
+[2019.10.01-10.36.36:279][723]LogMetaData: Removing '/Game/AI/enemy1/Black_Bord_Function/projectileattack.SKEL_projectileattack_C:ReceiveExecuteAI' ref from Metadata '/Game/AI/Meleattack/projectileattack.PackageMetaData'
+[2019.10.01-10.36.36:279][723]LogMetaData: Removing '/Game/AI/enemy1/Black_Bord_Function/projectileattack.SKEL_projectileattack_C' ref from Metadata '/Game/AI/Meleattack/projectileattack.PackageMetaData'
+[2019.10.01-10.36.36:279][723]LogMetaData: Removing '/Game/AI/enemy1/Black_Bord_Function/projectileattack.projectileattack_C:ReceiveExecuteAI' ref from Metadata '/Game/AI/Meleattack/projectileattack.PackageMetaData'
+[2019.10.01-10.36.36:324][723]LogSavePackage: Moving '../../../../../../Users/5K!LL2/Documents/Unreal Projects/Ai_test1 4.23/Saved/projectileattackEF7DF5394A06BF61AEE0E09ADA84AC0C.tmp' to '../../../../../../Users/5K!LL2/Documents/Unreal Projects/Ai_test1 4.23/Content/AI/enemy1/Black_Bord_Function/projectileattack.uasset'
+[2019.10.01-10.36.36:475][723]LogUObjectHash: Compacting FUObjectHashTables data took   2.09ms
+[2019.10.01-10.36.36:510][723]LogUObjectHash: Compacting FUObjectHashTables data took   1.85ms
+[2019.10.01-10.36.36:537][723]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2019.10.01-10.36.36:557][723]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/enemy1/BT" FILE="../../../../../../Users/5K!LL2/Documents/Unreal Projects/Ai_test1 4.23/Content/AI/enemy1/BT.uasset" SILENT=true
+[2019.10.01-10.36.36:576][723]LogSavePackage: Moving '../../../../../../Users/5K!LL2/Documents/Unreal Projects/Ai_test1 4.23/Saved/BTB89EC60F422E5A10C1E35E808429325A.tmp' to '../../../../../../Users/5K!LL2/Documents/Unreal Projects/Ai_test1 4.23/Content/AI/enemy1/BT.uasset'
+[2019.10.01-10.36.36:609][723]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/AI/enemy1/Black_Bord_Function/projectileattack.
+[2019.10.01-10.36.42:670][363]LogMetaData: Removing '/Game/AI/enemy1/projectile.projectile_C' ref from Metadata '/Game/AI/Meleattack/projectile.PackageMetaData'
+[2019.10.01-10.36.42:670][363]LogMetaData: Removing '/Game/AI/enemy1/projectile.projectile:EventGraph.K2Node_Event_0' ref from Metadata '/Game/AI/Meleattack/projectile.PackageMetaData'
+[2019.10.01-10.36.42:670][363]LogMetaData: Removing '/Game/AI/enemy1/projectile.projectile:EventGraph.K2Node_Event_1' ref from Metadata '/Game/AI/Meleattack/projectile.PackageMetaData'
+[2019.10.01-10.36.42:670][363]LogMetaData: Removing '/Game/AI/enemy1/projectile.projectile:EventGraph.K2Node_Event_2' ref from Metadata '/Game/AI/Meleattack/projectile.PackageMetaData'
+[2019.10.01-10.36.42:670][363]LogMetaData: Removing '/Game/AI/enemy1/projectile.projectile:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/AI/Meleattack/projectile.PackageMetaData'
+[2019.10.01-10.36.42:670][363]LogMetaData: Removing '/Game/AI/enemy1/projectile.SKEL_projectile_C:ReceiveBeginPlay' ref from Metadata '/Game/AI/Meleattack/projectile.PackageMetaData'
+[2019.10.01-10.36.42:671][363]LogMetaData: Removing '/Game/AI/enemy1/projectile.SKEL_projectile_C:ReceiveActorBeginOverlap' ref from Metadata '/Game/AI/Meleattack/projectile.PackageMetaData'
+[2019.10.01-10.36.42:671][363]LogMetaData: Removing '/Game/AI/enemy1/projectile.SKEL_projectile_C:ReceiveTick' ref from Metadata '/Game/AI/Meleattack/projectile.PackageMetaData'
+[2019.10.01-10.36.42:671][363]LogMetaData: Removing '/Game/AI/enemy1/projectile.SKEL_projectile_C:Scene' ref from Metadata '/Game/AI/Meleattack/projectile.PackageMetaData'
+[2019.10.01-10.36.42:671][363]LogMetaData: Removing '/Game/AI/enemy1/projectile.SKEL_projectile_C:ee' ref from Metadata '/Game/AI/Meleattack/projectile.PackageMetaData'
+[2019.10.01-10.36.42:671][363]LogMetaData: Removing '/Game/AI/enemy1/projectile.SKEL_projectile_C:ProjectileMovement' ref from Metadata '/Game/AI/Meleattack/projectile.PackageMetaData'
+[2019.10.01-10.36.42:671][363]LogMetaData: Removing '/Game/AI/enemy1/projectile.SKEL_projectile_C:UserConstructionScript' ref from Metadata '/Game/AI/Meleattack/projectile.PackageMetaData'
+[2019.10.01-10.36.42:671][363]LogMetaData: Removing '/Game/AI/enemy1/projectile.SKEL_projectile_C' ref from Metadata '/Game/AI/Meleattack/projectile.PackageMetaData'
+[2019.10.01-10.36.42:671][363]LogMetaData: Removing '/Game/AI/enemy1/projectile.projectile_C:Scene' ref from Metadata '/Game/AI/Meleattack/projectile.PackageMetaData'
+[2019.10.01-10.36.42:671][363]LogMetaData: Removing '/Game/AI/enemy1/projectile.projectile_C:ee' ref from Metadata '/Game/AI/Meleattack/projectile.PackageMetaData'
+[2019.10.01-10.36.42:671][363]LogMetaData: Removing '/Game/AI/enemy1/projectile.projectile_C:ProjectileMovement' ref from Metadata '/Game/AI/Meleattack/projectile.PackageMetaData'
+[2019.10.01-10.36.42:714][363]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/enemy1/projectile" FILE="../../../../../../Users/5K!LL2/Documents/Unreal Projects/Ai_test1 4.23/Content/AI/enemy1/projectile.uasset" SILENT=true
+[2019.10.01-10.36.42:731][363]LogSavePackage: Moving '../../../../../../Users/5K!LL2/Documents/Unreal Projects/Ai_test1 4.23/Saved/projectile0EEFB00F44B55EBC6EFC10B41B3A7BF5.tmp' to '../../../../../../Users/5K!LL2/Documents/Unreal Projects/Ai_test1 4.23/Content/AI/enemy1/projectile.uasset'
+[2019.10.01-10.36.42:910][363]LogUObjectHash: Compacting FUObjectHashTables data took   1.93ms
+[2019.10.01-10.36.42:946][363]LogUObjectHash: Compacting FUObjectHashTables data took   1.79ms
+[2019.10.01-10.36.42:970][363]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2019.10.01-10.36.42:997][363]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/enemy1/enemy1" FILE="../../../../../../Users/5K!LL2/Documents/Unreal Projects/Ai_test1 4.23/Content/AI/enemy1/enemy1.uasset" SILENT=true
+[2019.10.01-10.36.43:046][363]LogSavePackage: Moving '../../../../../../Users/5K!LL2/Documents/Unreal Projects/Ai_test1 4.23/Saved/enemy15FB2508949DE68A1F3CBF0BF088F7020.tmp' to '../../../../../../Users/5K!LL2/Documents/Unreal Projects/Ai_test1 4.23/Content/AI/enemy1/enemy1.uasset'
+[2019.10.01-10.36.43:082][363]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/AI/enemy1/projectile.
+[2019.10.01-10.37.25:056][751]LogMetaData: Removing '/Game/AI/enemy1/Black_Bord_Function/Hide.Hide:EnvironmentQueryGraph_0.EnvironmentQueryGraphNode_Root_0' ref from Metadata '/Game/AI_NEW/pRAY/Hide.PackageMetaData'
+[2019.10.01-10.37.25:067][751]LogMetaData: Removing '/Game/AI/enemy1/Black_Bord_Function/FindPlayer.FindPlayer:EnvironmentQueryGraph_0.EnvironmentQueryGraphNode_Root_0' ref from Metadata '/Game/AI_NEW/pRAY/FindPlayer.PackageMetaData'
+[2019.10.01-10.37.25:075][751]LogMetaData: Removing '/Game/AI/enemy1/Black_Bord_Function/Eqstest.Eqstest_C' ref from Metadata '/Game/AI_NEW/pRAY/Eqstest.PackageMetaData'
+[2019.10.01-10.37.25:075][751]LogMetaData: Removing '/Game/AI/enemy1/Black_Bord_Function/Eqstest.Eqstest:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/AI_NEW/pRAY/Eqstest.PackageMetaData'
+[2019.10.01-10.37.25:075][751]LogMetaData: Removing '/Game/AI/enemy1/Black_Bord_Function/Eqstest.Eqstest:EventGraph.K2Node_Event_0' ref from Metadata '/Game/AI_NEW/pRAY/Eqstest.PackageMetaData'
+[2019.10.01-10.37.25:075][751]LogMetaData: Removing '/Game/AI/enemy1/Black_Bord_Function/Eqstest.Eqstest:EventGraph.K2Node_Event_1' ref from Metadata '/Game/AI_NEW/pRAY/Eqstest.PackageMetaData'
+[2019.10.01-10.37.25:075][751]LogMetaData: Removing '/Game/AI/enemy1/Black_Bord_Function/Eqstest.Eqstest:EventGraph.K2Node_Event_2' ref from Metadata '/Game/AI_NEW/pRAY/Eqstest.PackageMetaData'
+[2019.10.01-10.37.25:075][751]LogMetaData: Removing '/Game/AI/enemy1/Black_Bord_Function/Eqstest.SKEL_Eqstest_C:ReceiveBeginPlay' ref from Metadata '/Game/AI_NEW/pRAY/Eqstest.PackageMetaData'
+[2019.10.01-10.37.25:075][751]LogMetaData: Removing '/Game/AI/enemy1/Black_Bord_Function/Eqstest.SKEL_Eqstest_C:ReceiveActorBeginOverlap' ref from Metadata '/Game/AI_NEW/pRAY/Eqstest.PackageMetaData'
+[2019.10.01-10.37.25:075][751]LogMetaData: Removing '/Game/AI/enemy1/Black_Bord_Function/Eqstest.SKEL_Eqstest_C:ReceiveTick' ref from Metadata '/Game/AI_NEW/pRAY/Eqstest.PackageMetaData'
+[2019.10.01-10.37.25:075][751]LogMetaData: Removing '/Game/AI/enemy1/Black_Bord_Function/Eqstest.SKEL_Eqstest_C:UserConstructionScript' ref from Metadata '/Game/AI_NEW/pRAY/Eqstest.PackageMetaData'
+[2019.10.01-10.37.25:075][751]LogMetaData: Removing '/Game/AI/enemy1/Black_Bord_Function/Eqstest.SKEL_Eqstest_C' ref from Metadata '/Game/AI_NEW/pRAY/Eqstest.PackageMetaData'
+[2019.10.01-10.37.25:085][751]LogMetaData: Removing '/Game/AI/enemy1/Black_Bord_Function/ContestPlayer.ContestPlayer_C' ref from Metadata '/Game/AI_NEW/pRAY/ContestPlayer.PackageMetaData'
+[2019.10.01-10.37.25:086][751]LogMetaData: Removing '/Game/AI/enemy1/Black_Bord_Function/ContestPlayer.ContestPlayer:ProvideActorsSet.K2Node_FunctionEntry_0' ref from Metadata '/Game/AI_NEW/pRAY/ContestPlayer.PackageMetaData'
+[2019.10.01-10.37.25:086][751]LogMetaData: Removing '/Game/AI/enemy1/Black_Bord_Function/ContestPlayer.ContestPlayer:ProvideActorsSet.K2Node_FunctionResult_0' ref from Metadata '/Game/AI_NEW/pRAY/ContestPlayer.PackageMetaData'
+[2019.10.01-10.37.25:086][751]LogMetaData: Removing '/Game/AI/enemy1/Black_Bord_Function/ContestPlayer.SKEL_ContestPlayer_C:ProvideActorsSet' ref from Metadata '/Game/AI_NEW/pRAY/ContestPlayer.PackageMetaData'
+[2019.10.01-10.37.25:086][751]LogMetaData: Removing '/Game/AI/enemy1/Black_Bord_Function/ContestPlayer.SKEL_ContestPlayer_C' ref from Metadata '/Game/AI_NEW/pRAY/ContestPlayer.PackageMetaData'
+[2019.10.01-10.37.25:086][751]LogMetaData: Removing '/Game/AI/enemy1/Black_Bord_Function/ContestPlayer.ContestPlayer_C:ProvideActorsSet' ref from Metadata '/Game/AI_NEW/pRAY/ContestPlayer.PackageMetaData'
+[2019.10.01-10.37.25:131][751]LogSavePackage: Moving '../../../../../../Users/5K!LL2/Documents/Unreal Projects/Ai_test1 4.23/Saved/Hide16CE14A7424E08A7EB7B4F8470134B23.tmp' to '../../../../../../Users/5K!LL2/Documents/Unreal Projects/Ai_test1 4.23/Content/AI/enemy1/Black_Bord_Function/Hide.uasset'
+[2019.10.01-10.37.25:135][751]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI_NEW/pRAY/Hide" FILE="../../../../../../Users/5K!LL2/Documents/Unreal Projects/Ai_test1 4.23/Content/AI_NEW/pRAY/Hide.uasset" SILENT=true
+[2019.10.01-10.37.25:145][751]LogSavePackage: Moving '../../../../../../Users/5K!LL2/Documents/Unreal Projects/Ai_test1 4.23/Saved/Hide415C38924C25DE171586009601E8144E.tmp' to '../../../../../../Users/5K!LL2/Documents/Unreal Projects/Ai_test1 4.23/Content/AI_NEW/pRAY/Hide.uasset'
+[2019.10.01-10.37.25:156][751]LogSavePackage: Moving '../../../../../../Users/5K!LL2/Documents/Unreal Projects/Ai_test1 4.23/Saved/FindPlayerF3C790FA47AD0A816D2B9AAF0AD82CB0.tmp' to '../../../../../../Users/5K!LL2/Documents/Unreal Projects/Ai_test1 4.23/Content/AI/enemy1/Black_Bord_Function/FindPlayer.uasset'
+[2019.10.01-10.37.25:192][751]LogSavePackage: Moving '../../../../../../Users/5K!LL2/Documents/Unreal Projects/Ai_test1 4.23/Saved/Eqstest514B09DB4F7F334B7A757894731D540F.tmp' to '../../../../../../Users/5K!LL2/Documents/Unreal Projects/Ai_test1 4.23/Content/AI/enemy1/Black_Bord_Function/Eqstest.uasset'
+[2019.10.01-10.37.25:197][751]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI_NEW/pRAY/Eqstest" FILE="../../../../../../Users/5K!LL2/Documents/Unreal Projects/Ai_test1 4.23/Content/AI_NEW/pRAY/Eqstest.uasset" SILENT=true
+[2019.10.01-10.37.25:207][751]LogSavePackage: Moving '../../../../../../Users/5K!LL2/Documents/Unreal Projects/Ai_test1 4.23/Saved/Eqstest7515328F4F1DD285F408ECAC934FCD56.tmp' to '../../../../../../Users/5K!LL2/Documents/Unreal Projects/Ai_test1 4.23/Content/AI_NEW/pRAY/Eqstest.uasset'
+[2019.10.01-10.37.25:222][751]LogSavePackage: Moving '../../../../../../Users/5K!LL2/Documents/Unreal Projects/Ai_test1 4.23/Saved/ContestPlayerCAAD1B5B449FFE05340142924B060E89.tmp' to '../../../../../../Users/5K!LL2/Documents/Unreal Projects/Ai_test1 4.23/Content/AI/enemy1/Black_Bord_Function/ContestPlayer.uasset'
+[2019.10.01-10.37.25:449][751]LogUObjectHash: Compacting FUObjectHashTables data took   2.53ms
+[2019.10.01-10.37.25:477][751]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2019.10.01-10.37.25:511][751]LogUObjectHash: Compacting FUObjectHashTables data took   1.93ms
+[2019.10.01-10.37.25:538][751]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2019.10.01-10.37.25:561][751]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/enemy1/BT" FILE="../../../../../../Users/5K!LL2/Documents/Unreal Projects/Ai_test1 4.23/Content/AI/enemy1/BT.uasset" SILENT=true
+[2019.10.01-10.37.25:582][751]LogSavePackage: Moving '../../../../../../Users/5K!LL2/Documents/Unreal Projects/Ai_test1 4.23/Saved/BTB663763441E827DE169B5AAF550870F4.tmp' to '../../../../../../Users/5K!LL2/Documents/Unreal Projects/Ai_test1 4.23/Content/AI/enemy1/BT.uasset'
+[2019.10.01-10.37.25:620][751]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/AI/enemy1/Black_Bord_Function/Eqstest.
+[2019.10.01-10.37.25:627][751]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/AI/enemy1/Black_Bord_Function/ContestPlayer.
+[2019.10.01-10.37.40:144][409]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/AI/Location.Location
+[2019.10.01-10.38.07:493][226]LogMetaData: Removing '/Game/AI/enemy1/Black_Bord_Function/Location.Location_C' ref from Metadata '/Game/AI/Location.PackageMetaData'
+[2019.10.01-10.38.07:493][226]LogMetaData: Removing '/Game/AI/enemy1/Black_Bord_Function/Location.SKEL_Location_C:ReceiveExecuteAI' ref from Metadata '/Game/AI/Location.PackageMetaData'
+[2019.10.01-10.38.07:493][226]LogMetaData: Removing '/Game/AI/enemy1/Black_Bord_Function/Location.SKEL_Location_C' ref from Metadata '/Game/AI/Location.PackageMetaData'
+[2019.10.01-10.38.07:493][226]LogMetaData: Removing '/Game/AI/enemy1/Black_Bord_Function/Location.Location_C:ReceiveExecuteAI' ref from Metadata '/Game/AI/Location.PackageMetaData'
+[2019.10.01-10.38.07:534][226]LogSavePackage: Moving '../../../../../../Users/5K!LL2/Documents/Unreal Projects/Ai_test1 4.23/Saved/Location600841854AA7E7794110E6888DEEBDEC.tmp' to '../../../../../../Users/5K!LL2/Documents/Unreal Projects/Ai_test1 4.23/Content/AI/enemy1/Black_Bord_Function/Location.uasset'
+[2019.10.01-10.38.07:697][226]LogUObjectHash: Compacting FUObjectHashTables data took   2.11ms
+[2019.10.01-10.38.07:730][226]LogUObjectHash: Compacting FUObjectHashTables data took   1.83ms
+[2019.10.01-10.38.07:761][226]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2019.10.01-10.38.07:782][226]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/enemy1/BT" FILE="../../../../../../Users/5K!LL2/Documents/Unreal Projects/Ai_test1 4.23/Content/AI/enemy1/BT.uasset" SILENT=true
+[2019.10.01-10.38.07:813][226]LogSavePackage: Moving '../../../../../../Users/5K!LL2/Documents/Unreal Projects/Ai_test1 4.23/Saved/BT16B54993452ED86ED7E4E8A32F02BFAC.tmp' to '../../../../../../Users/5K!LL2/Documents/Unreal Projects/Ai_test1 4.23/Content/AI/enemy1/BT.uasset'
+[2019.10.01-10.38.07:846][226]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/AI/enemy1/Black_Bord_Function/Location.
+[2019.10.01-10.38.26:580][125]LogMetaData: Removing '/Game/AI/enemy1/Black_Bord_Function/MoveTO1.MoveTO1_C' ref from Metadata '/Game/AI/MoveTO1.PackageMetaData'
+[2019.10.01-10.38.26:580][125]LogMetaData: Removing '/Game/AI/enemy1/Black_Bord_Function/MoveTO1.SKEL_MoveTO1_C:ReceiveActivationAI' ref from Metadata '/Game/AI/MoveTO1.PackageMetaData'
+[2019.10.01-10.38.26:580][125]LogMetaData: Removing '/Game/AI/enemy1/Black_Bord_Function/MoveTO1.SKEL_MoveTO1_C:Range' ref from Metadata '/Game/AI/MoveTO1.PackageMetaData'
+[2019.10.01-10.38.26:580][125]LogMetaData: Removing '/Game/AI/enemy1/Black_Bord_Function/MoveTO1.SKEL_MoveTO1_C:Cansee' ref from Metadata '/Game/AI/MoveTO1.PackageMetaData'
+[2019.10.01-10.38.26:580][125]LogMetaData: Removing '/Game/AI/enemy1/Black_Bord_Function/MoveTO1.SKEL_MoveTO1_C:vector' ref from Metadata '/Game/AI/MoveTO1.PackageMetaData'
+[2019.10.01-10.38.26:580][125]LogMetaData: Removing '/Game/AI/enemy1/Black_Bord_Function/MoveTO1.SKEL_MoveTO1_C' ref from Metadata '/Game/AI/MoveTO1.PackageMetaData'
+[2019.10.01-10.38.26:580][125]LogMetaData: Removing '/Game/AI/enemy1/Black_Bord_Function/MoveTO1.MoveTO1_C:Range' ref from Metadata '/Game/AI/MoveTO1.PackageMetaData'
+[2019.10.01-10.38.26:580][125]LogMetaData: Removing '/Game/AI/enemy1/Black_Bord_Function/MoveTO1.MoveTO1_C:Cansee' ref from Metadata '/Game/AI/MoveTO1.PackageMetaData'
+[2019.10.01-10.38.26:580][125]LogMetaData: Removing '/Game/AI/enemy1/Black_Bord_Function/MoveTO1.MoveTO1_C:vector' ref from Metadata '/Game/AI/MoveTO1.PackageMetaData'
+[2019.10.01-10.38.26:580][125]LogMetaData: Removing '/Game/AI/enemy1/Black_Bord_Function/MoveTO1.MoveTO1_C:ReceiveActivationAI' ref from Metadata '/Game/AI/MoveTO1.PackageMetaData'
+[2019.10.01-10.38.26:580][125]LogMetaData: Removing '/Game/AI/enemy1/Black_Bord_Function/MoveTO1.MoveTO1_C:OnSuccess_1C22D15E44B00CC9C878659F127D85F6' ref from Metadata '/Game/AI/MoveTO1.PackageMetaData'
+[2019.10.01-10.38.26:580][125]LogMetaData: Removing '/Game/AI/enemy1/Black_Bord_Function/MoveTO1.MoveTO1_C:OnFail_1C22D15E44B00CC9C878659F127D85F6' ref from Metadata '/Game/AI/MoveTO1.PackageMetaData'
+[2019.10.01-10.38.26:627][125]LogSavePackage: Moving '../../../../../../Users/5K!LL2/Documents/Unreal Projects/Ai_test1 4.23/Saved/MoveTO1DBFB90B7450C7593FA59DF9F2704BE4B.tmp' to '../../../../../../Users/5K!LL2/Documents/Unreal Projects/Ai_test1 4.23/Content/AI/enemy1/Black_Bord_Function/MoveTO1.uasset'
+[2019.10.01-10.38.26:788][125]LogUObjectHash: Compacting FUObjectHashTables data took   2.06ms
+[2019.10.01-10.38.26:825][125]LogUObjectHash: Compacting FUObjectHashTables data took   1.99ms
+[2019.10.01-10.38.26:854][125]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2019.10.01-10.38.26:872][125]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/enemy1/BT" FILE="../../../../../../Users/5K!LL2/Documents/Unreal Projects/Ai_test1 4.23/Content/AI/enemy1/BT.uasset" SILENT=true
+[2019.10.01-10.38.26:891][125]LogSavePackage: Moving '../../../../../../Users/5K!LL2/Documents/Unreal Projects/Ai_test1 4.23/Saved/BTB70A3A074B1FC5889566E88048EBF2E2.tmp' to '../../../../../../Users/5K!LL2/Documents/Unreal Projects/Ai_test1 4.23/Content/AI/enemy1/BT.uasset'
+[2019.10.01-10.38.27:000][125]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/AI/enemy1/Black_Bord_Function/MoveTO1.
+[2019.10.01-10.38.32:783][652]LogMetaData: Removing '/Game/AI/enemy1/Black_Bord_Function/MoveTO.MoveTO_C' ref from Metadata '/Game/AI/MoveTO.PackageMetaData'
+[2019.10.01-10.38.32:783][652]LogMetaData: Removing '/Game/AI/enemy1/Black_Bord_Function/MoveTO.SKEL_MoveTO_C:ReceiveActivationAI' ref from Metadata '/Game/AI/MoveTO.PackageMetaData'
+[2019.10.01-10.38.32:783][652]LogMetaData: Removing '/Game/AI/enemy1/Black_Bord_Function/MoveTO.SKEL_MoveTO_C:Cansee' ref from Metadata '/Game/AI/MoveTO.PackageMetaData'
+[2019.10.01-10.38.32:783][652]LogMetaData: Removing '/Game/AI/enemy1/Black_Bord_Function/MoveTO.SKEL_MoveTO_C:vector' ref from Metadata '/Game/AI/MoveTO.PackageMetaData'
+[2019.10.01-10.38.32:783][652]LogMetaData: Removing '/Game/AI/enemy1/Black_Bord_Function/MoveTO.SKEL_MoveTO_C' ref from Metadata '/Game/AI/MoveTO.PackageMetaData'
+[2019.10.01-10.38.32:783][652]LogMetaData: Removing '/Game/AI/enemy1/Black_Bord_Function/MoveTO.MoveTO_C:Cansee' ref from Metadata '/Game/AI/MoveTO.PackageMetaData'
+[2019.10.01-10.38.32:783][652]LogMetaData: Removing '/Game/AI/enemy1/Black_Bord_Function/MoveTO.MoveTO_C:vector' ref from Metadata '/Game/AI/MoveTO.PackageMetaData'
+[2019.10.01-10.38.32:783][652]LogMetaData: Removing '/Game/AI/enemy1/Black_Bord_Function/MoveTO.MoveTO_C:ReceiveActivationAI' ref from Metadata '/Game/AI/MoveTO.PackageMetaData'
+[2019.10.01-10.38.32:783][652]LogMetaData: Removing '/Game/AI/enemy1/Black_Bord_Function/MoveTO.MoveTO_C:OnSuccess_A2485E0F40794C9C56FC3D8FC1BD602A' ref from Metadata '/Game/AI/MoveTO.PackageMetaData'
+[2019.10.01-10.38.32:783][652]LogMetaData: Removing '/Game/AI/enemy1/Black_Bord_Function/MoveTO.MoveTO_C:OnFail_A2485E0F40794C9C56FC3D8FC1BD602A' ref from Metadata '/Game/AI/MoveTO.PackageMetaData'
+[2019.10.01-10.38.32:828][652]LogSavePackage: Moving '../../../../../../Users/5K!LL2/Documents/Unreal Projects/Ai_test1 4.23/Saved/MoveTO72A43AA941C17BB25D5AEFA0B339D686.tmp' to '../../../../../../Users/5K!LL2/Documents/Unreal Projects/Ai_test1 4.23/Content/AI/enemy1/Black_Bord_Function/MoveTO.uasset'
+[2019.10.01-10.38.32:984][652]LogUObjectHash: Compacting FUObjectHashTables data took   2.29ms
+[2019.10.01-10.38.33:023][652]LogUObjectHash: Compacting FUObjectHashTables data took   1.80ms
+[2019.10.01-10.38.33:051][652]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2019.10.01-10.38.33:072][652]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/enemy1/BT" FILE="../../../../../../Users/5K!LL2/Documents/Unreal Projects/Ai_test1 4.23/Content/AI/enemy1/BT.uasset" SILENT=true
+[2019.10.01-10.38.33:092][652]LogSavePackage: Moving '../../../../../../Users/5K!LL2/Documents/Unreal Projects/Ai_test1 4.23/Saved/BT1D29CF404F521DB488D6D1AA1405A8F8.tmp' to '../../../../../../Users/5K!LL2/Documents/Unreal Projects/Ai_test1 4.23/Content/AI/enemy1/BT.uasset'
+[2019.10.01-10.38.33:125][652]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/AI/enemy1/Black_Bord_Function/MoveTO.
+[2019.10.01-10.38.48:081][196]LogMetaData: Removing '/Game/AI/enemy1/Black_Bord_Function/ServiceProjectile.ServiceProjectile_C' ref from Metadata '/Game/AI/ServiceProjectile.PackageMetaData'
+[2019.10.01-10.38.48:082][196]LogMetaData: Removing '/Game/AI/enemy1/Black_Bord_Function/ServiceProjectile.SKEL_ServiceProjectile_C:ReceiveActivationAI' ref from Metadata '/Game/AI/ServiceProjectile.PackageMetaData'
+[2019.10.01-10.38.48:082][196]LogMetaData: Removing '/Game/AI/enemy1/Black_Bord_Function/ServiceProjectile.SKEL_ServiceProjectile_C' ref from Metadata '/Game/AI/ServiceProjectile.PackageMetaData'
+[2019.10.01-10.38.48:082][196]LogMetaData: Removing '/Game/AI/enemy1/Black_Bord_Function/ServiceProjectile.ServiceProjectile_C:ReceiveActivationAI' ref from Metadata '/Game/AI/ServiceProjectile.PackageMetaData'
+[2019.10.01-10.38.48:124][196]LogSavePackage: Moving '../../../../../../Users/5K!LL2/Documents/Unreal Projects/Ai_test1 4.23/Saved/ServiceProjectile242488594E0756DA9EEDCEB4A02667B9.tmp' to '../../../../../../Users/5K!LL2/Documents/Unreal Projects/Ai_test1 4.23/Content/AI/enemy1/Black_Bord_Function/ServiceProjectile.uasset'
+[2019.10.01-10.38.48:276][196]LogUObjectHash: Compacting FUObjectHashTables data took   2.33ms
+[2019.10.01-10.38.48:313][196]LogUObjectHash: Compacting FUObjectHashTables data took   2.01ms
+[2019.10.01-10.38.48:339][196]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2019.10.01-10.38.48:358][196]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/enemy1/BT" FILE="../../../../../../Users/5K!LL2/Documents/Unreal Projects/Ai_test1 4.23/Content/AI/enemy1/BT.uasset" SILENT=true
+[2019.10.01-10.38.48:378][196]LogSavePackage: Moving '../../../../../../Users/5K!LL2/Documents/Unreal Projects/Ai_test1 4.23/Saved/BT4B0ED91B49410F960C2F8EB25CAE74F9.tmp' to '../../../../../../Users/5K!LL2/Documents/Unreal Projects/Ai_test1 4.23/Content/AI/enemy1/BT.uasset'
+[2019.10.01-10.38.48:411][196]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/AI/enemy1/Black_Bord_Function/ServiceProjectile.
+[2019.10.01-10.38.59:129][201]LogMetaData: Removing '/Game/AI/enemy1/Black_Bord_Function/S_SetmoveTarget.S_SetmoveTarget_C' ref from Metadata '/Game/AI/S_SetmoveTarget.PackageMetaData'
+[2019.10.01-10.38.59:129][201]LogMetaData: Removing '/Game/AI/enemy1/Black_Bord_Function/S_SetmoveTarget.SKEL_S_SetmoveTarget_C:ReceiveActivationAI' ref from Metadata '/Game/AI/S_SetmoveTarget.PackageMetaData'
+[2019.10.01-10.38.59:129][201]LogMetaData: Removing '/Game/AI/enemy1/Black_Bord_Function/S_SetmoveTarget.SKEL_S_SetmoveTarget_C:NewVar_0' ref from Metadata '/Game/AI/S_SetmoveTarget.PackageMetaData'
+[2019.10.01-10.38.59:129][201]LogMetaData: Removing '/Game/AI/enemy1/Black_Bord_Function/S_SetmoveTarget.SKEL_S_SetmoveTarget_C:bb_keys' ref from Metadata '/Game/AI/S_SetmoveTarget.PackageMetaData'
+[2019.10.01-10.38.59:129][201]LogMetaData: Removing '/Game/AI/enemy1/Black_Bord_Function/S_SetmoveTarget.SKEL_S_SetmoveTarget_C' ref from Metadata '/Game/AI/S_SetmoveTarget.PackageMetaData'
+[2019.10.01-10.38.59:129][201]LogMetaData: Removing '/Game/AI/enemy1/Black_Bord_Function/S_SetmoveTarget.S_SetmoveTarget_C:NewVar_0' ref from Metadata '/Game/AI/S_SetmoveTarget.PackageMetaData'
+[2019.10.01-10.38.59:129][201]LogMetaData: Removing '/Game/AI/enemy1/Black_Bord_Function/S_SetmoveTarget.S_SetmoveTarget_C:bb_keys' ref from Metadata '/Game/AI/S_SetmoveTarget.PackageMetaData'
+[2019.10.01-10.38.59:129][201]LogMetaData: Removing '/Game/AI/enemy1/Black_Bord_Function/S_SetmoveTarget.S_SetmoveTarget_C:ReceiveActivationAI' ref from Metadata '/Game/AI/S_SetmoveTarget.PackageMetaData'
+[2019.10.01-10.38.59:169][201]LogSavePackage: Moving '../../../../../../Users/5K!LL2/Documents/Unreal Projects/Ai_test1 4.23/Saved/S_SetmoveTargetBDDD7CF34641732A486EE6BC4B84EA1D.tmp' to '../../../../../../Users/5K!LL2/Documents/Unreal Projects/Ai_test1 4.23/Content/AI/enemy1/Black_Bord_Function/S_SetmoveTarget.uasset'
+[2019.10.01-10.38.59:324][201]LogUObjectHash: Compacting FUObjectHashTables data took   1.83ms
+[2019.10.01-10.38.59:361][201]LogUObjectHash: Compacting FUObjectHashTables data took   1.80ms
+[2019.10.01-10.38.59:387][201]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2019.10.01-10.38.59:407][201]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/enemy1/BT" FILE="../../../../../../Users/5K!LL2/Documents/Unreal Projects/Ai_test1 4.23/Content/AI/enemy1/BT.uasset" SILENT=true
+[2019.10.01-10.38.59:433][201]LogSavePackage: Moving '../../../../../../Users/5K!LL2/Documents/Unreal Projects/Ai_test1 4.23/Saved/BT7C3AC7B54BFE56DE5BA204830964E21E.tmp' to '../../../../../../Users/5K!LL2/Documents/Unreal Projects/Ai_test1 4.23/Content/AI/enemy1/BT.uasset'
+[2019.10.01-10.38.59:466][201]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/AI/enemy1/Black_Bord_Function/S_SetmoveTarget.
+[2019.10.01-10.39.30:074][353]LogSavePackage: Moving '../../../../../../Users/5K!LL2/Documents/Unreal Projects/Ai_test1 4.23/Saved/NPC_BB_266CFA47549585265569D489E6A6767F6.tmp' to '../../../../../../Users/5K!LL2/Documents/Unreal Projects/Ai_test1 4.23/Content/AI/enemy1/Black_Bord_Function/NPC_BB_2.uasset'
+[2019.10.01-10.39.30:233][353]LogUObjectHash: Compacting FUObjectHashTables data took   2.42ms
+[2019.10.01-10.39.30:269][353]LogUObjectHash: Compacting FUObjectHashTables data took   2.06ms
+[2019.10.01-10.39.30:298][353]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2019.10.01-10.39.30:318][353]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/enemy1/BT" FILE="../../../../../../Users/5K!LL2/Documents/Unreal Projects/Ai_test1 4.23/Content/AI/enemy1/BT.uasset" SILENT=true
+[2019.10.01-10.39.30:338][353]LogSavePackage: Moving '../../../../../../Users/5K!LL2/Documents/Unreal Projects/Ai_test1 4.23/Saved/BT66A66E2C4F1A4426C4CADC907F12EE9F.tmp' to '../../../../../../Users/5K!LL2/Documents/Unreal Projects/Ai_test1 4.23/Content/AI/enemy1/BT.uasset'
+[2019.10.01-10.39.30:341][353]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/BT2" FILE="../../../../../../Users/5K!LL2/Documents/Unreal Projects/Ai_test1 4.23/Content/AI/BT2.uasset" SILENT=true
+[2019.10.01-10.39.30:356][353]LogSavePackage: Moving '../../../../../../Users/5K!LL2/Documents/Unreal Projects/Ai_test1 4.23/Saved/BT2B5600A0940A25EAD6C5B659C5F816CEE.tmp' to '../../../../../../Users/5K!LL2/Documents/Unreal Projects/Ai_test1 4.23/Content/AI/BT2.uasset'
+[2019.10.01-10.39.41:318][413]LogAssetEditorManager: Opening Asset editor for EnvQuery /Game/AI/enemy1/Black_Bord_Function/FindPlayer.FindPlayer
+[2019.10.01-10.40.23:650][129]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/AI/enemy1/enemy1_AI.enemy1_AI
+[2019.10.01-10.40.23:974][130]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2019.10.01-10.40.24:474][130]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.499 s
+[2019.10.01-10.40.24:474][130]LogOutputDevice: Error: === Handled ensure: ===
+[2019.10.01-10.40.24:474][130]LogOutputDevice: Error: 
+[2019.10.01-10.40.24:474][130]LogOutputDevice: Error: Ensure condition failed: Class != nullptr [File:D:/Build/++UE4/Sync/Engine/Source/Editor/PropertyEditor/Private/UserInterface/PropertyEditor/SPropertyEditorAsset.cpp] [Line: 1291]
+[2019.10.01-10.40.24:474][130]LogOutputDevice: Error: Property (ObjectProperty /Game/AI/enemy1/enemy1_AI.enemy1_AI_C:CharacterB) is not an object or interface class
+[2019.10.01-10.40.24:474][130]LogOutputDevice: Error: Stack: 
+[2019.10.01-10.40.24:474][130]LogOutputDevice: Error: [Callstack] 0x00007ffe4e2d3c7c UE4Editor-PropertyEditor.dll!UnknownFunction []
+[2019.10.01-10.40.24:474][130]LogOutputDevice: Error: [Callstack] 0x00007ffe4e14c75e UE4Editor-PropertyEditor.dll!UnknownFunction []
+[2019.10.01-10.40.24:474][130]LogOutputDevice: Error: [Callstack] 0x00007ffe4dfcb2c7 UE4Editor-PropertyEditor.dll!UnknownFunction []
+[2019.10.01-10.40.24:474][130]LogOutputDevice: Error: [Callstack] 0x00007ffe4e0328a7 UE4Editor-PropertyEditor.dll!UnknownFunction []
+[2019.10.01-10.40.24:474][130]LogOutputDevice: Error: [Callstack] 0x00007ffe4e03013f UE4Editor-PropertyEditor.dll!UnknownFunction []
+[2019.10.01-10.40.24:474][130]LogOutputDevice: Error: [Callstack] 0x00007ffe4dec8c90 UE4Editor-PropertyEditor.dll!UnknownFunction []
+[2019.10.01-10.40.24:474][130]LogOutputDevice: Error: [Callstack] 0x00007ffe4df27e12 UE4Editor-PropertyEditor.dll!UnknownFunction []
+[2019.10.01-10.40.24:474][130]LogOutputDevice: Error: [Callstack] 0x00007ffe4df1a89c UE4Editor-PropertyEditor.dll!UnknownFunction []
+[2019.10.01-10.40.24:474][130]LogOutputDevice: Error: [Callstack] 0x00007ffe4df1a75f UE4Editor-PropertyEditor.dll!UnknownFunction []
+[2019.10.01-10.40.24:474][130]LogOutputDevice: Error: [Callstack] 0x00007ffe4e14413a UE4Editor-PropertyEditor.dll!UnknownFunction []
+[2019.10.01-10.40.24:474][130]LogOutputDevice: Error: [Callstack] 0x00007ffe4dec6aeb UE4Editor-PropertyEditor.dll!UnknownFunction []
+[2019.10.01-10.40.24:474][130]LogOutputDevice: Error: [Callstack] 0x00007ffe4df0598e UE4Editor-PropertyEditor.dll!UnknownFunction []
+[2019.10.01-10.40.24:474][130]LogOutputDevice: Error: [Callstack] 0x00007ffe4e1be24c UE4Editor-PropertyEditor.dll!UnknownFunction []
+[2019.10.01-10.40.24:474][130]LogOutputDevice: Error: [Callstack] 0x00007ffe4e182dd3 UE4Editor-PropertyEditor.dll!UnknownFunction []
+[2019.10.01-10.40.24:474][130]LogOutputDevice: Error: [Callstack] 0x00007ffe4e195580 UE4Editor-PropertyEditor.dll!UnknownFunction []
+[2019.10.01-10.40.24:474][130]LogOutputDevice: Error: [Callstack] 0x00007ffe4e196d0b UE4Editor-PropertyEditor.dll!UnknownFunction []
+[2019.10.01-10.40.24:474][130]LogOutputDevice: Error: [Callstack] 0x00007ffe4e1d67bf UE4Editor-PropertyEditor.dll!UnknownFunction []
+[2019.10.01-10.40.24:474][130]LogOutputDevice: Error: [Callstack] 0x00007ffe67321ba6 UE4Editor-Slate.dll!UnknownFunction []
+[2019.10.01-10.40.24:474][130]LogOutputDevice: Error: [Callstack] 0x00007ffe4e1ed95a UE4Editor-PropertyEditor.dll!UnknownFunction []
+[2019.10.01-10.40.24:474][130]LogOutputDevice: Error: [Callstack] 0x00007ffe66e29a91 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.10.01-10.40.24:474][130]LogOutputDevice: Error: [Callstack] 0x00007ffe66e2855f UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.10.01-10.40.24:474][130]LogOutputDevice: Error: [Callstack] 0x00007ffe66e29db0 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.10.01-10.40.24:474][130]LogOutputDevice: Error: [Callstack] 0x00007ffe66e2a646 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.10.01-10.40.24:474][130]LogOutputDevice: Error: [Callstack] 0x00007ffe66e2868c UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.10.01-10.40.24:474][130]LogOutputDevice: Error: [Callstack] 0x00007ffe66e29db0 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.10.01-10.40.24:474][130]LogOutputDevice: Error: [Callstack] 0x00007ffe66e27c94 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.10.01-10.40.24:474][130]LogOutputDevice: Error: [Callstack] 0x00007ffe66e29db0 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.10.01-10.40.24:474][130]LogOutputDevice: Error: [Callstack] 0x00007ffe66e2a646 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.10.01-10.40.24:474][130]LogOutputDevice: Error: [Callstack] 0x00007ffe66e2868c UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.10.01-10.40.24:474][130]LogOutputDevice: Error: [Callstack] 0x00007ffe66e29db0 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.10.01-10.40.24:474][130]LogOutputDevice: Error: [Callstack] 0x00007ffe672cf4a9 UE4Editor-Slate.dll!UnknownFunction []
+[2019.10.01-10.40.24:474][130]LogOutputDevice: Error: [Callstack] 0x00007ffe66e29db0 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.10.01-10.40.24:474][130]LogOutputDevice: Error: [Callstack] 0x00007ffe66e2a646 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.10.01-10.40.24:474][130]LogOutputDevice: Error: [Callstack] 0x00007ffe66e2868c UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.10.01-10.40.24:474][130]LogOutputDevice: Error: [Callstack] 0x00007ffe66e29db0 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.10.01-10.40.24:474][130]LogOutputDevice: Error: [Callstack] 0x00007ffe66e27c94 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.10.01-10.40.24:474][130]LogOutputDevice: Error: [Callstack] 0x00007ffe672cf27e UE4Editor-Slate.dll!UnknownFunction []
+[2019.10.01-10.40.24:474][130]LogOutputDevice: Error: [Callstack] 0x00007ffe66e29db0 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.10.01-10.40.24:474][130]LogOutputDevice: Error: [Callstack] 0x00007ffe66e2a646 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.10.01-10.40.24:474][130]LogOutputDevice: Error: [Callstack] 0x00007ffe66e2868c UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.10.01-10.40.24:474][130]LogOutputDevice: Error: [Callstack] 0x00007ffe66e29db0 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.10.01-10.40.24:474][130]LogOutputDevice: Error: [Callstack] 0x00007ffe66e27c94 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.10.01-10.40.24:474][130]LogOutputDevice: Error: [Callstack] 0x00007ffe66e29db0 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.10.01-10.40.24:474][130]LogOutputDevice: Error: [Callstack] 0x00007ffe66e27c94 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.10.01-10.40.24:474][130]LogOutputDevice: Error: [Callstack] 0x00007ffe672cf27e UE4Editor-Slate.dll!UnknownFunction []
+[2019.10.01-10.40.24:474][130]LogOutputDevice: Error: [Callstack] 0x00007ffe66e29db0 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.10.01-10.40.24:474][130]LogOutputDevice: Error: [Callstack] 0x00007ffe66e2855f UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.10.01-10.40.24:474][130]LogOutputDevice: Error: [Callstack] 0x00007ffe66e29db0 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.10.01-10.40.24:474][130]LogOutputDevice: Error: [Callstack] 0x00007ffe66e2a646 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.10.01-10.40.24:474][130]LogOutputDevice: Error: [Callstack] 0x00007ffe66e2868c UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.10.01-10.40.24:474][130]LogOutputDevice: Error: [Callstack] 0x00007ffe66e29db0 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.10.01-10.40.24:474][130]LogOutputDevice: Error: [Callstack] 0x00007ffe66e27c94 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.10.01-10.40.24:474][130]LogOutputDevice: Error: [Callstack] 0x00007ffe66e29db0 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.10.01-10.40.24:474][130]LogOutputDevice: Error: [Callstack] 0x00007ffe66e2a646 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.10.01-10.40.24:474][130]LogOutputDevice: Error: [Callstack] 0x00007ffe672d3f64 UE4Editor-Slate.dll!UnknownFunction []
+[2019.10.01-10.40.24:474][130]LogOutputDevice: Error: [Callstack] 0x00007ffe66e29db0 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.10.01-10.40.24:474][130]LogOutputDevice: Error: [Callstack] 0x00007ffe66e2855f UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.10.01-10.40.24:474][130]LogOutputDevice: Error: [Callstack] 0x00007ffe66e29db0 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.10.01-10.40.24:474][130]LogOutputDevice: Error: [Callstack] 0x00007ffe66e27c94 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.10.01-10.40.24:474][130]LogOutputDevice: Error: [Callstack] 0x00007ffe66e29db0 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.10.01-10.40.24:474][130]LogOutputDevice: Error: [Callstack] 0x00007ffe66e2a646 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.10.01-10.40.24:474][130]LogOutputDevice: Error: [Callstack] 0x00007ffe66e2868c UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.10.01-10.40.24:475][130]LogOutputDevice: Error: [Callstack] 0x00007ffe66e29db0 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.10.01-10.40.24:475][130]LogOutputDevice: Error: [Callstack] 0x00007ffe66e27c94 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.10.01-10.40.24:475][130]LogOutputDevice: Error: [Callstack] 0x00007ffe66e29db0 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.10.01-10.40.24:475][130]LogOutputDevice: Error: [Callstack] 0x00007ffe66e27c94 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.10.01-10.40.24:475][130]LogOutputDevice: Error: [Callstack] 0x00007ffe672cf27e UE4Editor-Slate.dll!UnknownFunction []
+[2019.10.01-10.40.24:475][130]LogOutputDevice: Error: [Callstack] 0x00007ffe66e29db0 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.10.01-10.40.24:475][130]LogOutputDevice: Error: [Callstack] 0x00007ffe66e2855f UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.10.01-10.40.24:475][130]LogOutputDevice: Error: [Callstack] 0x00007ffe66e29db0 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.10.01-10.40.24:475][130]LogOutputDevice: Error: [Callstack] 0x00007ffe66e2a646 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.10.01-10.40.24:475][130]LogOutputDevice: Error: [Callstack] 0x00007ffe66e2868c UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.10.01-10.40.24:475][130]LogOutputDevice: Error: [Callstack] 0x00007ffe66e29db0 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.10.01-10.40.24:475][130]LogOutputDevice: Error: [Callstack] 0x00007ffe66e27c94 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.10.01-10.40.24:475][130]LogOutputDevice: Error: [Callstack] 0x00007ffe66e29db0 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.10.01-10.40.24:475][130]LogOutputDevice: Error: [Callstack] 0x00007ffe66e2a646 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.10.01-10.40.24:475][130]LogOutputDevice: Error: [Callstack] 0x00007ffe672d3f64 UE4Editor-Slate.dll!UnknownFunction []
+[2019.10.01-10.40.24:475][130]LogOutputDevice: Error: [Callstack] 0x00007ffe66e29db0 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.10.01-10.40.24:475][130]LogOutputDevice: Error: [Callstack] 0x00007ffe66e2855f UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.10.01-10.40.24:475][130]LogOutputDevice: Error: [Callstack] 0x00007ffe66e29db0 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.10.01-10.40.24:475][130]LogOutputDevice: Error: [Callstack] 0x00007ffe66e27c94 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.10.01-10.40.24:475][130]LogOutputDevice: Error: [Callstack] 0x00007ffe66e29db0 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.10.01-10.40.24:475][130]LogOutputDevice: Error: [Callstack] 0x00007ffe66e2a646 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.10.01-10.40.24:475][130]LogOutputDevice: Error: [Callstack] 0x00007ffe66e2868c UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.10.01-10.40.24:475][130]LogOutputDevice: Error: [Callstack] 0x00007ffe66e29db0 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.10.01-10.40.24:475][130]LogOutputDevice: Error: [Callstack] 0x00007ffe66e2a646 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.10.01-10.40.24:475][130]LogOutputDevice: Error: [Callstack] 0x00007ffe66e2868c UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.10.01-10.40.24:475][130]LogOutputDevice: Error: [Callstack] 0x00007ffe66e29db0 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.10.01-10.40.24:475][130]LogOutputDevice: Error: [Callstack] 0x00007ffe66e2855f UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.10.01-10.40.24:475][130]LogOutputDevice: Error: [Callstack] 0x00007ffe66e29db0 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.10.01-10.40.24:475][130]LogOutputDevice: Error: [Callstack] 0x00007ffe66e27c94 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.10.01-10.40.24:475][130]LogOutputDevice: Error: [Callstack] 0x00007ffe66e2872a UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.10.01-10.40.24:475][130]LogOutputDevice: Error: [Callstack] 0x00007ffe66e29db0 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.10.01-10.40.24:475][130]LogOutputDevice: Error: [Callstack] 0x00007ffe66e2a75e UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.10.01-10.40.24:475][130]LogOutputDevice: Error: [Callstack] 0x00007ffe670c39e6 UE4Editor-Slate.dll!UnknownFunction []
+[2019.10.01-10.40.24:475][130]LogOutputDevice: Error: 
+[2019.10.01-10.40.24:478][130]LogStats:                SubmitErrorReport -  0.000 s
